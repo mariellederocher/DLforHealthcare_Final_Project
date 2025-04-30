@@ -1,0 +1,240 @@
+abdominal distension symptom
+age at first symptom
+agoraphobia without history of panic disorder with limited symptom attacks
+agoraphobia without history of panic disorder without limited symptom attacks
+allergic disorder - symptom change
+american neurogastroenterology and motility society gastroparesis cardinal symptom index-daily diary
+assessment of symptom control
+assessment using american neurogastroenterology and motility society gastroparesis cardinal symptom index-daily diary
+assessment using i-pss (international prostate symptom score)
+assessment using pos-s renal (palliative care outcome scale symptom list for end-stage renal disease)
+assessment using psychotic symptom rating scale
+assessment using psychotic symptom rating scales auditory hallucination subscale
+assessment using psychotic symptom rating scales delusions subscale
+belching symptom
+bodily distress disorder
+breast symptom of change in nipple
+breast symptom of change in skin
+breathing aggravates symptom
+cancer pain and symptom management
+chief complaint
+chief complaint section
+client satisfaction: symptom control
+clinical outcomes in routine evaluation outcome measure problems symptom score
+cold aggravates symptom
+cold relieves symptom
+common eye and/or eyelid symptom
+cough aggravates symptom
+date symptom of pregnancy first noted
+deficient knowledge of symptom
+diarrhea symptom
+digestive symptom
+disorder caused by ureteric stent
+dissociative neurological disorder with symptom of alteration of sensation
+dissociative neurological disorder with symptom of movement disorder
+dissociative neurological disorder with symptom of weakness
+dissociative neurological symptom disorder co-occurrent with alteration of consciousness
+dissociative neurological symptom disorder co-occurrent with auditory symptom
+dissociative neurological symptom disorder co-occurrent with chorea
+dissociative neurological symptom disorder co-occurrent with cognitive impairment
+dissociative neurological symptom disorder co-occurrent with dizziness
+dissociative neurological symptom disorder co-occurrent with dystonia
+dissociative neurological symptom disorder co-occurrent with facial spasm
+dissociative neurological symptom disorder co-occurrent with myoclonus
+dissociative neurological symptom disorder co-occurrent with parkinsonism
+dissociative neurological symptom disorder co-occurrent with symptom of speech production
+dissociative neurological symptom disorder co-occurrent with symptoms of gait disorder
+dissociative neurological symptom disorder with aphonia
+dissociative neurological symptom disorder with dysphonia
+dissociative neurological symptom disorder with muteness
+dissociative neurological symptom disorder with swallowing symptom
+dissociative neurological symptom disorder with tremor
+dissociative neurological symptom disorder with visual symptom
+edmonton symptom assessment system
+education about symptom control
+encounter for symptom
+endocrine symptom change
+ent symptom change
+exercise aggravates symptom
+exercise relieves symptom
+extrapyramidal sign
+eye symptom
+feces/motions - symptoms
+feeding problem symptom
+flatulence symptom
+fluid intake symptom
+food aggravates symptom
+food relieves symptom
+formal complaint about gp
+formal complaint about gp re: relative
+formal complaint about gp re: self
+formal complaint about hospital care
+formal complaint about hospital care re: relative
+formal complaint about hospital care re: self
+formal complaint about medical care
+formal complaint about private specialist
+formal complaint about private specialist re: relative
+formal complaint about private specialist re: self
+frequency of pain symptom
+functional neurological disorder
+gastrointestinal symptom
+gastrointestinal tract symptom change
+general problem and/or complaint
+general symptom description
+gynecological symptom change
+has symptom every few days
+has symptom every few hours
+has symptom every few minutes
+has the symptom daily
+has the symptom hourly
+has the symptom monthly
+has the symptom weekly
+has the symptom yearly
+heat aggravates symptom
+heat relieves symptom
+hopkins symptom checklist
+incoordination symptom
+international prostate symptom score
+knowledge level of symptom
+knows how to make a complaint
+lack of symptom control
+leg swelling symptom
+lymphoma staging symptom status
+lymphoma staging symptom status a
+lymphoma staging symptom status b
+lymphoma staging symptom status values
+management of withdrawal symptom
+mechanical knee joint symptom
+medically unexplained symptom
+menopausal symptom
+monosodium glutamate symptom complex
+movement aggravates symptom
+movement relieves symptom
+nasal symptom
+neurological symptom
+neurological symptom changes
+nipple discharge symptom
+no cardiovascular symptom
+no ear, nose or throat symptom
+no gastrointestinal symptom
+no genitourinary symptom
+no motor symptom
+no nervous system symptom
+no symptom aggravating factor
+no symptom pattern
+no symptom relieving factor
+no temperature symptom
+no throat symptom
+no visual symptom
+onset of symptom speed
+ophthalmological symptom change
+pain and symptom management
+palliative debulking of neoplasm for symptom relief
+pathognomonic symptom
+pcl-5 - post-traumatic stress disorder checklist for dsm-5 (diagnostic and statistical manual of mental disorders - fifth edition) total symptom severity score
+pediatric symptom checklist score
+pos-s renal (palliative care outcome scale symptom list for end-stage renal disease)
+pos-s renal (palliative care outcome scale symptom list for end-stage renal disease) score
+premenstrual symptom
+primary nutrition concern
+prodrome
+projection - mental defense mechanism
+promotion of self management of symptom
+psychiatric sign or symptom
+psychiatric symptom
+psychiatric symptom changes
+psychogenic symptom of special sense organ
+psychological sign or symptom
+psychological symptom
+psychological symptom due to dementia
+psychomotor symptom co-occurrent and due to psychotic disorder
+psychotic symptom
+psychotic symptom finding
+psychotic symptom present
+psychotic symptom rating scale
+psychotic symptom rating scales auditory hallucination subscale
+psychotic symptom rating scales auditory hallucination subscale cognitive interpretation score
+psychotic symptom rating scales auditory hallucination subscale emotional characteristics score
+psychotic symptom rating scales auditory hallucination subscale physical characteristics score
+psychotic symptom rating scales auditory hallucination subscale score
+psychotic symptom rating scales delusions subscale
+psychotic symptom rating scales delusions subscale cognitive interpretation score
+psychotic symptom rating scales delusions subscale emotional characteristics score
+psychotic symptom rating scales delusions subscale score
+psychotic symptom rating scales observable
+psychotic symptom rating scales total score
+relief of symptom on limb elevation
+repeat prescription for symptom change
+rest relieves symptom
+rheumatology symptom change
+rotterdam symptom check list
+sign or symptom
+skin symptom change
+sneezing symptom
+soiling symptom
+sputum - symptom
+stiff neck symptom
+sweating symptom
+symptom aggravating factors
+symptom checklist
+symptom control
+symptom control behavior
+symptom distribution
+symptom findings in relation to frequency
+symptom findings in relation to start time
+symptom findings in relation to time
+symptom findings in relation to time lasts
+symptom frequency
+symptom has changed
+symptom is continuous
+symptom lasts days
+symptom lasts hours
+symptom lasts minutes
+symptom lasts months
+symptom lasts seconds
+symptom lasts weeks
+symptom management
+symptom mild
+symptom moderate
+symptom modification
+symptom not changed
+symptom occurs at night
+symptom pattern
+symptom ratings
+symptom relieving factors
+symptom severe
+symptom severity
+symptom severity level
+symptom severity level: perimenopause
+symptom severity level: premenstrual syndrome
+symptom started days ago
+symptom started gradually
+symptom started hours ago
+symptom started minutes ago
+symptom started months ago
+symptom started suddenly
+symptom started weeks ago
+symptom started years ago
+symptom trivial
+symptom validity test
+symptom very severe
+symptom: abdominal wall
+symptom: generalized
+symptom: genital area
+symptom: trunk posterior
+symptom: upper limb
+syncope symptom
+temporal measure of symptom
+thyroid symptom change
+time of symptom onset
+time since symptom started
+time symptom lasts
+total international prostate symptom score
+urinary symptom change
+use of asthma symptom diary
+vaginal discharge symptom
+vasovagal symptom
+visick symptom grade
+vomiting symptom
+wheezing symptom
+withdrawal symptom

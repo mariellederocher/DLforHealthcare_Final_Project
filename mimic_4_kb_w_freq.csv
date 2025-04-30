@@ -1,0 +1,2442 @@
+diagnosis,symptom,frequency
+Do not resuscitate status,fatigue,0.2857142857142857
+Do not resuscitate status,headache,0.14285714285714285
+Do not resuscitate status,cough,0.14285714285714285
+Do not resuscitate status,abdominal pain,0.14285714285714285
+Do not resuscitate status,shortness of breath,0.14285714285714285
+Do not resuscitate status,hip pain,0.14285714285714285
+Cervicalgia,cough,0.2
+Cervicalgia,diarrhea,0.2
+Cervicalgia,leg pain,0.2
+Cervicalgia,headache,0.4
+Closed fracture of fourth cervical vertebra,numbness,0.16666666666666666
+Closed fracture of fourth cervical vertebra,dizziness,0.16666666666666666
+Closed fracture of fourth cervical vertebra,cough,0.16666666666666666
+Closed fracture of fourth cervical vertebra,shoulder pain,0.16666666666666666
+Closed fracture of fourth cervical vertebra,diarrhea,0.16666666666666666
+Closed fracture of fourth cervical vertebra,abdominal pain,0.16666666666666666
+Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),numbness,0.2222222222222222
+Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),cough,0.1111111111111111
+Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),shortness of breath,0.2222222222222222
+Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),diarrhea,0.2222222222222222
+Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),abdominal pain,0.2222222222222222
+Personal history of urinary calculi,cough,0.15384615384615385
+Personal history of urinary calculi,shortness of breath,0.15384615384615385
+Personal history of urinary calculi,hip pain,0.07692307692307693
+Personal history of urinary calculi,diarrhea,0.23076923076923078
+Personal history of urinary calculi,abdominal pain,0.15384615384615385
+Personal history of urinary calculi,dizziness,0.07692307692307693
+Personal history of urinary calculi,nausea and vomiting,0.07692307692307693
+Personal history of urinary calculi,headache,0.07692307692307693
+Hyperpotassemia,wheezing,0.2
+Hyperpotassemia,abdominal pain,0.1
+Hyperpotassemia,fatigue,0.1
+Hyperpotassemia,diarrhea,0.15
+Hyperpotassemia,headache,0.1
+Hyperpotassemia,shortness of breath,0.05
+Hyperpotassemia,numbness,0.1
+Hyperpotassemia,dizziness,0.05
+Hyperpotassemia,cough,0.05
+Hyperpotassemia,leg pain,0.05
+Hyperpotassemia,arm pain,0.05
+Insulin pump status,cough,0.3333333333333333
+Insulin pump status,diarrhea,0.3333333333333333
+Insulin pump status,runny nose,0.3333333333333333
+Other and unspecified hyperlipidemia,wheezing,0.03636363636363636
+Other and unspecified hyperlipidemia,cough,0.12727272727272726
+Other and unspecified hyperlipidemia,shortness of breath,0.14545454545454545
+Other and unspecified hyperlipidemia,night sweats,0.10909090909090909
+Other and unspecified hyperlipidemia,diarrhea,0.16363636363636364
+Other and unspecified hyperlipidemia,abdominal pain,0.2
+Other and unspecified hyperlipidemia,numbness,0.03636363636363636
+Other and unspecified hyperlipidemia,headache,0.09090909090909091
+Other and unspecified hyperlipidemia,blood clots,0.01818181818181818
+Other and unspecified hyperlipidemia,dizziness,0.03636363636363636
+Other and unspecified hyperlipidemia,hip pain,0.01818181818181818
+Other and unspecified hyperlipidemia,unexplained weight loss,0.01818181818181818
+"Dementia, unspecified, without behavioral disturbance",dizziness,0.1111111111111111
+"Dementia, unspecified, without behavioral disturbance",cough,0.1111111111111111
+"Dementia, unspecified, without behavioral disturbance",shoulder pain,0.1111111111111111
+"Dementia, unspecified, without behavioral disturbance",shortness of breath,0.1111111111111111
+"Dementia, unspecified, without behavioral disturbance",night sweats,0.1111111111111111
+"Dementia, unspecified, without behavioral disturbance",diarrhea,0.1111111111111111
+"Dementia, unspecified, without behavioral disturbance",abdominal pain,0.1111111111111111
+"Dementia, unspecified, without behavioral disturbance",watery eyes,0.1111111111111111
+"Dementia, unspecified, without behavioral disturbance",headache,0.1111111111111111
+Coronary atherosclerosis of native coronary artery,diarrhea,0.10714285714285714
+Coronary atherosclerosis of native coronary artery,dizziness,0.07142857142857142
+Coronary atherosclerosis of native coronary artery,shoulder pain,0.03571428571428571
+Coronary atherosclerosis of native coronary artery,cough,0.10714285714285714
+Coronary atherosclerosis of native coronary artery,shortness of breath,0.17857142857142858
+Coronary atherosclerosis of native coronary artery,hip pain,0.03571428571428571
+Coronary atherosclerosis of native coronary artery,arm pain,0.03571428571428571
+Coronary atherosclerosis of native coronary artery,nausea and vomiting,0.03571428571428571
+Coronary atherosclerosis of native coronary artery,abdominal pain,0.10714285714285714
+Coronary atherosclerosis of native coronary artery,fatigue,0.07142857142857142
+Coronary atherosclerosis of native coronary artery,headache,0.07142857142857142
+Coronary atherosclerosis of native coronary artery,heel pain,0.03571428571428571
+Coronary atherosclerosis of native coronary artery,wheezing,0.03571428571428571
+Coronary atherosclerosis of native coronary artery,night sweats,0.03571428571428571
+Coronary atherosclerosis of native coronary artery,foot pain,0.03571428571428571
+Incisional hernia without mention of obstruction or gangrene,blood clots,0.5
+Incisional hernia without mention of obstruction or gangrene,shortness of breath,0.5
+Obesity hypoventilation syndrome,wheezing,0.5
+Obesity hypoventilation syndrome,cough,0.5
+Esophageal reflux,wheezing,0.07894736842105263
+Esophageal reflux,cough,0.13157894736842105
+Esophageal reflux,blood clots,0.05263157894736842
+Esophageal reflux,diarrhea,0.10526315789473684
+Esophageal reflux,night sweats,0.07894736842105263
+Esophageal reflux,shortness of breath,0.18421052631578946
+Esophageal reflux,abdominal pain,0.15789473684210525
+Esophageal reflux,headache,0.07894736842105263
+Esophageal reflux,fatigue,0.05263157894736842
+Esophageal reflux,leg swelling,0.02631578947368421
+Esophageal reflux,dizziness,0.02631578947368421
+Esophageal reflux,hip pain,0.02631578947368421
+"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",numbness,0.15
+"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",headache,0.1
+"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",cough,0.25
+"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",ankle pain,0.05
+"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",wheezing,0.05
+"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",abdominal pain,0.1
+"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",diarrhea,0.1
+"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",shortness of breath,0.1
+"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",night sweats,0.05
+"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",fatigue,0.05
+Unspecified viral hepatitis C without hepatic coma,dizziness,0.06666666666666667
+Unspecified viral hepatitis C without hepatic coma,cough,0.2
+Unspecified viral hepatitis C without hepatic coma,shortness of breath,0.13333333333333333
+Unspecified viral hepatitis C without hepatic coma,unexplained weight loss,0.06666666666666667
+Unspecified viral hepatitis C without hepatic coma,nausea and vomiting,0.06666666666666667
+Unspecified viral hepatitis C without hepatic coma,abdominal pain,0.2
+Unspecified viral hepatitis C without hepatic coma,headache,0.13333333333333333
+Unspecified viral hepatitis C without hepatic coma,numbness,0.06666666666666667
+Unspecified viral hepatitis C without hepatic coma,diarrhea,0.06666666666666667
+Gastro-esophageal reflux disease without esophagitis,nausea and vomiting,0.05405405405405406
+Gastro-esophageal reflux disease without esophagitis,abdominal pain,0.16216216216216217
+Gastro-esophageal reflux disease without esophagitis,shortness of breath,0.16216216216216217
+Gastro-esophageal reflux disease without esophagitis,fatigue,0.05405405405405406
+Gastro-esophageal reflux disease without esophagitis,cough,0.13513513513513514
+Gastro-esophageal reflux disease without esophagitis,diarrhea,0.10810810810810811
+Gastro-esophageal reflux disease without esophagitis,night sweats,0.05405405405405406
+Gastro-esophageal reflux disease without esophagitis,leg pain,0.02702702702702703
+Gastro-esophageal reflux disease without esophagitis,numbness,0.02702702702702703
+Gastro-esophageal reflux disease without esophagitis,joint pain,0.02702702702702703
+Gastro-esophageal reflux disease without esophagitis,wheezing,0.05405405405405406
+Gastro-esophageal reflux disease without esophagitis,shoulder pain,0.02702702702702703
+Gastro-esophageal reflux disease without esophagitis,eye pain,0.02702702702702703
+Gastro-esophageal reflux disease without esophagitis,headache,0.05405405405405406
+Gastro-esophageal reflux disease without esophagitis,dizziness,0.02702702702702703
+Unspecified intestinal obstruction,wheezing,0.08333333333333333
+Unspecified intestinal obstruction,cough,0.16666666666666666
+Unspecified intestinal obstruction,diarrhea,0.16666666666666666
+Unspecified intestinal obstruction,abdominal pain,0.16666666666666666
+Unspecified intestinal obstruction,petechiae,0.08333333333333333
+Unspecified intestinal obstruction,numbness,0.08333333333333333
+Unspecified intestinal obstruction,dizziness,0.08333333333333333
+Unspecified intestinal obstruction,shortness of breath,0.08333333333333333
+Unspecified intestinal obstruction,headache,0.08333333333333333
+"Chronic kidney disease, Stage III (moderate)",shortness of breath,0.25
+"Chronic kidney disease, Stage III (moderate)",fatigue,0.125
+"Chronic kidney disease, Stage III (moderate)",wheezing,0.125
+"Chronic kidney disease, Stage III (moderate)",cough,0.125
+"Chronic kidney disease, Stage III (moderate)",leg pain,0.125
+"Chronic kidney disease, Stage III (moderate)",abdominal pain,0.125
+"Chronic kidney disease, Stage III (moderate)",headache,0.125
+Personal history of tobacco use,wheezing,0.07142857142857142
+Personal history of tobacco use,cough,0.21428571428571427
+Personal history of tobacco use,shortness of breath,0.14285714285714285
+Personal history of tobacco use,diarrhea,0.14285714285714285
+Personal history of tobacco use,runny nose,0.07142857142857142
+Personal history of tobacco use,abdominal pain,0.21428571428571427
+Personal history of tobacco use,numbness,0.07142857142857142
+Personal history of tobacco use,headache,0.07142857142857142
+"Pressure ulcer of other site, unspecified stage",cough,0.3333333333333333
+"Pressure ulcer of other site, unspecified stage",eosinophilia,0.3333333333333333
+"Pressure ulcer of other site, unspecified stage",diarrhea,0.3333333333333333
+Acidosis,cough,0.4
+Acidosis,abdominal pain,0.2
+Acidosis,numbness,0.2
+Acidosis,headache,0.2
+"Epilepsy, unspecified, not intractable, without status epilepticus",abdominal pain,0.5
+"Epilepsy, unspecified, not intractable, without status epilepticus",headache,0.5
+Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use,dizziness,0.16666666666666666
+Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use,cough,0.16666666666666666
+Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use,diarrhea,0.16666666666666666
+Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use,nausea and vomiting,0.16666666666666666
+Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use,abdominal pain,0.16666666666666666
+Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use,headache,0.16666666666666666
+"Bronchiectasis, uncomplicated",wheezing,0.25
+"Bronchiectasis, uncomplicated",cough,0.25
+"Bronchiectasis, uncomplicated",shortness of breath,0.25
+"Bronchiectasis, uncomplicated",leg swelling,0.25
+"Thrombocytopenia, unspecified",abdominal pain,0.2
+"Thrombocytopenia, unspecified",diarrhea,0.13333333333333333
+"Thrombocytopenia, unspecified",blood clots,0.13333333333333333
+"Thrombocytopenia, unspecified",fatigue,0.06666666666666667
+"Thrombocytopenia, unspecified",dizziness,0.06666666666666667
+"Thrombocytopenia, unspecified",wheezing,0.06666666666666667
+"Thrombocytopenia, unspecified",cough,0.13333333333333333
+"Thrombocytopenia, unspecified",shortness of breath,0.13333333333333333
+"Thrombocytopenia, unspecified",headache,0.06666666666666667
+Essential (primary) hypertension,numbness,0.09433962264150944
+Essential (primary) hypertension,shortness of breath,0.1320754716981132
+Essential (primary) hypertension,fatigue,0.09433962264150944
+Essential (primary) hypertension,muscle pain,0.018867924528301886
+Essential (primary) hypertension,petechiae,0.03773584905660377
+Essential (primary) hypertension,cough,0.1320754716981132
+Essential (primary) hypertension,night sweats,0.05660377358490566
+Essential (primary) hypertension,diarrhea,0.05660377358490566
+Essential (primary) hypertension,abdominal pain,0.11320754716981132
+Essential (primary) hypertension,headache,0.09433962264150944
+Essential (primary) hypertension,wheezing,0.07547169811320754
+Essential (primary) hypertension,blood clots,0.03773584905660377
+Essential (primary) hypertension,dizziness,0.03773584905660377
+Essential (primary) hypertension,leg pain,0.018867924528301886
+Unspecified acquired hypothyroidism,wheezing,0.037037037037037035
+Unspecified acquired hypothyroidism,cough,0.18518518518518517
+Unspecified acquired hypothyroidism,shortness of breath,0.14814814814814814
+Unspecified acquired hypothyroidism,diarrhea,0.1111111111111111
+Unspecified acquired hypothyroidism,abdominal pain,0.14814814814814814
+Unspecified acquired hypothyroidism,headache,0.1111111111111111
+Unspecified acquired hypothyroidism,numbness,0.037037037037037035
+Unspecified acquired hypothyroidism,dizziness,0.037037037037037035
+Unspecified acquired hypothyroidism,fatigue,0.037037037037037035
+Unspecified acquired hypothyroidism,breast calcifications,0.037037037037037035
+Unspecified acquired hypothyroidism,night sweats,0.037037037037037035
+Unspecified acquired hypothyroidism,vaginal bleeding,0.037037037037037035
+Unspecified acquired hypothyroidism,leg swelling,0.037037037037037035
+Hypopotassemia,diarrhea,0.5
+Hypopotassemia,fatigue,0.5
+Chronic embolism and thrombosis of left femoral vein,wheezing,0.3333333333333333
+Chronic embolism and thrombosis of left femoral vein,cough,0.3333333333333333
+Chronic embolism and thrombosis of left femoral vein,shortness of breath,0.3333333333333333
+"Fracture of subcondylar process of right mandible, initial encounter for open fracture",shortness of breath,0.5
+"Fracture of subcondylar process of right mandible, initial encounter for open fracture",dizziness,0.5
+"Pressure ulcer of sacral region, stage 2",dizziness,0.16666666666666666
+"Pressure ulcer of sacral region, stage 2",wheezing,0.16666666666666666
+"Pressure ulcer of sacral region, stage 2",cough,0.16666666666666666
+"Pressure ulcer of sacral region, stage 2",shortness of breath,0.16666666666666666
+"Pressure ulcer of sacral region, stage 2",diarrhea,0.16666666666666666
+"Pressure ulcer of sacral region, stage 2",abdominal pain,0.16666666666666666
+"Malignant neoplasm of pancreas, part unspecified",shortness of breath,0.3333333333333333
+"Malignant neoplasm of pancreas, part unspecified",abdominal pain,0.3333333333333333
+"Malignant neoplasm of pancreas, part unspecified",diarrhea,0.3333333333333333
+"Outcome of delivery, single liveborn",dizziness,0.2
+"Outcome of delivery, single liveborn",vaginal bleeding,0.2
+"Outcome of delivery, single liveborn",shortness of breath,0.2
+"Outcome of delivery, single liveborn",diarrhea,0.2
+"Outcome of delivery, single liveborn",abdominal pain,0.2
+Rheumatic tricuspid insufficiency,cough,0.25
+Rheumatic tricuspid insufficiency,diarrhea,0.25
+Rheumatic tricuspid insufficiency,shortness of breath,0.25
+Rheumatic tricuspid insufficiency,fatigue,0.25
+Long term (current) use of anticoagulants,cough,0.13333333333333333
+Long term (current) use of anticoagulants,diarrhea,0.13333333333333333
+Long term (current) use of anticoagulants,shortness of breath,0.2
+Long term (current) use of anticoagulants,abdominal pain,0.13333333333333333
+Long term (current) use of anticoagulants,leg swelling,0.13333333333333333
+Long term (current) use of anticoagulants,numbness,0.06666666666666667
+Long term (current) use of anticoagulants,fatigue,0.13333333333333333
+Long term (current) use of anticoagulants,foot pain,0.06666666666666667
+Benign essential hypertension,abdominal pain,0.2857142857142857
+Benign essential hypertension,diarrhea,0.2857142857142857
+Benign essential hypertension,dizziness,0.2857142857142857
+Benign essential hypertension,pelvic pain,0.14285714285714285
+"Insomnia, unspecified",cough,0.16129032258064516
+"Insomnia, unspecified",shortness of breath,0.12903225806451613
+"Insomnia, unspecified",diarrhea,0.16129032258064516
+"Insomnia, unspecified",night sweats,0.0967741935483871
+"Insomnia, unspecified",abdominal pain,0.12903225806451613
+"Insomnia, unspecified",headache,0.12903225806451613
+"Insomnia, unspecified",fatigue,0.06451612903225806
+"Insomnia, unspecified",brain lesions,0.03225806451612903
+"Insomnia, unspecified",wheezing,0.03225806451612903
+"Insomnia, unspecified",nausea and vomiting,0.03225806451612903
+"Insomnia, unspecified",numbness,0.03225806451612903
+"Osteoporosis, unspecified",numbness,0.2
+"Osteoporosis, unspecified",shortness of breath,0.2
+"Osteoporosis, unspecified",dizziness,0.2
+"Osteoporosis, unspecified",diarrhea,0.2
+"Osteoporosis, unspecified",headache,0.2
+Type 2 diabetes mellitus with diabetic polyneuropathy,blood clots,0.25
+Type 2 diabetes mellitus with diabetic polyneuropathy,shoulder pain,0.25
+Type 2 diabetes mellitus with diabetic polyneuropathy,arm pain,0.25
+Type 2 diabetes mellitus with diabetic polyneuropathy,dizziness,0.25
+"Adverse effect of anticoagulants, initial encounter",fatigue,0.1
+"Adverse effect of anticoagulants, initial encounter",cough,0.2
+"Adverse effect of anticoagulants, initial encounter",diarrhea,0.2
+"Adverse effect of anticoagulants, initial encounter",shortness of breath,0.1
+"Adverse effect of anticoagulants, initial encounter",abdominal pain,0.1
+"Adverse effect of anticoagulants, initial encounter",eye pain,0.1
+"Adverse effect of anticoagulants, initial encounter",night sweats,0.1
+"Adverse effect of anticoagulants, initial encounter",leg swelling,0.1
+Acquired absence of intestine (large) (small),cough,0.1
+Acquired absence of intestine (large) (small),shortness of breath,0.1
+Acquired absence of intestine (large) (small),night sweats,0.1
+Acquired absence of intestine (large) (small),diarrhea,0.1
+Acquired absence of intestine (large) (small),nausea and vomiting,0.1
+Acquired absence of intestine (large) (small),leg pain,0.1
+Acquired absence of intestine (large) (small),abdominal pain,0.1
+Acquired absence of intestine (large) (small),leg swelling,0.1
+Acquired absence of intestine (large) (small),foot pain,0.1
+Acquired absence of intestine (large) (small),headache,0.1
+Unspecified protein-calorie malnutrition,headache,1.0
+Unspecified essential hypertension,shortness of breath,0.1956521739130435
+Unspecified essential hypertension,abdominal pain,0.13043478260869565
+Unspecified essential hypertension,diarrhea,0.15217391304347827
+Unspecified essential hypertension,wheezing,0.043478260869565216
+Unspecified essential hypertension,cough,0.10869565217391304
+Unspecified essential hypertension,blood clots,0.06521739130434782
+Unspecified essential hypertension,leg pain,0.021739130434782608
+Unspecified essential hypertension,ankle pain,0.021739130434782608
+Unspecified essential hypertension,numbness,0.06521739130434782
+Unspecified essential hypertension,hip pain,0.021739130434782608
+Unspecified essential hypertension,headache,0.10869565217391304
+Unspecified essential hypertension,shoulder pain,0.021739130434782608
+Unspecified essential hypertension,dizziness,0.021739130434782608
+Unspecified essential hypertension,night sweats,0.021739130434782608
+"Intestinal infection due to other organism, not elsewhere classified",abdominal pain,0.25
+"Intestinal infection due to other organism, not elsewhere classified",diarrhea,0.25
+"Intestinal infection due to other organism, not elsewhere classified",dizziness,0.25
+"Intestinal infection due to other organism, not elsewhere classified",headache,0.25
+Hematoma complicating a procedure,cough,1.0
+Personal history of venous thrombosis and embolism,vaginal bleeding,0.08333333333333333
+Personal history of venous thrombosis and embolism,cough,0.16666666666666666
+Personal history of venous thrombosis and embolism,shortness of breath,0.16666666666666666
+Personal history of venous thrombosis and embolism,diarrhea,0.16666666666666666
+Personal history of venous thrombosis and embolism,abdominal pain,0.08333333333333333
+Personal history of venous thrombosis and embolism,wheezing,0.16666666666666666
+Personal history of venous thrombosis and embolism,headache,0.08333333333333333
+Personal history of venous thrombosis and embolism,joint pain,0.08333333333333333
+"Congestive heart failure, unspecified",shortness of breath,0.2222222222222222
+"Congestive heart failure, unspecified",hip pain,0.05555555555555555
+"Congestive heart failure, unspecified",cough,0.16666666666666666
+"Congestive heart failure, unspecified",diarrhea,0.16666666666666666
+"Congestive heart failure, unspecified",dizziness,0.1111111111111111
+"Congestive heart failure, unspecified",leg swelling,0.05555555555555555
+"Congestive heart failure, unspecified",wheezing,0.05555555555555555
+"Congestive heart failure, unspecified",nausea and vomiting,0.05555555555555555
+"Congestive heart failure, unspecified",abdominal pain,0.05555555555555555
+"Congestive heart failure, unspecified",petechiae,0.05555555555555555
+"Vascular disorder of intestine, unspecified",dizziness,0.2
+"Vascular disorder of intestine, unspecified",wheezing,0.2
+"Vascular disorder of intestine, unspecified",cough,0.2
+"Vascular disorder of intestine, unspecified",abdominal pain,0.2
+"Vascular disorder of intestine, unspecified",foot pain,0.2
+"Adverse effect of other antidysrhythmic drugs, initial encounter",shortness of breath,0.3333333333333333
+"Adverse effect of other antidysrhythmic drugs, initial encounter",dizziness,0.3333333333333333
+"Adverse effect of other antidysrhythmic drugs, initial encounter",fatigue,0.3333333333333333
+Abdominal aneurysm without mention of rupture,numbness,0.14285714285714285
+Abdominal aneurysm without mention of rupture,joint pain,0.14285714285714285
+Abdominal aneurysm without mention of rupture,wheezing,0.14285714285714285
+Abdominal aneurysm without mention of rupture,shoulder pain,0.14285714285714285
+Abdominal aneurysm without mention of rupture,shortness of breath,0.14285714285714285
+Abdominal aneurysm without mention of rupture,night sweats,0.14285714285714285
+Abdominal aneurysm without mention of rupture,arm pain,0.14285714285714285
+History of fall,cough,0.5
+History of fall,abdominal pain,0.5
+Other retention of urine,diarrhea,1.0
+Hypovolemia,abdominal pain,0.2
+Hypovolemia,night sweats,0.1
+Hypovolemia,diarrhea,0.2
+Hypovolemia,wheezing,0.1
+Hypovolemia,blood clots,0.2
+Hypovolemia,dizziness,0.1
+Hypovolemia,nausea and vomiting,0.1
+Fistula of stomach and duodenum,cough,0.25
+Fistula of stomach and duodenum,abdominal pain,0.25
+Fistula of stomach and duodenum,elbow pain,0.25
+Fistula of stomach and duodenum,shortness of breath,0.25
+Antiphospholipid syndrome,numbness,0.16666666666666666
+Antiphospholipid syndrome,fatigue,0.16666666666666666
+Antiphospholipid syndrome,cough,0.16666666666666666
+Antiphospholipid syndrome,shortness of breath,0.16666666666666666
+Antiphospholipid syndrome,diarrhea,0.16666666666666666
+Antiphospholipid syndrome,abdominal pain,0.16666666666666666
+Atrial fibrillation,headache,0.09090909090909091
+Atrial fibrillation,shoulder pain,0.045454545454545456
+Atrial fibrillation,numbness,0.09090909090909091
+Atrial fibrillation,foot pain,0.045454545454545456
+Atrial fibrillation,fatigue,0.045454545454545456
+Atrial fibrillation,abdominal pain,0.09090909090909091
+Atrial fibrillation,shortness of breath,0.18181818181818182
+Atrial fibrillation,dizziness,0.045454545454545456
+Atrial fibrillation,diarrhea,0.09090909090909091
+Atrial fibrillation,blood clots,0.045454545454545456
+Atrial fibrillation,hip pain,0.045454545454545456
+Atrial fibrillation,cough,0.09090909090909091
+Atrial fibrillation,leg swelling,0.045454545454545456
+Atrial fibrillation,wheezing,0.045454545454545456
+"Neutropenia, unspecified",cough,0.14285714285714285
+"Neutropenia, unspecified",shortness of breath,0.14285714285714285
+"Neutropenia, unspecified",night sweats,0.14285714285714285
+"Neutropenia, unspecified",abdominal pain,0.2857142857142857
+"Neutropenia, unspecified",headache,0.14285714285714285
+"Neutropenia, unspecified",dizziness,0.14285714285714285
+Prepatellar bursitis,leg pain,0.5
+Prepatellar bursitis,leg swelling,0.5
+Adult failure to thrive,diarrhea,0.5
+Adult failure to thrive,fatigue,0.5
+Sepsis,cough,0.25
+Sepsis,abdominal pain,0.25
+Sepsis,leg swelling,0.25
+Sepsis,diarrhea,0.25
+Solitary pulmonary nodule,wheezing,0.16666666666666666
+Solitary pulmonary nodule,cough,0.3333333333333333
+Solitary pulmonary nodule,shortness of breath,0.16666666666666666
+Solitary pulmonary nodule,dizziness,0.16666666666666666
+Solitary pulmonary nodule,headache,0.16666666666666666
+Posttraumatic stress disorder,diarrhea,1.0
+"Ulcerative colitis, unspecified",shortness of breath,0.3333333333333333
+"Ulcerative colitis, unspecified",abdominal pain,0.3333333333333333
+"Ulcerative colitis, unspecified",dizziness,0.3333333333333333
+Dissection of carotid artery,cough,1.0
+Incomplete uterovaginal prolapse,abdominal pain,0.3333333333333333
+Incomplete uterovaginal prolapse,vaginal discharge,0.3333333333333333
+Incomplete uterovaginal prolapse,vaginal bleeding,0.3333333333333333
+"Coagulation defect, unspecified",abdominal pain,0.4
+"Coagulation defect, unspecified",cough,0.2
+"Coagulation defect, unspecified",diarrhea,0.2
+"Coagulation defect, unspecified",peeling skin,0.2
+"Noninfective gastroenteritis and colitis, unspecified",fatigue,0.2
+"Noninfective gastroenteritis and colitis, unspecified",wheezing,0.2
+"Noninfective gastroenteritis and colitis, unspecified",shortness of breath,0.2
+"Noninfective gastroenteritis and colitis, unspecified",diarrhea,0.2
+"Noninfective gastroenteritis and colitis, unspecified",abdominal pain,0.2
+Hyperkalemia,abdominal pain,0.25
+Hyperkalemia,rectal bleeding,0.125
+Hyperkalemia,shortness of breath,0.125
+Hyperkalemia,headache,0.125
+Hyperkalemia,diarrhea,0.125
+Hyperkalemia,night sweats,0.125
+Hyperkalemia,petechiae,0.125
+"Acute kidney failure, unspecified",cough,0.13043478260869565
+"Acute kidney failure, unspecified",shortness of breath,0.17391304347826086
+"Acute kidney failure, unspecified",dizziness,0.043478260869565216
+"Acute kidney failure, unspecified",headache,0.06521739130434782
+"Acute kidney failure, unspecified",shoulder pain,0.021739130434782608
+"Acute kidney failure, unspecified",abdominal pain,0.13043478260869565
+"Acute kidney failure, unspecified",arm pain,0.021739130434782608
+"Acute kidney failure, unspecified",diarrhea,0.13043478260869565
+"Acute kidney failure, unspecified",blood clots,0.043478260869565216
+"Acute kidney failure, unspecified",nausea and vomiting,0.021739130434782608
+"Acute kidney failure, unspecified",foot pain,0.021739130434782608
+"Acute kidney failure, unspecified",fatigue,0.021739130434782608
+"Acute kidney failure, unspecified",night sweats,0.043478260869565216
+"Acute kidney failure, unspecified",hip pain,0.06521739130434782
+"Acute kidney failure, unspecified",wheezing,0.021739130434782608
+"Acute kidney failure, unspecified",leg swelling,0.043478260869565216
+"Pressure ulcer of right heel, stage 1",wheezing,0.5
+"Pressure ulcer of right heel, stage 1",cough,0.5
+Other and unspecified coagulation defects,numbness,0.2
+Other and unspecified coagulation defects,fatigue,0.2
+Other and unspecified coagulation defects,cough,0.2
+Other and unspecified coagulation defects,shortness of breath,0.2
+Other and unspecified coagulation defects,headache,0.2
+Personal history of nicotine dependence,abdominal pain,0.2631578947368421
+Personal history of nicotine dependence,diarrhea,0.21052631578947367
+Personal history of nicotine dependence,wheezing,0.05263157894736842
+Personal history of nicotine dependence,cough,0.15789473684210525
+Personal history of nicotine dependence,shortness of breath,0.10526315789473684
+Personal history of nicotine dependence,nausea and vomiting,0.10526315789473684
+Personal history of nicotine dependence,leg swelling,0.05263157894736842
+Personal history of nicotine dependence,headache,0.05263157894736842
+Portal hypertension,dizziness,0.125
+Portal hypertension,wheezing,0.125
+Portal hypertension,cough,0.125
+Portal hypertension,shortness of breath,0.125
+Portal hypertension,night sweats,0.125
+Portal hypertension,diarrhea,0.125
+Portal hypertension,abdominal pain,0.125
+Portal hypertension,headache,0.125
+Other seasonal allergic rhinitis,abdominal pain,0.25
+Other seasonal allergic rhinitis,diarrhea,0.25
+Other seasonal allergic rhinitis,vaginal discharge,0.25
+Other seasonal allergic rhinitis,vaginal bleeding,0.25
+Lack of housing,numbness,0.14285714285714285
+Lack of housing,joint pain,0.14285714285714285
+Lack of housing,cough,0.14285714285714285
+Lack of housing,shortness of breath,0.14285714285714285
+Lack of housing,night sweats,0.14285714285714285
+Lack of housing,diarrhea,0.14285714285714285
+Lack of housing,leg swelling,0.14285714285714285
+Personal history of malignant neoplasm of breast,cough,0.2857142857142857
+Personal history of malignant neoplasm of breast,numbness,0.14285714285714285
+Personal history of malignant neoplasm of breast,shortness of breath,0.14285714285714285
+Personal history of malignant neoplasm of breast,diarrhea,0.14285714285714285
+Personal history of malignant neoplasm of breast,nasal congestion,0.14285714285714285
+Personal history of malignant neoplasm of breast,fatigue,0.14285714285714285
+Diaphragmatic hernia without obstruction or gangrene,numbness,0.25
+Diaphragmatic hernia without obstruction or gangrene,abdominal pain,0.25
+Diaphragmatic hernia without obstruction or gangrene,wheezing,0.25
+Diaphragmatic hernia without obstruction or gangrene,shortness of breath,0.25
+"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified",cough,0.2
+"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified",abdominal pain,0.2
+"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified",shortness of breath,0.1
+"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified",diarrhea,0.2
+"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified",numbness,0.1
+"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified",fatigue,0.1
+"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified",wheezing,0.1
+"Infection and inflammatory reaction due to indwelling urethral catheter, initial encounter",wheezing,0.14285714285714285
+"Infection and inflammatory reaction due to indwelling urethral catheter, initial encounter",shortness of breath,0.14285714285714285
+"Infection and inflammatory reaction due to indwelling urethral catheter, initial encounter",abdominal pain,0.14285714285714285
+"Infection and inflammatory reaction due to indwelling urethral catheter, initial encounter",diarrhea,0.2857142857142857
+"Infection and inflammatory reaction due to indwelling urethral catheter, initial encounter",cough,0.14285714285714285
+"Infection and inflammatory reaction due to indwelling urethral catheter, initial encounter",nasal congestion,0.14285714285714285
+"Depressive disorder, not elsewhere classified",numbness,0.075
+"Depressive disorder, not elsewhere classified",dizziness,0.1
+"Depressive disorder, not elsewhere classified",cough,0.175
+"Depressive disorder, not elsewhere classified",eye pain,0.025
+"Depressive disorder, not elsewhere classified",night sweats,0.05
+"Depressive disorder, not elsewhere classified",shortness of breath,0.1
+"Depressive disorder, not elsewhere classified",abdominal pain,0.1
+"Depressive disorder, not elsewhere classified",headache,0.1
+"Depressive disorder, not elsewhere classified",fatigue,0.05
+"Depressive disorder, not elsewhere classified",diarrhea,0.125
+"Depressive disorder, not elsewhere classified",wheezing,0.025
+"Depressive disorder, not elsewhere classified",shoulder pain,0.025
+"Depressive disorder, not elsewhere classified",muscle pain,0.025
+"Depressive disorder, not elsewhere classified",elbow pain,0.025
+Atrial flutter,dizziness,0.2
+Atrial flutter,fatigue,0.2
+Atrial flutter,headache,0.1
+Atrial flutter,shortness of breath,0.1
+Atrial flutter,wheezing,0.1
+Atrial flutter,cough,0.1
+Atrial flutter,abdominal pain,0.1
+Atrial flutter,diarrhea,0.1
+Presence of coronary angioplasty implant and graft,numbness,0.125
+Presence of coronary angioplasty implant and graft,cough,0.125
+Presence of coronary angioplasty implant and graft,shortness of breath,0.125
+Presence of coronary angioplasty implant and graft,hip pain,0.125
+Presence of coronary angioplasty implant and graft,diarrhea,0.125
+Presence of coronary angioplasty implant and graft,headache,0.125
+Presence of coronary angioplasty implant and graft,wheezing,0.125
+Presence of coronary angioplasty implant and graft,abdominal pain,0.125
+Long-term (current) use of steroids,numbness,0.16666666666666666
+Long-term (current) use of steroids,cough,0.16666666666666666
+Long-term (current) use of steroids,leg pain,0.16666666666666666
+Long-term (current) use of steroids,foot pain,0.16666666666666666
+Long-term (current) use of steroids,abdominal pain,0.16666666666666666
+Long-term (current) use of steroids,diarrhea,0.16666666666666666
+Polyp of stomach and duodenum,cough,0.5
+Polyp of stomach and duodenum,dizziness,0.5
+Tobacco use disorder,dizziness,0.25
+Tobacco use disorder,petechiae,0.25
+Tobacco use disorder,headache,0.25
+Tobacco use disorder,abdominal pain,0.25
+Other streptococcus as the cause of diseases classified elsewhere,cough,0.25
+Other streptococcus as the cause of diseases classified elsewhere,abdominal pain,0.25
+Other streptococcus as the cause of diseases classified elsewhere,diarrhea,0.125
+Other streptococcus as the cause of diseases classified elsewhere,shoulder pain,0.125
+Other streptococcus as the cause of diseases classified elsewhere,rectal bleeding,0.125
+Other streptococcus as the cause of diseases classified elsewhere,headache,0.125
+End stage renal disease,shortness of breath,0.3333333333333333
+End stage renal disease,abdominal pain,0.3333333333333333
+End stage renal disease,fatigue,0.3333333333333333
+Systemic lupus erythematosus,joint pain,0.125
+Systemic lupus erythematosus,wheezing,0.125
+Systemic lupus erythematosus,cough,0.125
+Systemic lupus erythematosus,shortness of breath,0.125
+Systemic lupus erythematosus,diarrhea,0.125
+Systemic lupus erythematosus,night sweats,0.125
+Systemic lupus erythematosus,abdominal pain,0.125
+Systemic lupus erythematosus,headache,0.125
+Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema,cough,0.3333333333333333
+Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema,shortness of breath,0.3333333333333333
+Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema,dizziness,0.3333333333333333
+"Fatty (change of) liver, not elsewhere classified",cough,0.25
+"Fatty (change of) liver, not elsewhere classified",abdominal pain,0.25
+"Fatty (change of) liver, not elsewhere classified",night sweats,0.25
+"Fatty (change of) liver, not elsewhere classified",diarrhea,0.25
+Complications of transplanted liver,cough,0.25
+Complications of transplanted liver,abdominal pain,0.25
+Complications of transplanted liver,diarrhea,0.25
+Complications of transplanted liver,leg swelling,0.25
+"Adverse effect of antineoplastic and immunosuppressive drugs, sequela",vaginal bleeding,0.16666666666666666
+"Adverse effect of antineoplastic and immunosuppressive drugs, sequela",blood clots,0.16666666666666666
+"Adverse effect of antineoplastic and immunosuppressive drugs, sequela",diarrhea,0.16666666666666666
+"Adverse effect of antineoplastic and immunosuppressive drugs, sequela",nausea and vomiting,0.16666666666666666
+"Adverse effect of antineoplastic and immunosuppressive drugs, sequela",abdominal pain,0.16666666666666666
+"Adverse effect of antineoplastic and immunosuppressive drugs, sequela",vaginal discharge,0.16666666666666666
+Unspecified glaucoma,arm pain,0.16666666666666666
+Unspecified glaucoma,numbness,0.16666666666666666
+Unspecified glaucoma,cough,0.16666666666666666
+Unspecified glaucoma,shortness of breath,0.16666666666666666
+Unspecified glaucoma,diarrhea,0.16666666666666666
+Unspecified glaucoma,abdominal pain,0.16666666666666666
+Unspecified urinary incontinence,numbness,0.25
+Unspecified urinary incontinence,nausea and vomiting,0.25
+Unspecified urinary incontinence,dizziness,0.25
+Unspecified urinary incontinence,headache,0.25
+"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",numbness,0.2222222222222222
+"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",diarrhea,0.2222222222222222
+"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",dizziness,0.1111111111111111
+"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",cough,0.1111111111111111
+"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",shortness of breath,0.1111111111111111
+"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",abdominal pain,0.1111111111111111
+"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",petechiae,0.1111111111111111
+Other opiates and related narcotics causing adverse effects in therapeutic use,cough,0.125
+Other opiates and related narcotics causing adverse effects in therapeutic use,eosinophilia,0.125
+Other opiates and related narcotics causing adverse effects in therapeutic use,diarrhea,0.125
+Other opiates and related narcotics causing adverse effects in therapeutic use,night sweats,0.125
+Other opiates and related narcotics causing adverse effects in therapeutic use,shortness of breath,0.125
+Other opiates and related narcotics causing adverse effects in therapeutic use,nausea and vomiting,0.125
+Other opiates and related narcotics causing adverse effects in therapeutic use,abdominal pain,0.125
+Other opiates and related narcotics causing adverse effects in therapeutic use,headache,0.125
+Encounter for immunization,cough,0.2222222222222222
+Encounter for immunization,shortness of breath,0.1111111111111111
+Encounter for immunization,diarrhea,0.2222222222222222
+Encounter for immunization,abdominal pain,0.1111111111111111
+Encounter for immunization,petechiae,0.1111111111111111
+Encounter for immunization,fatigue,0.1111111111111111
+Encounter for immunization,headache,0.1111111111111111
+Laparoscopic surgical procedure converted to open procedure,abdominal pain,0.2222222222222222
+Laparoscopic surgical procedure converted to open procedure,shortness of breath,0.2222222222222222
+Laparoscopic surgical procedure converted to open procedure,dizziness,0.1111111111111111
+Laparoscopic surgical procedure converted to open procedure,diarrhea,0.2222222222222222
+Laparoscopic surgical procedure converted to open procedure,cough,0.1111111111111111
+Laparoscopic surgical procedure converted to open procedure,arm pain,0.1111111111111111
+"Volume depletion, unspecified",abdominal pain,0.5
+"Volume depletion, unspecified",cough,0.25
+"Volume depletion, unspecified",fatigue,0.25
+Unspecified sinusitis (chronic),numbness,0.125
+Unspecified sinusitis (chronic),dizziness,0.125
+Unspecified sinusitis (chronic),cough,0.125
+Unspecified sinusitis (chronic),shortness of breath,0.125
+Unspecified sinusitis (chronic),night sweats,0.125
+Unspecified sinusitis (chronic),diarrhea,0.125
+Unspecified sinusitis (chronic),abdominal pain,0.125
+Unspecified sinusitis (chronic),headache,0.125
+Home accidents,cough,0.16666666666666666
+Home accidents,shortness of breath,0.16666666666666666
+Home accidents,night sweats,0.16666666666666666
+Home accidents,diarrhea,0.16666666666666666
+Home accidents,abdominal pain,0.16666666666666666
+Home accidents,headache,0.16666666666666666
+Myotonia congenita,cough,0.25
+Myotonia congenita,abdominal pain,0.25
+Myotonia congenita,shortness of breath,0.25
+Myotonia congenita,diarrhea,0.25
+"Anxiety state, unspecified",shoulder pain,0.03333333333333333
+"Anxiety state, unspecified",abdominal pain,0.23333333333333334
+"Anxiety state, unspecified",headache,0.1
+"Anxiety state, unspecified",leg pain,0.03333333333333333
+"Anxiety state, unspecified",leg swelling,0.03333333333333333
+"Anxiety state, unspecified",diarrhea,0.13333333333333333
+"Anxiety state, unspecified",cough,0.13333333333333333
+"Anxiety state, unspecified",dizziness,0.03333333333333333
+"Anxiety state, unspecified",wheezing,0.06666666666666667
+"Anxiety state, unspecified",night sweats,0.1
+"Anxiety state, unspecified",fatigue,0.03333333333333333
+"Anxiety state, unspecified",shortness of breath,0.06666666666666667
+Unspecified car occupant injured in collision with railway train or railway vehicle in nontraffic accident,shortness of breath,0.25
+Unspecified car occupant injured in collision with railway train or railway vehicle in nontraffic accident,abdominal pain,0.25
+Unspecified car occupant injured in collision with railway train or railway vehicle in nontraffic accident,diarrhea,0.25
+Unspecified car occupant injured in collision with railway train or railway vehicle in nontraffic accident,nausea and vomiting,0.25
+Other specified forms of tremor,cough,0.5
+Other specified forms of tremor,diarrhea,0.5
+Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity,wheezing,0.25
+Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity,cough,0.25
+Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity,shortness of breath,0.25
+Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity,diarrhea,0.25
+"Urinary tract infection, site not specified",dizziness,0.14814814814814814
+"Urinary tract infection, site not specified",diarrhea,0.1111111111111111
+"Urinary tract infection, site not specified",shortness of breath,0.14814814814814814
+"Urinary tract infection, site not specified",nausea and vomiting,0.037037037037037035
+"Urinary tract infection, site not specified",leg pain,0.037037037037037035
+"Urinary tract infection, site not specified",abdominal pain,0.18518518518518517
+"Urinary tract infection, site not specified",cough,0.14814814814814814
+"Urinary tract infection, site not specified",vaginal bleeding,0.037037037037037035
+"Urinary tract infection, site not specified",numbness,0.037037037037037035
+"Urinary tract infection, site not specified",headache,0.07407407407407407
+"Urinary tract infection, site not specified",wheezing,0.037037037037037035
+"Major depressive disorder, single episode, unspecified",fatigue,0.05128205128205128
+"Major depressive disorder, single episode, unspecified",wheezing,0.02564102564102564
+"Major depressive disorder, single episode, unspecified",cough,0.1282051282051282
+"Major depressive disorder, single episode, unspecified",diarrhea,0.1794871794871795
+"Major depressive disorder, single episode, unspecified",shortness of breath,0.1794871794871795
+"Major depressive disorder, single episode, unspecified",abdominal pain,0.15384615384615385
+"Major depressive disorder, single episode, unspecified",headache,0.07692307692307693
+"Major depressive disorder, single episode, unspecified",numbness,0.02564102564102564
+"Major depressive disorder, single episode, unspecified",night sweats,0.02564102564102564
+"Major depressive disorder, single episode, unspecified",nausea and vomiting,0.05128205128205128
+"Major depressive disorder, single episode, unspecified",blood clots,0.05128205128205128
+"Major depressive disorder, single episode, unspecified",arm pain,0.02564102564102564
+"Major depressive disorder, single episode, unspecified",leg swelling,0.02564102564102564
+Unspecified place or not applicable,abdominal pain,0.6666666666666666
+Unspecified place or not applicable,leg pain,0.3333333333333333
+Nausea with vomiting,vaginal bleeding,0.06666666666666667
+Nausea with vomiting,wheezing,0.06666666666666667
+Nausea with vomiting,diarrhea,0.2
+Nausea with vomiting,abdominal pain,0.2
+Nausea with vomiting,vaginal discharge,0.06666666666666667
+Nausea with vomiting,nausea and vomiting,0.13333333333333333
+Nausea with vomiting,numbness,0.06666666666666667
+Nausea with vomiting,cough,0.06666666666666667
+Nausea with vomiting,eosinophilia,0.06666666666666667
+Nausea with vomiting,shortness of breath,0.06666666666666667
+Other mitochondrial metabolism disorders,cough,1.0
+Personal history of malignant neoplasm of large intestine,cough,0.5
+Personal history of malignant neoplasm of large intestine,runny nose,0.5
+Barrett's esophagus,cough,0.5
+Barrett's esophagus,shortness of breath,0.5
+"Anemia, unspecified",abdominal pain,0.125
+"Anemia, unspecified",diarrhea,0.09375
+"Anemia, unspecified",cough,0.1875
+"Anemia, unspecified",wheezing,0.125
+"Anemia, unspecified",joint pain,0.03125
+"Anemia, unspecified",dizziness,0.03125
+"Anemia, unspecified",vaginal bleeding,0.03125
+"Anemia, unspecified",shortness of breath,0.09375
+"Anemia, unspecified",vaginal discharge,0.0625
+"Anemia, unspecified",headache,0.0625
+"Anemia, unspecified",eosinophilia,0.03125
+"Anemia, unspecified",fatigue,0.0625
+"Anemia, unspecified",numbness,0.03125
+"Anemia, unspecified",unexplained weight loss,0.03125
+Secondary malignant neoplasm of bone and bone marrow,numbness,0.3333333333333333
+Secondary malignant neoplasm of bone and bone marrow,shortness of breath,0.3333333333333333
+Secondary malignant neoplasm of bone and bone marrow,hip pain,0.3333333333333333
+Closed fracture of cuboid,foot pain,0.5
+Closed fracture of cuboid,shortness of breath,0.5
+Long term (current) use of antithrombotics/antiplatelets,numbness,0.4
+Long term (current) use of antithrombotics/antiplatelets,headache,0.2
+Long term (current) use of antithrombotics/antiplatelets,diarrhea,0.2
+Long term (current) use of antithrombotics/antiplatelets,hip pain,0.2
+Other chest pain,numbness,0.2
+Other chest pain,shortness of breath,0.4
+Other chest pain,fatigue,0.4
+Fibromyalgia,numbness,0.16666666666666666
+Fibromyalgia,wheezing,0.16666666666666666
+Fibromyalgia,shortness of breath,0.16666666666666666
+Fibromyalgia,arm pain,0.16666666666666666
+Fibromyalgia,hip pain,0.16666666666666666
+Fibromyalgia,diarrhea,0.16666666666666666
+Examination of participant in clinical trial,wheezing,0.25
+Examination of participant in clinical trial,cough,0.25
+Examination of participant in clinical trial,shortness of breath,0.25
+Examination of participant in clinical trial,fatigue,0.25
+Alcoholic polyneuropathy,foot pain,1.0
+Long-term (current) use of anticoagulants,cough,0.17857142857142858
+Long-term (current) use of anticoagulants,blood clots,0.03571428571428571
+Long-term (current) use of anticoagulants,shortness of breath,0.10714285714285714
+Long-term (current) use of anticoagulants,diarrhea,0.14285714285714285
+Long-term (current) use of anticoagulants,leg pain,0.03571428571428571
+Long-term (current) use of anticoagulants,numbness,0.03571428571428571
+Long-term (current) use of anticoagulants,arm pain,0.07142857142857142
+Long-term (current) use of anticoagulants,night sweats,0.07142857142857142
+Long-term (current) use of anticoagulants,headache,0.07142857142857142
+Long-term (current) use of anticoagulants,fatigue,0.03571428571428571
+Long-term (current) use of anticoagulants,abdominal pain,0.07142857142857142
+Long-term (current) use of anticoagulants,joint pain,0.03571428571428571
+Long-term (current) use of anticoagulants,wheezing,0.07142857142857142
+Long-term (current) use of anticoagulants,elbow pain,0.03571428571428571
+"Other malignant lymphomas, unspecified site, extranodal and solid organ sites",cough,0.3333333333333333
+"Other malignant lymphomas, unspecified site, extranodal and solid organ sites",numbness,0.3333333333333333
+"Other malignant lymphomas, unspecified site, extranodal and solid organ sites",shortness of breath,0.3333333333333333
+"Alcohol abuse, in remission",cough,0.25
+"Alcohol abuse, in remission",abdominal pain,0.25
+"Alcohol abuse, in remission",shortness of breath,0.25
+"Alcohol abuse, in remission",diarrhea,0.25
+Mechanical complication due to cardiac pacemaker (electrode),cough,0.3333333333333333
+Mechanical complication due to cardiac pacemaker (electrode),numbness,0.3333333333333333
+Mechanical complication due to cardiac pacemaker (electrode),shortness of breath,0.3333333333333333
+Morbid (severe) obesity with alveolar hypoventilation,wheezing,1.0
+"Late effects of cerebrovascular disease, speech and language deficit, unspecified",cough,0.16666666666666666
+"Late effects of cerebrovascular disease, speech and language deficit, unspecified",shortness of breath,0.16666666666666666
+"Late effects of cerebrovascular disease, speech and language deficit, unspecified",diarrhea,0.16666666666666666
+"Late effects of cerebrovascular disease, speech and language deficit, unspecified",night sweats,0.16666666666666666
+"Late effects of cerebrovascular disease, speech and language deficit, unspecified",abdominal pain,0.16666666666666666
+"Late effects of cerebrovascular disease, speech and language deficit, unspecified",headache,0.16666666666666666
+Secondary and unspecified malignant neoplasm of axilla and upper limb lymph nodes,shortness of breath,0.4
+Secondary and unspecified malignant neoplasm of axilla and upper limb lymph nodes,cough,0.2
+Secondary and unspecified malignant neoplasm of axilla and upper limb lymph nodes,diarrhea,0.2
+Secondary and unspecified malignant neoplasm of axilla and upper limb lymph nodes,leg swelling,0.2
+"Fall on same level, unspecified, initial encounter",blood clots,1.0
+Abnormal weight loss,cough,0.25
+Abnormal weight loss,numbness,0.25
+Abnormal weight loss,diarrhea,0.25
+Abnormal weight loss,headache,0.25
+"Spondylosis of unspecified site, without mention of myelopathy",fatigue,0.14285714285714285
+"Spondylosis of unspecified site, without mention of myelopathy",wheezing,0.14285714285714285
+"Spondylosis of unspecified site, without mention of myelopathy",cough,0.14285714285714285
+"Spondylosis of unspecified site, without mention of myelopathy",shortness of breath,0.14285714285714285
+"Spondylosis of unspecified site, without mention of myelopathy",hip pain,0.14285714285714285
+"Spondylosis of unspecified site, without mention of myelopathy",diarrhea,0.14285714285714285
+"Spondylosis of unspecified site, without mention of myelopathy",headache,0.14285714285714285
+Other postprocedural status,abdominal pain,1.0
+"Anxiety disorder, unspecified",abdominal pain,0.07142857142857142
+"Anxiety disorder, unspecified",shortness of breath,0.2857142857142857
+"Anxiety disorder, unspecified",dizziness,0.14285714285714285
+"Anxiety disorder, unspecified",vaginal bleeding,0.07142857142857142
+"Anxiety disorder, unspecified",wheezing,0.07142857142857142
+"Anxiety disorder, unspecified",cough,0.07142857142857142
+"Anxiety disorder, unspecified",diarrhea,0.07142857142857142
+"Anxiety disorder, unspecified",headache,0.07142857142857142
+"Anxiety disorder, unspecified",petechiae,0.07142857142857142
+"Anxiety disorder, unspecified",fatigue,0.07142857142857142
+"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",dizziness,0.04
+"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",cough,0.12
+"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",shortness of breath,0.12
+"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",night sweats,0.08
+"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",diarrhea,0.08
+"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",abdominal pain,0.16
+"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",headache,0.12
+"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",wheezing,0.12
+"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",shoulder pain,0.04
+"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",vaginal bleeding,0.04
+"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",vaginal discharge,0.04
+"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",nausea and vomiting,0.04
+Acute appendicitis with generalized peritonitis,cough,0.3333333333333333
+Acute appendicitis with generalized peritonitis,abdominal pain,0.3333333333333333
+Acute appendicitis with generalized peritonitis,diarrhea,0.3333333333333333
+"Alcohol abuse, continuous",dizziness,0.2
+"Alcohol abuse, continuous",cough,0.2
+"Alcohol abuse, continuous",diarrhea,0.2
+"Alcohol abuse, continuous",abdominal pain,0.2
+"Alcohol abuse, continuous",headache,0.2
+Calculus of kidney,abdominal pain,1.0
+"Left bundle-branch block, unspecified",shortness of breath,0.5
+"Left bundle-branch block, unspecified",dizziness,0.5
+Unspecified cirrhosis of liver,diarrhea,0.2
+Unspecified cirrhosis of liver,night sweats,0.2
+Unspecified cirrhosis of liver,abdominal pain,0.2
+Unspecified cirrhosis of liver,leg swelling,0.2
+Unspecified cirrhosis of liver,headache,0.2
+Long-term (current) use of aspirin,cough,0.6666666666666666
+Long-term (current) use of aspirin,abdominal pain,0.3333333333333333
+"Other and unspecified alcohol dependence, continuous",dizziness,0.2
+"Other and unspecified alcohol dependence, continuous",cough,0.2
+"Other and unspecified alcohol dependence, continuous",diarrhea,0.2
+"Other and unspecified alcohol dependence, continuous",abdominal pain,0.2
+"Other and unspecified alcohol dependence, continuous",headache,0.2
+Other acquired absence of organ,wheezing,0.07142857142857142
+Other acquired absence of organ,cough,0.07142857142857142
+Other acquired absence of organ,diarrhea,0.21428571428571427
+Other acquired absence of organ,night sweats,0.07142857142857142
+Other acquired absence of organ,shortness of breath,0.21428571428571427
+Other acquired absence of organ,abdominal pain,0.21428571428571427
+Other acquired absence of organ,headache,0.07142857142857142
+Other acquired absence of organ,fatigue,0.07142857142857142
+Long term (current) use of aspirin,shortness of breath,0.6666666666666666
+Long term (current) use of aspirin,cough,0.3333333333333333
+Personal history of malignant neoplasm of prostate,shortness of breath,0.2222222222222222
+Personal history of malignant neoplasm of prostate,blood clots,0.1111111111111111
+Personal history of malignant neoplasm of prostate,dizziness,0.1111111111111111
+Personal history of malignant neoplasm of prostate,fatigue,0.1111111111111111
+Personal history of malignant neoplasm of prostate,wheezing,0.1111111111111111
+Personal history of malignant neoplasm of prostate,cough,0.1111111111111111
+Personal history of malignant neoplasm of prostate,hip pain,0.1111111111111111
+Personal history of malignant neoplasm of prostate,abdominal pain,0.1111111111111111
+"Body mass index [BMI] 30.0-30.9, adult",cough,1.0
+Alcoholic cirrhosis of liver,wheezing,1.0
+"Nontraumatic intracerebral hemorrhage in hemisphere, cortical",cough,0.5
+"Nontraumatic intracerebral hemorrhage in hemisphere, cortical",wheezing,0.5
+"Hyperlipidemia, unspecified",wheezing,0.041666666666666664
+"Hyperlipidemia, unspecified",shortness of breath,0.125
+"Hyperlipidemia, unspecified",vaginal bleeding,0.041666666666666664
+"Hyperlipidemia, unspecified",abdominal pain,0.16666666666666666
+"Hyperlipidemia, unspecified",diarrhea,0.125
+"Hyperlipidemia, unspecified",arm pain,0.041666666666666664
+"Hyperlipidemia, unspecified",fatigue,0.08333333333333333
+"Hyperlipidemia, unspecified",headache,0.08333333333333333
+"Hyperlipidemia, unspecified",cough,0.125
+"Hyperlipidemia, unspecified",dizziness,0.08333333333333333
+"Hyperlipidemia, unspecified",leg swelling,0.041666666666666664
+"Hyperlipidemia, unspecified",night sweats,0.041666666666666664
+"Unspecified fall, initial encounter",numbness,1.0
+Adrenal cortical steroids causing adverse effects in therapeutic use,dizziness,0.1111111111111111
+Adrenal cortical steroids causing adverse effects in therapeutic use,cough,0.2222222222222222
+Adrenal cortical steroids causing adverse effects in therapeutic use,diarrhea,0.1111111111111111
+Adrenal cortical steroids causing adverse effects in therapeutic use,leg pain,0.1111111111111111
+Adrenal cortical steroids causing adverse effects in therapeutic use,abdominal pain,0.1111111111111111
+Adrenal cortical steroids causing adverse effects in therapeutic use,night sweats,0.1111111111111111
+Adrenal cortical steroids causing adverse effects in therapeutic use,fatigue,0.1111111111111111
+Adrenal cortical steroids causing adverse effects in therapeutic use,coughing up blood,0.1111111111111111
+Dependence on wheelchair,cough,0.5
+Dependence on wheelchair,night sweats,0.5
+Family history of diabetes mellitus,wheezing,0.3333333333333333
+Family history of diabetes mellitus,shortness of breath,0.3333333333333333
+Family history of diabetes mellitus,diarrhea,0.3333333333333333
+Other specified disorders of gallbladder,vomiting blood,0.5
+Other specified disorders of gallbladder,fatigue,0.5
+Unspecified disease of pericardium,shortness of breath,0.3333333333333333
+Unspecified disease of pericardium,diarrhea,0.3333333333333333
+Unspecified disease of pericardium,fatigue,0.3333333333333333
+Person on outside of car injured in collision with other nonmotor vehicle in nontraffic accident,abdominal pain,0.25
+Person on outside of car injured in collision with other nonmotor vehicle in nontraffic accident,dizziness,0.25
+Person on outside of car injured in collision with other nonmotor vehicle in nontraffic accident,vaginal bleeding,0.25
+Person on outside of car injured in collision with other nonmotor vehicle in nontraffic accident,rectal bleeding,0.25
+Benign prostatic hyperplasia without lower urinary tract symptoms,abdominal pain,1.0
+Tubal ligation status,abdominal pain,1.0
+Other postoperative infection,shortness of breath,1.0
+"Arthropathy, unspecified, site unspecified",leg swelling,0.2
+"Arthropathy, unspecified, site unspecified",fatigue,0.2
+"Arthropathy, unspecified, site unspecified",cough,0.2
+"Arthropathy, unspecified, site unspecified",nasal congestion,0.2
+"Arthropathy, unspecified, site unspecified",diarrhea,0.2
+"Pain in joint, lower leg",numbness,0.2
+"Pain in joint, lower leg",cough,0.2
+"Pain in joint, lower leg",diarrhea,0.2
+"Pain in joint, lower leg",abdominal pain,0.2
+"Pain in joint, lower leg",headache,0.2
+Unspecified atrial flutter,cough,0.5
+Unspecified atrial flutter,abdominal pain,0.5
+Severe sepsis with septic shock,cough,0.2
+Severe sepsis with septic shock,leg pain,0.2
+Severe sepsis with septic shock,abdominal pain,0.2
+Severe sepsis with septic shock,diarrhea,0.2
+Severe sepsis with septic shock,petechiae,0.2
+Personal history of malignant melanoma of skin,cough,0.25
+Personal history of malignant melanoma of skin,leg pain,0.25
+Personal history of malignant melanoma of skin,shortness of breath,0.25
+Personal history of malignant melanoma of skin,leg swelling,0.25
+Chronic pancreatitis,numbness,0.2
+Chronic pancreatitis,cough,0.2
+Chronic pancreatitis,shortness of breath,0.2
+Chronic pancreatitis,night sweats,0.2
+Chronic pancreatitis,abdominal pain,0.2
+Acquired absence of other left toe(s),cough,0.25
+Acquired absence of other left toe(s),diarrhea,0.25
+Acquired absence of other left toe(s),hip pain,0.25
+Acquired absence of other left toe(s),headache,0.25
+Bilateral primary osteoarthritis of hip,wheezing,0.5
+Bilateral primary osteoarthritis of hip,leg pain,0.5
+"Staphylococcal arthritis, right shoulder",shoulder pain,0.5
+"Staphylococcal arthritis, right shoulder",night sweats,0.5
+Secondary malignant neoplasm of unspecified lung,abdominal pain,0.5
+Secondary malignant neoplasm of unspecified lung,frequent urination,0.5
+"Hypotension, unspecified",numbness,0.07692307692307693
+"Hypotension, unspecified",cough,0.15384615384615385
+"Hypotension, unspecified",diarrhea,0.15384615384615385
+"Hypotension, unspecified",night sweats,0.07692307692307693
+"Hypotension, unspecified",abdominal pain,0.07692307692307693
+"Hypotension, unspecified",leg swelling,0.07692307692307693
+"Hypotension, unspecified",headache,0.07692307692307693
+"Hypotension, unspecified",shortness of breath,0.15384615384615385
+"Hypotension, unspecified",ankle pain,0.07692307692307693
+"Hypotension, unspecified",vaginal bleeding,0.07692307692307693
+Sepsis due to Methicillin susceptible Staphylococcus aureus,dizziness,1.0
+"Person injured in unspecified motor-vehicle accident, traffic, sequela",wheezing,1.0
+Chronic obstructive pulmonary disease with (acute) exacerbation,wheezing,0.3333333333333333
+Chronic obstructive pulmonary disease with (acute) exacerbation,cough,0.3333333333333333
+Chronic obstructive pulmonary disease with (acute) exacerbation,shortness of breath,0.3333333333333333
+Lateral epicondylitis,cough,0.2
+Lateral epicondylitis,diarrhea,0.2
+Lateral epicondylitis,night sweats,0.2
+Lateral epicondylitis,shortness of breath,0.2
+Lateral epicondylitis,abdominal pain,0.2
+Other and unspecified angina pectoris,dizziness,0.1
+Other and unspecified angina pectoris,cough,0.2
+Other and unspecified angina pectoris,shortness of breath,0.2
+Other and unspecified angina pectoris,night sweats,0.1
+Other and unspecified angina pectoris,diarrhea,0.1
+Other and unspecified angina pectoris,abdominal pain,0.2
+Other and unspecified angina pectoris,headache,0.1
+Chronic hepatitis C without mention of hepatic coma,wheezing,0.25
+Chronic hepatitis C without mention of hepatic coma,abdominal pain,0.25
+Chronic hepatitis C without mention of hepatic coma,diarrhea,0.25
+Chronic hepatitis C without mention of hepatic coma,dizziness,0.25
+"Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation",shortness of breath,0.3333333333333333
+"Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation",abdominal pain,0.3333333333333333
+"Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation",headache,0.3333333333333333
+Other iatrogenic hypotension,blood clots,0.3333333333333333
+Other iatrogenic hypotension,shortness of breath,0.3333333333333333
+Other iatrogenic hypotension,hip pain,0.3333333333333333
+Other secondary thrombocytopenia,wheezing,0.05263157894736842
+Other secondary thrombocytopenia,cough,0.15789473684210525
+Other secondary thrombocytopenia,shortness of breath,0.10526315789473684
+Other secondary thrombocytopenia,night sweats,0.10526315789473684
+Other secondary thrombocytopenia,diarrhea,0.15789473684210525
+Other secondary thrombocytopenia,abdominal pain,0.15789473684210525
+Other secondary thrombocytopenia,headache,0.10526315789473684
+Other secondary thrombocytopenia,dizziness,0.05263157894736842
+Other secondary thrombocytopenia,fatigue,0.10526315789473684
+"Encephalopathy, unspecified",fatigue,0.14285714285714285
+"Encephalopathy, unspecified",pelvic pain,0.14285714285714285
+"Encephalopathy, unspecified",wheezing,0.14285714285714285
+"Encephalopathy, unspecified",cough,0.2857142857142857
+"Encephalopathy, unspecified",abdominal pain,0.14285714285714285
+"Encephalopathy, unspecified",headache,0.14285714285714285
+Acute kidney failure with tubular necrosis,headache,1.0
+Other nonspecific abnormal finding of lung field,wheezing,0.3333333333333333
+Other nonspecific abnormal finding of lung field,shortness of breath,0.3333333333333333
+Other nonspecific abnormal finding of lung field,vaginal bleeding,0.3333333333333333
+Motor vehicle traffic accident involving collision with pedestrian injuring pedestrian,hip pain,1.0
+Unspecified pleural effusion,cough,1.0
+"Major depressive affective disorder, recurrent episode, unspecified",cough,0.3333333333333333
+"Major depressive affective disorder, recurrent episode, unspecified",shortness of breath,0.16666666666666666
+"Major depressive affective disorder, recurrent episode, unspecified",petechiae,0.16666666666666666
+"Major depressive affective disorder, recurrent episode, unspecified",abdominal pain,0.16666666666666666
+"Major depressive affective disorder, recurrent episode, unspecified",night sweats,0.16666666666666666
+Other constipation,fatigue,0.5
+Other constipation,diarrhea,0.5
+"Ventral, unspecified, hernia with obstruction",shortness of breath,0.25
+"Ventral, unspecified, hernia with obstruction",abdominal pain,0.25
+"Ventral, unspecified, hernia with obstruction",diarrhea,0.25
+"Ventral, unspecified, hernia with obstruction",nausea and vomiting,0.25
+Anemia in chronic kidney disease,dizziness,0.09090909090909091
+Anemia in chronic kidney disease,cough,0.18181818181818182
+Anemia in chronic kidney disease,shortness of breath,0.18181818181818182
+Anemia in chronic kidney disease,diarrhea,0.09090909090909091
+Anemia in chronic kidney disease,abdominal pain,0.18181818181818182
+Anemia in chronic kidney disease,petechiae,0.09090909090909091
+Anemia in chronic kidney disease,eye pain,0.09090909090909091
+Anemia in chronic kidney disease,headache,0.09090909090909091
+Dilated cardiomyopathy,abdominal pain,1.0
+Pernicious anemia,shortness of breath,1.0
+"Elevated white blood cell count, unspecified",cough,0.11764705882352941
+"Elevated white blood cell count, unspecified",shortness of breath,0.11764705882352941
+"Elevated white blood cell count, unspecified",diarrhea,0.17647058823529413
+"Elevated white blood cell count, unspecified",nausea and vomiting,0.11764705882352941
+"Elevated white blood cell count, unspecified",abdominal pain,0.17647058823529413
+"Elevated white blood cell count, unspecified",headache,0.11764705882352941
+"Elevated white blood cell count, unspecified",wheezing,0.058823529411764705
+"Elevated white blood cell count, unspecified",dizziness,0.058823529411764705
+"Elevated white blood cell count, unspecified",night sweats,0.058823529411764705
+"Contusion of abdominal wall, initial encounter",abdominal pain,0.3333333333333333
+"Contusion of abdominal wall, initial encounter",shortness of breath,0.3333333333333333
+"Contusion of abdominal wall, initial encounter",dizziness,0.3333333333333333
+"Alcohol abuse, unspecified",leg swelling,0.14285714285714285
+"Alcohol abuse, unspecified",cough,0.14285714285714285
+"Alcohol abuse, unspecified",fatigue,0.14285714285714285
+"Alcohol abuse, unspecified",shortness of breath,0.14285714285714285
+"Alcohol abuse, unspecified",abdominal pain,0.14285714285714285
+"Alcohol abuse, unspecified",arm pain,0.14285714285714285
+"Alcohol abuse, unspecified",blood clots,0.14285714285714285
+"Peripheral vascular disease, unspecified",cough,0.14285714285714285
+"Peripheral vascular disease, unspecified",shortness of breath,0.2857142857142857
+"Peripheral vascular disease, unspecified",diarrhea,0.14285714285714285
+"Peripheral vascular disease, unspecified",runny nose,0.14285714285714285
+"Peripheral vascular disease, unspecified",abdominal pain,0.14285714285714285
+"Peripheral vascular disease, unspecified",blood clots,0.14285714285714285
+"Acne, unspecified",night sweats,1.0
+"Traumatic subarachnoid hemorrhage without loss of consciousness, initial encounter",dizziness,0.25
+"Traumatic subarachnoid hemorrhage without loss of consciousness, initial encounter",numbness,0.25
+"Traumatic subarachnoid hemorrhage without loss of consciousness, initial encounter",hip pain,0.25
+"Traumatic subarachnoid hemorrhage without loss of consciousness, initial encounter",headache,0.25
+Presence of right artificial hip joint,cough,0.5
+Presence of right artificial hip joint,shortness of breath,0.5
+Car passenger injured in collision with van in traffic accident,numbness,1.0
+Pneumonia due to other Gram-negative bacteria,wheezing,0.25
+Pneumonia due to other Gram-negative bacteria,cough,0.25
+Pneumonia due to other Gram-negative bacteria,shortness of breath,0.25
+Pneumonia due to other Gram-negative bacteria,headache,0.25
+Headache,cough,0.10526315789473684
+Headache,shortness of breath,0.10526315789473684
+Headache,night sweats,0.05263157894736842
+Headache,diarrhea,0.05263157894736842
+Headache,abdominal pain,0.15789473684210525
+Headache,headache,0.2631578947368421
+Headache,numbness,0.05263157894736842
+Headache,dizziness,0.05263157894736842
+Headache,fatigue,0.05263157894736842
+Headache,nausea and vomiting,0.05263157894736842
+Headache,wheezing,0.05263157894736842
+Malignant melanoma of skin of scalp and neck,cough,0.5
+Malignant melanoma of skin of scalp and neck,shortness of breath,0.5
+Cholangitis,wheezing,0.1
+Cholangitis,cough,0.1
+Cholangitis,diarrhea,0.2
+Cholangitis,night sweats,0.1
+Cholangitis,shortness of breath,0.1
+Cholangitis,abdominal pain,0.2
+Cholangitis,headache,0.1
+Cholangitis,nausea and vomiting,0.1
+"Disorders of muscle in diseases classified elsewhere, left thigh",numbness,0.1
+"Disorders of muscle in diseases classified elsewhere, left thigh",cough,0.1
+"Disorders of muscle in diseases classified elsewhere, left thigh",diarrhea,0.1
+"Disorders of muscle in diseases classified elsewhere, left thigh",night sweats,0.1
+"Disorders of muscle in diseases classified elsewhere, left thigh",shortness of breath,0.1
+"Disorders of muscle in diseases classified elsewhere, left thigh",nausea and vomiting,0.1
+"Disorders of muscle in diseases classified elsewhere, left thigh",leg pain,0.1
+"Disorders of muscle in diseases classified elsewhere, left thigh",abdominal pain,0.1
+"Disorders of muscle in diseases classified elsewhere, left thigh",leg swelling,0.1
+"Disorders of muscle in diseases classified elsewhere, left thigh",headache,0.1
+"Dysphagia, oropharyngeal phase",abdominal pain,0.5
+"Dysphagia, oropharyngeal phase",diarrhea,0.5
+Percutaneous transluminal coronary angioplasty status,wheezing,0.3333333333333333
+Percutaneous transluminal coronary angioplasty status,cough,0.3333333333333333
+Percutaneous transluminal coronary angioplasty status,shortness of breath,0.3333333333333333
+Disorders of magnesium metabolism,cough,0.16666666666666666
+Disorders of magnesium metabolism,shortness of breath,0.16666666666666666
+Disorders of magnesium metabolism,night sweats,0.16666666666666666
+Disorders of magnesium metabolism,diarrhea,0.16666666666666666
+Disorders of magnesium metabolism,abdominal pain,0.16666666666666666
+Disorders of magnesium metabolism,headache,0.16666666666666666
+"Retention of urine, unspecified",diarrhea,0.16666666666666666
+"Retention of urine, unspecified",hip pain,0.16666666666666666
+"Retention of urine, unspecified",nausea and vomiting,0.16666666666666666
+"Retention of urine, unspecified",leg pain,0.16666666666666666
+"Retention of urine, unspecified",abdominal pain,0.16666666666666666
+"Retention of urine, unspecified",joint pain,0.16666666666666666
+"Pressure ulcer of sacral region, stage 3",cough,0.2
+"Pressure ulcer of sacral region, stage 3",shortness of breath,0.2
+"Pressure ulcer of sacral region, stage 3",diarrhea,0.2
+"Pressure ulcer of sacral region, stage 3",abdominal pain,0.2
+"Pressure ulcer of sacral region, stage 3",headache,0.2
+"Alcohol abuse, uncomplicated",cough,0.5
+"Alcohol abuse, uncomplicated",shortness of breath,0.5
+Renal and perinephric abscess,cough,0.3333333333333333
+Renal and perinephric abscess,shortness of breath,0.3333333333333333
+Renal and perinephric abscess,diarrhea,0.3333333333333333
+Other specified cardiac dysrhythmias,leg swelling,0.1
+Other specified cardiac dysrhythmias,numbness,0.2
+Other specified cardiac dysrhythmias,diarrhea,0.2
+Other specified cardiac dysrhythmias,fatigue,0.2
+Other specified cardiac dysrhythmias,cough,0.2
+Other specified cardiac dysrhythmias,shortness of breath,0.1
+Other specified forms of chronic ischemic heart disease,cough,0.14285714285714285
+Other specified forms of chronic ischemic heart disease,shortness of breath,0.14285714285714285
+Other specified forms of chronic ischemic heart disease,night sweats,0.14285714285714285
+Other specified forms of chronic ischemic heart disease,diarrhea,0.14285714285714285
+Other specified forms of chronic ischemic heart disease,abdominal pain,0.14285714285714285
+Other specified forms of chronic ischemic heart disease,leg swelling,0.14285714285714285
+Other specified forms of chronic ischemic heart disease,headache,0.14285714285714285
+Long-term (current) use of insulin,shortness of breath,0.3333333333333333
+Long-term (current) use of insulin,dizziness,0.16666666666666666
+Long-term (current) use of insulin,fatigue,0.16666666666666666
+Long-term (current) use of insulin,wheezing,0.16666666666666666
+Long-term (current) use of insulin,cough,0.16666666666666666
+Altered mental status,abdominal pain,0.5
+Altered mental status,shortness of breath,0.5
+Chronic interstitial cystitis,pelvic pain,1.0
+"Open wound of lip, without mention of complication",numbness,0.5
+"Open wound of lip, without mention of complication",headache,0.5
+"Vitamin D deficiency, unspecified",diarrhea,1.0
+Orthostatic hypotension,dizziness,0.1111111111111111
+Orthostatic hypotension,cough,0.2222222222222222
+Orthostatic hypotension,diarrhea,0.1111111111111111
+Orthostatic hypotension,abdominal pain,0.2222222222222222
+Orthostatic hypotension,headache,0.2222222222222222
+Orthostatic hypotension,shortness of breath,0.1111111111111111
+"Lymphedema, not elsewhere classified",wheezing,0.2
+"Lymphedema, not elsewhere classified",cough,0.2
+"Lymphedema, not elsewhere classified",nausea and vomiting,0.2
+"Lymphedema, not elsewhere classified",abdominal pain,0.2
+"Lymphedema, not elsewhere classified",headache,0.2
+"Periprosthetic osteolysis of internal prosthetic left knee joint, initial encounter",blood clots,0.5
+"Periprosthetic osteolysis of internal prosthetic left knee joint, initial encounter",shortness of breath,0.5
+Rheumatic mitral insufficiency,cough,0.3333333333333333
+Rheumatic mitral insufficiency,nasal congestion,0.3333333333333333
+Rheumatic mitral insufficiency,headache,0.3333333333333333
+"Disorder of kidney and ureter, unspecified",cough,0.25
+"Disorder of kidney and ureter, unspecified",blood clots,0.25
+"Disorder of kidney and ureter, unspecified",shortness of breath,0.25
+"Disorder of kidney and ureter, unspecified",hip pain,0.25
+"Glasgow coma scale score 3-8, at arrival to emergency department",cough,0.3333333333333333
+"Glasgow coma scale score 3-8, at arrival to emergency department",shortness of breath,0.3333333333333333
+"Glasgow coma scale score 3-8, at arrival to emergency department",diarrhea,0.3333333333333333
+Anemia due to antineoplastic chemotherapy,shortness of breath,0.3333333333333333
+Anemia due to antineoplastic chemotherapy,abdominal pain,0.3333333333333333
+Anemia due to antineoplastic chemotherapy,diarrhea,0.3333333333333333
+"Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",cough,0.3333333333333333
+"Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",abdominal pain,0.3333333333333333
+"Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",diarrhea,0.3333333333333333
+Person on outside of bus injured in collision with pedestrian or animal in traffic accident,blood clots,1.0
+"Coronary atherosclerosis of unspecified type of vessel, native or graft",leg pain,0.3333333333333333
+"Coronary atherosclerosis of unspecified type of vessel, native or graft",abdominal pain,0.3333333333333333
+"Coronary atherosclerosis of unspecified type of vessel, native or graft",dizziness,0.3333333333333333
+Personal history of other malignant neoplasm of skin,blood clots,0.1111111111111111
+Personal history of other malignant neoplasm of skin,abdominal pain,0.2222222222222222
+Personal history of other malignant neoplasm of skin,diarrhea,0.2222222222222222
+Personal history of other malignant neoplasm of skin,nausea and vomiting,0.1111111111111111
+Personal history of other malignant neoplasm of skin,cough,0.1111111111111111
+Personal history of other malignant neoplasm of skin,night sweats,0.1111111111111111
+Personal history of other malignant neoplasm of skin,headache,0.1111111111111111
+Atherosclerotic heart disease of native coronary artery without angina pectoris,numbness,0.1
+Atherosclerotic heart disease of native coronary artery without angina pectoris,shortness of breath,0.2
+Atherosclerotic heart disease of native coronary artery without angina pectoris,night sweats,0.1
+Atherosclerotic heart disease of native coronary artery without angina pectoris,wheezing,0.1
+Atherosclerotic heart disease of native coronary artery without angina pectoris,cough,0.1
+Atherosclerotic heart disease of native coronary artery without angina pectoris,diarrhea,0.1
+Atherosclerotic heart disease of native coronary artery without angina pectoris,abdominal pain,0.1
+Atherosclerotic heart disease of native coronary artery without angina pectoris,foot pain,0.1
+Atherosclerotic heart disease of native coronary artery without angina pectoris,headache,0.1
+Nonspecific (abnormal) findings on radiological and other examination of skull and head,numbness,1.0
+Fever presenting with conditions classified elsewhere,numbness,0.1111111111111111
+Fever presenting with conditions classified elsewhere,wheezing,0.1111111111111111
+Fever presenting with conditions classified elsewhere,cough,0.1111111111111111
+Fever presenting with conditions classified elsewhere,diarrhea,0.1111111111111111
+Fever presenting with conditions classified elsewhere,night sweats,0.1111111111111111
+Fever presenting with conditions classified elsewhere,shortness of breath,0.1111111111111111
+Fever presenting with conditions classified elsewhere,nausea and vomiting,0.1111111111111111
+Fever presenting with conditions classified elsewhere,abdominal pain,0.1111111111111111
+Fever presenting with conditions classified elsewhere,headache,0.1111111111111111
+"Disease of pancreas, unspecified",fatigue,0.16666666666666666
+"Disease of pancreas, unspecified",cough,0.16666666666666666
+"Disease of pancreas, unspecified",diarrhea,0.16666666666666666
+"Disease of pancreas, unspecified",night sweats,0.16666666666666666
+"Disease of pancreas, unspecified",shortness of breath,0.16666666666666666
+"Disease of pancreas, unspecified",abdominal pain,0.16666666666666666
+"Iron deficiency anemia, unspecified",abdominal pain,0.25
+"Iron deficiency anemia, unspecified",shortness of breath,0.25
+"Iron deficiency anemia, unspecified",fatigue,0.25
+"Iron deficiency anemia, unspecified",leg swelling,0.125
+"Iron deficiency anemia, unspecified",cough,0.125
+"Gout, unspecified",wheezing,0.058823529411764705
+"Gout, unspecified",abdominal pain,0.17647058823529413
+"Gout, unspecified",fatigue,0.17647058823529413
+"Gout, unspecified",cough,0.11764705882352941
+"Gout, unspecified",shortness of breath,0.11764705882352941
+"Gout, unspecified",night sweats,0.11764705882352941
+"Gout, unspecified",diarrhea,0.11764705882352941
+"Gout, unspecified",headache,0.11764705882352941
+"Legal blindness, as defined in U.S.A.",cough,1.0
+"Subendocardial infarction, initial episode of care",shortness of breath,1.0
+Driver of pick-up truck or van injured in collision with pedal cycle in nontraffic accident,shortness of breath,1.0
+"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus",headache,0.5
+"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus",vaginal bleeding,0.5
+Old myocardial infarction,dizziness,0.125
+Old myocardial infarction,wheezing,0.0625
+Old myocardial infarction,cough,0.125
+Old myocardial infarction,shortness of breath,0.1875
+Old myocardial infarction,leg pain,0.0625
+Old myocardial infarction,leg swelling,0.125
+Old myocardial infarction,numbness,0.0625
+Old myocardial infarction,fatigue,0.0625
+Old myocardial infarction,diarrhea,0.0625
+Old myocardial infarction,abdominal pain,0.0625
+Old myocardial infarction,nausea and vomiting,0.0625
+Anal or rectal pain,cough,0.14285714285714285
+Anal or rectal pain,shortness of breath,0.14285714285714285
+Anal or rectal pain,diarrhea,0.14285714285714285
+Anal or rectal pain,low white blood cell count,0.14285714285714285
+Anal or rectal pain,abdominal pain,0.2857142857142857
+Anal or rectal pain,night sweats,0.14285714285714285
+"Tachycardia, unspecified",cough,0.2
+"Tachycardia, unspecified",diarrhea,0.2
+"Tachycardia, unspecified",leg swelling,0.1
+"Tachycardia, unspecified",fatigue,0.1
+"Tachycardia, unspecified",wheezing,0.1
+"Tachycardia, unspecified",shortness of breath,0.1
+"Tachycardia, unspecified",night sweats,0.1
+"Tachycardia, unspecified",headache,0.1
+Anticoagulants causing adverse effects in therapeutic use,cough,0.25
+Anticoagulants causing adverse effects in therapeutic use,shortness of breath,0.25
+Anticoagulants causing adverse effects in therapeutic use,diarrhea,0.25
+Anticoagulants causing adverse effects in therapeutic use,arm pain,0.25
+"Other mental disorders complicating pregnancy, third trimester",numbness,0.16666666666666666
+"Other mental disorders complicating pregnancy, third trimester",pelvic pain,0.16666666666666666
+"Other mental disorders complicating pregnancy, third trimester",blood clots,0.16666666666666666
+"Other mental disorders complicating pregnancy, third trimester",diarrhea,0.16666666666666666
+"Other mental disorders complicating pregnancy, third trimester",nausea and vomiting,0.16666666666666666
+"Other mental disorders complicating pregnancy, third trimester",headache,0.16666666666666666
+Unspecified septicemia,abdominal pain,0.3333333333333333
+Unspecified septicemia,diarrhea,0.3333333333333333
+Unspecified septicemia,headache,0.3333333333333333
+"Migraine, unspecified, not intractable, without status migrainosus",cough,0.25
+"Migraine, unspecified, not intractable, without status migrainosus",numbness,0.125
+"Migraine, unspecified, not intractable, without status migrainosus",dizziness,0.125
+"Migraine, unspecified, not intractable, without status migrainosus",headache,0.125
+"Migraine, unspecified, not intractable, without status migrainosus",wheezing,0.125
+"Migraine, unspecified, not intractable, without status migrainosus",diarrhea,0.125
+"Migraine, unspecified, not intractable, without status migrainosus",leg swelling,0.125
+Disorders of phosphorus metabolism,ankle pain,0.3333333333333333
+Disorders of phosphorus metabolism,cough,0.3333333333333333
+Disorders of phosphorus metabolism,numbness,0.3333333333333333
+Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting left non-dominant side,shortness of breath,0.5
+Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting left non-dominant side,leg swelling,0.5
+"Neoplasm of unspecified behavior of bone, soft tissue, and skin",numbness,0.5
+"Neoplasm of unspecified behavior of bone, soft tissue, and skin",dizziness,0.5
+Pathologic fracture of other specified site,numbness,0.5
+Pathologic fracture of other specified site,shortness of breath,0.5
+Hereditary deficiency of other clotting factors,wheezing,0.3333333333333333
+Hereditary deficiency of other clotting factors,cough,0.3333333333333333
+Hereditary deficiency of other clotting factors,shortness of breath,0.3333333333333333
+Other nonspecific findings on examination of urine,wheezing,0.2
+Other nonspecific findings on examination of urine,shortness of breath,0.2
+Other nonspecific findings on examination of urine,diarrhea,0.2
+Other nonspecific findings on examination of urine,abdominal pain,0.2
+Other nonspecific findings on examination of urine,petechiae,0.2
+Type 2 diabetes mellitus with diabetic chronic kidney disease,leg swelling,0.2222222222222222
+Type 2 diabetes mellitus with diabetic chronic kidney disease,dizziness,0.1111111111111111
+Type 2 diabetes mellitus with diabetic chronic kidney disease,cough,0.1111111111111111
+Type 2 diabetes mellitus with diabetic chronic kidney disease,shortness of breath,0.1111111111111111
+Type 2 diabetes mellitus with diabetic chronic kidney disease,night sweats,0.1111111111111111
+Type 2 diabetes mellitus with diabetic chronic kidney disease,diarrhea,0.1111111111111111
+Type 2 diabetes mellitus with diabetic chronic kidney disease,abdominal pain,0.1111111111111111
+Type 2 diabetes mellitus with diabetic chronic kidney disease,headache,0.1111111111111111
+Acquired absence of breast and nipple,shortness of breath,1.0
+Driver of special construction vehicle injured in traffic accident,elevated liver enzymes,0.5
+Driver of special construction vehicle injured in traffic accident,abdominal pain,0.5
+Other specified anxiety disorders,vaginal bleeding,0.14285714285714285
+Other specified anxiety disorders,blood clots,0.14285714285714285
+Other specified anxiety disorders,diarrhea,0.14285714285714285
+Other specified anxiety disorders,nausea and vomiting,0.14285714285714285
+Other specified anxiety disorders,abdominal pain,0.14285714285714285
+Other specified anxiety disorders,vaginal discharge,0.14285714285714285
+Other specified anxiety disorders,headache,0.14285714285714285
+Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,wheezing,0.1111111111111111
+Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,shortness of breath,0.1111111111111111
+Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,diarrhea,0.1111111111111111
+Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,nausea and vomiting,0.1111111111111111
+Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,leg swelling,0.1111111111111111
+Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,cough,0.1111111111111111
+Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,numbness,0.1111111111111111
+Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,fatigue,0.1111111111111111
+Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,headache,0.1111111111111111
+Acute alcoholic hepatitis,cough,0.16666666666666666
+Acute alcoholic hepatitis,diarrhea,0.16666666666666666
+Acute alcoholic hepatitis,night sweats,0.16666666666666666
+Acute alcoholic hepatitis,shortness of breath,0.16666666666666666
+Acute alcoholic hepatitis,abdominal pain,0.16666666666666666
+Acute alcoholic hepatitis,headache,0.16666666666666666
+Secondary and unspecified malignant neoplasm of lymph nodes of axilla and upper limb,shortness of breath,1.0
+"Rheumatoid arthritis, unspecified",numbness,0.1111111111111111
+"Rheumatoid arthritis, unspecified",dizziness,0.1111111111111111
+"Rheumatoid arthritis, unspecified",cough,0.1111111111111111
+"Rheumatoid arthritis, unspecified",shoulder pain,0.1111111111111111
+"Rheumatoid arthritis, unspecified",diarrhea,0.1111111111111111
+"Rheumatoid arthritis, unspecified",night sweats,0.1111111111111111
+"Rheumatoid arthritis, unspecified",shortness of breath,0.1111111111111111
+"Rheumatoid arthritis, unspecified",headache,0.1111111111111111
+"Rheumatoid arthritis, unspecified",hip pain,0.1111111111111111
+Type 2 diabetes mellitus without complications,cough,0.16666666666666666
+Type 2 diabetes mellitus without complications,shortness of breath,0.16666666666666666
+Type 2 diabetes mellitus without complications,night sweats,0.16666666666666666
+Type 2 diabetes mellitus without complications,diarrhea,0.16666666666666666
+Type 2 diabetes mellitus without complications,abdominal pain,0.16666666666666666
+Type 2 diabetes mellitus without complications,headache,0.16666666666666666
+Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting left non-dominant side,dizziness,1.0
+Polyneuropathy in diabetes,fatigue,0.14285714285714285
+Polyneuropathy in diabetes,diarrhea,0.2857142857142857
+Polyneuropathy in diabetes,nausea and vomiting,0.14285714285714285
+Polyneuropathy in diabetes,abdominal pain,0.14285714285714285
+Polyneuropathy in diabetes,headache,0.14285714285714285
+Polyneuropathy in diabetes,shortness of breath,0.14285714285714285
+"Assault by knife, initial encounter",cough,0.3333333333333333
+"Assault by knife, initial encounter",diarrhea,0.3333333333333333
+"Assault by knife, initial encounter",petechiae,0.3333333333333333
+Other chronic pulmonary heart diseases,cough,0.2857142857142857
+Other chronic pulmonary heart diseases,shortness of breath,0.2857142857142857
+Other chronic pulmonary heart diseases,night sweats,0.14285714285714285
+Other chronic pulmonary heart diseases,diarrhea,0.14285714285714285
+Other chronic pulmonary heart diseases,abdominal pain,0.14285714285714285
+"Hemiplegia, unspecified affecting right dominant side",shoulder pain,0.5
+"Hemiplegia, unspecified affecting right dominant side",headache,0.5
+Moderate protein-calorie malnutrition,fatigue,0.2
+Moderate protein-calorie malnutrition,cough,0.2
+Moderate protein-calorie malnutrition,diarrhea,0.2
+Moderate protein-calorie malnutrition,shortness of breath,0.2
+Moderate protein-calorie malnutrition,abdominal pain,0.2
+Civilian activity done for income or pay,wheezing,0.25
+Civilian activity done for income or pay,cough,0.25
+Civilian activity done for income or pay,shortness of breath,0.25
+Civilian activity done for income or pay,diarrhea,0.25
+Loss of weight,abdominal pain,0.125
+Loss of weight,diarrhea,0.25
+Loss of weight,nausea and vomiting,0.25
+Loss of weight,cough,0.125
+Loss of weight,shortness of breath,0.125
+Loss of weight,headache,0.125
+"Malignant neoplasm of liver, primary",joint pain,0.125
+"Malignant neoplasm of liver, primary",dizziness,0.125
+"Malignant neoplasm of liver, primary",cough,0.125
+"Malignant neoplasm of liver, primary",shortness of breath,0.125
+"Malignant neoplasm of liver, primary",diarrhea,0.125
+"Malignant neoplasm of liver, primary",leg pain,0.125
+"Malignant neoplasm of liver, primary",abdominal pain,0.125
+"Malignant neoplasm of liver, primary",headache,0.125
+"Pneumonia, organism unspecified",wheezing,0.2727272727272727
+"Pneumonia, organism unspecified",cough,0.18181818181818182
+"Pneumonia, organism unspecified",shortness of breath,0.18181818181818182
+"Pneumonia, organism unspecified",diarrhea,0.09090909090909091
+"Pneumonia, organism unspecified",abdominal pain,0.09090909090909091
+"Pneumonia, organism unspecified",dizziness,0.09090909090909091
+"Pneumonia, organism unspecified",fatigue,0.09090909090909091
+Unspecified chronic gastritis without bleeding,cough,0.2
+Unspecified chronic gastritis without bleeding,shortness of breath,0.2
+Unspecified chronic gastritis without bleeding,diarrhea,0.2
+Unspecified chronic gastritis without bleeding,nausea and vomiting,0.2
+Unspecified chronic gastritis without bleeding,abdominal pain,0.2
+Type 2 diabetes mellitus with other diabetic ophthalmic complication,blood clots,0.25
+Type 2 diabetes mellitus with other diabetic ophthalmic complication,abdominal pain,0.25
+Type 2 diabetes mellitus with other diabetic ophthalmic complication,shortness of breath,0.25
+Type 2 diabetes mellitus with other diabetic ophthalmic complication,leg swelling,0.25
+Impotence of organic origin,blood clots,0.5
+Impotence of organic origin,leg pain,0.5
+"Diabetes with ketoacidosis, type II or unspecified type, uncontrolled",abdominal pain,1.0
+"Body Mass Index 31.0-31.9, adult",shortness of breath,0.3333333333333333
+"Body Mass Index 31.0-31.9, adult",abdominal pain,0.3333333333333333
+"Body Mass Index 31.0-31.9, adult",diarrhea,0.3333333333333333
+Rheumatic disorders of both mitral and tricuspid valves,shortness of breath,0.25
+Rheumatic disorders of both mitral and tricuspid valves,abdominal pain,0.25
+Rheumatic disorders of both mitral and tricuspid valves,diarrhea,0.25
+Rheumatic disorders of both mitral and tricuspid valves,headache,0.25
+Other and unspecified mycoses,cough,0.16666666666666666
+Other and unspecified mycoses,shortness of breath,0.16666666666666666
+Other and unspecified mycoses,night sweats,0.16666666666666666
+Other and unspecified mycoses,diarrhea,0.16666666666666666
+Other and unspecified mycoses,abdominal pain,0.16666666666666666
+Other and unspecified mycoses,headache,0.16666666666666666
+Personal history of malignant neoplasm of larynx,wheezing,0.3333333333333333
+Personal history of malignant neoplasm of larynx,cough,0.3333333333333333
+Personal history of malignant neoplasm of larynx,abdominal pain,0.3333333333333333
+Tension headache,cough,0.5
+Tension headache,diarrhea,0.5
+Takotsubo syndrome,dizziness,0.2
+Takotsubo syndrome,fatigue,0.2
+Takotsubo syndrome,shoulder pain,0.2
+Takotsubo syndrome,cough,0.2
+Takotsubo syndrome,shortness of breath,0.2
+Hypertensive heart disease with heart failure,cough,0.14285714285714285
+Hypertensive heart disease with heart failure,shortness of breath,0.14285714285714285
+Hypertensive heart disease with heart failure,night sweats,0.14285714285714285
+Hypertensive heart disease with heart failure,diarrhea,0.14285714285714285
+Hypertensive heart disease with heart failure,abdominal pain,0.14285714285714285
+Hypertensive heart disease with heart failure,headache,0.14285714285714285
+Hypertensive heart disease with heart failure,leg swelling,0.14285714285714285
+Hemorrhage from other sites in respiratory passages,shortness of breath,1.0
+"Esophageal varices in diseases classified elsewhere, without mention of bleeding",cough,1.0
+"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",abdominal pain,0.14285714285714285
+"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",vaginal discharge,0.14285714285714285
+"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",fatigue,0.14285714285714285
+"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",eosinophilia,0.14285714285714285
+"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",shortness of breath,0.14285714285714285
+"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",diarrhea,0.14285714285714285
+"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",leg swelling,0.14285714285714285
+Mobitz (type) II atrioventricular block,abdominal pain,1.0
+"Body mass index [BMI] 28.0-28.9, adult",wheezing,0.3333333333333333
+"Body mass index [BMI] 28.0-28.9, adult",abdominal pain,0.3333333333333333
+"Body mass index [BMI] 28.0-28.9, adult",shortness of breath,0.3333333333333333
+Personal history of sudden cardiac arrest,cough,0.4
+Personal history of sudden cardiac arrest,diarrhea,0.2
+Personal history of sudden cardiac arrest,abdominal pain,0.2
+Personal history of sudden cardiac arrest,shortness of breath,0.2
+"Cannabis abuse, unspecified",numbness,0.5
+"Cannabis abuse, unspecified",headache,0.5
+Acute posthemorrhagic anemia,shortness of breath,0.4
+Acute posthemorrhagic anemia,fatigue,0.2
+Acute posthemorrhagic anemia,dizziness,0.2
+Acute posthemorrhagic anemia,leg swelling,0.2
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy",wheezing,0.16666666666666666
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy",cough,0.16666666666666666
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy",shortness of breath,0.16666666666666666
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy",diarrhea,0.16666666666666666
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy",night sweats,0.16666666666666666
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy",headache,0.16666666666666666
+Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,cough,0.5
+Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,shortness of breath,0.5
+Other motor vehicle traffic accident involving collision on the highway injuring driver of motor vehicle other than motorcycle,headache,1.0
+Acute on chronic systolic heart failure,cough,0.3333333333333333
+Acute on chronic systolic heart failure,shortness of breath,0.3333333333333333
+Acute on chronic systolic heart failure,fatigue,0.3333333333333333
+Trigeminal neuralgia,dizziness,0.14285714285714285
+Trigeminal neuralgia,fatigue,0.14285714285714285
+Trigeminal neuralgia,cough,0.14285714285714285
+Trigeminal neuralgia,eosinophilia,0.14285714285714285
+Trigeminal neuralgia,diarrhea,0.14285714285714285
+Trigeminal neuralgia,shortness of breath,0.14285714285714285
+Trigeminal neuralgia,headache,0.14285714285714285
+"Staphylococcus infection in conditions classified elsewhere and of unspecified site, staphylococcus, unspecified",headache,1.0
+Personal history of other diseases of the circulatory system,cough,0.25
+Personal history of other diseases of the circulatory system,nasal congestion,0.25
+Personal history of other diseases of the circulatory system,diarrhea,0.25
+Personal history of other diseases of the circulatory system,shortness of breath,0.25
+Chronic diastolic heart failure,diarrhea,0.1875
+Chronic diastolic heart failure,nausea and vomiting,0.0625
+Chronic diastolic heart failure,cough,0.125
+Chronic diastolic heart failure,shortness of breath,0.125
+Chronic diastolic heart failure,night sweats,0.125
+Chronic diastolic heart failure,abdominal pain,0.125
+Chronic diastolic heart failure,headache,0.125
+Chronic diastolic heart failure,numbness,0.0625
+Chronic diastolic heart failure,dizziness,0.0625
+"Major depressive affective disorder, single episode, unspecified",wheezing,0.25
+"Major depressive affective disorder, single episode, unspecified",cough,0.25
+"Major depressive affective disorder, single episode, unspecified",abdominal pain,0.25
+"Major depressive affective disorder, single episode, unspecified",diarrhea,0.25
+Unspecified place in unspecified non-institutional (private) residence as the place of occurrence of the external cause,cough,0.5
+Unspecified place in unspecified non-institutional (private) residence as the place of occurrence of the external cause,shortness of breath,0.5
+"Fall from other slipping, tripping, or stumbling",cough,0.1111111111111111
+"Fall from other slipping, tripping, or stumbling",shortness of breath,0.1111111111111111
+"Fall from other slipping, tripping, or stumbling",night sweats,0.1111111111111111
+"Fall from other slipping, tripping, or stumbling",diarrhea,0.2222222222222222
+"Fall from other slipping, tripping, or stumbling",abdominal pain,0.1111111111111111
+"Fall from other slipping, tripping, or stumbling",headache,0.1111111111111111
+"Fall from other slipping, tripping, or stumbling",numbness,0.1111111111111111
+"Fall from other slipping, tripping, or stumbling",hip pain,0.1111111111111111
+Severe sepsis without septic shock,cough,1.0
+Chronic combined systolic and diastolic heart failure,dizziness,1.0
+Awaiting organ transplant status,cough,0.3333333333333333
+Awaiting organ transplant status,nasal congestion,0.3333333333333333
+Awaiting organ transplant status,dizziness,0.3333333333333333
+Bacteremia,wheezing,0.2
+Bacteremia,cough,0.2
+Bacteremia,breast rash,0.2
+Bacteremia,shortness of breath,0.2
+Bacteremia,diarrhea,0.2
+Psoriatic arthropathy,joint pain,0.1
+Psoriatic arthropathy,blood clots,0.1
+Psoriatic arthropathy,cough,0.1
+Psoriatic arthropathy,shortness of breath,0.1
+Psoriatic arthropathy,night sweats,0.1
+Psoriatic arthropathy,diarrhea,0.1
+Psoriatic arthropathy,hip pain,0.1
+Psoriatic arthropathy,abdominal pain,0.1
+Psoriatic arthropathy,foot pain,0.1
+Psoriatic arthropathy,headache,0.1
+Anemia in other chronic diseases classified elsewhere,cough,0.14285714285714285
+Anemia in other chronic diseases classified elsewhere,abdominal pain,0.2857142857142857
+Anemia in other chronic diseases classified elsewhere,night sweats,0.14285714285714285
+Anemia in other chronic diseases classified elsewhere,diarrhea,0.14285714285714285
+Anemia in other chronic diseases classified elsewhere,wheezing,0.14285714285714285
+Anemia in other chronic diseases classified elsewhere,shortness of breath,0.14285714285714285
+Diverticulosis of colon (without mention of hemorrhage),wheezing,0.2
+Diverticulosis of colon (without mention of hemorrhage),cough,0.2
+Diverticulosis of colon (without mention of hemorrhage),shortness of breath,0.2
+Diverticulosis of colon (without mention of hemorrhage),diarrhea,0.2
+Diverticulosis of colon (without mention of hemorrhage),abdominal pain,0.2
+Right bundle branch block,cough,0.25
+Right bundle branch block,shortness of breath,0.25
+Right bundle branch block,dizziness,0.25
+Right bundle branch block,fatigue,0.25
+Personal history of other malignant neoplasm of stomach,cough,0.5
+Personal history of other malignant neoplasm of stomach,diarrhea,0.5
+Ulcer of other part of foot,foot pain,1.0
+Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],vaginal bleeding,0.125
+Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],wheezing,0.125
+Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],cough,0.125
+Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],diarrhea,0.125
+Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],night sweats,0.125
+Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],shortness of breath,0.125
+Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],abdominal pain,0.125
+Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],headache,0.125
+"Edema, unspecified",numbness,0.16666666666666666
+"Edema, unspecified",dizziness,0.16666666666666666
+"Edema, unspecified",cough,0.16666666666666666
+"Edema, unspecified",shortness of breath,0.16666666666666666
+"Edema, unspecified",abdominal pain,0.16666666666666666
+"Edema, unspecified",headache,0.16666666666666666
+"Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",diarrhea,0.25
+"Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",dizziness,0.25
+"Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",pelvic pain,0.25
+"Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",shortness of breath,0.25
+Pedal cycle driver injured in collision with other nonmotor vehicle in nontraffic accident,cough,0.09090909090909091
+Pedal cycle driver injured in collision with other nonmotor vehicle in nontraffic accident,diarrhea,0.18181818181818182
+Pedal cycle driver injured in collision with other nonmotor vehicle in nontraffic accident,night sweats,0.18181818181818182
+Pedal cycle driver injured in collision with other nonmotor vehicle in nontraffic accident,shortness of breath,0.18181818181818182
+Pedal cycle driver injured in collision with other nonmotor vehicle in nontraffic accident,abdominal pain,0.18181818181818182
+Pedal cycle driver injured in collision with other nonmotor vehicle in nontraffic accident,headache,0.18181818181818182
+Acquired absence of both cervix and uterus,joint pain,0.09090909090909091
+Acquired absence of both cervix and uterus,wheezing,0.09090909090909091
+Acquired absence of both cervix and uterus,cough,0.18181818181818182
+Acquired absence of both cervix and uterus,diarrhea,0.18181818181818182
+Acquired absence of both cervix and uterus,night sweats,0.09090909090909091
+Acquired absence of both cervix and uterus,shortness of breath,0.09090909090909091
+Acquired absence of both cervix and uterus,abdominal pain,0.18181818181818182
+Acquired absence of both cervix and uterus,dizziness,0.09090909090909091
+Tubal pregnancy without intrauterine pregnancy,dizziness,0.16666666666666666
+Tubal pregnancy without intrauterine pregnancy,vaginal bleeding,0.16666666666666666
+Tubal pregnancy without intrauterine pregnancy,diarrhea,0.16666666666666666
+Tubal pregnancy without intrauterine pregnancy,abdominal pain,0.16666666666666666
+Tubal pregnancy without intrauterine pregnancy,vaginal discharge,0.16666666666666666
+Tubal pregnancy without intrauterine pregnancy,headache,0.16666666666666666
+Long QT syndrome,cough,0.3333333333333333
+Long QT syndrome,diarrhea,0.3333333333333333
+Long QT syndrome,fatigue,0.3333333333333333
+Frequency of micturition,numbness,0.16666666666666666
+Frequency of micturition,cough,0.16666666666666666
+Frequency of micturition,diarrhea,0.16666666666666666
+Frequency of micturition,night sweats,0.16666666666666666
+Frequency of micturition,abdominal pain,0.16666666666666666
+Frequency of micturition,headache,0.16666666666666666
+"Fever, unspecified",cough,0.14285714285714285
+"Fever, unspecified",diarrhea,0.14285714285714285
+"Fever, unspecified",night sweats,0.14285714285714285
+"Fever, unspecified",shortness of breath,0.14285714285714285
+"Fever, unspecified",abdominal pain,0.14285714285714285
+"Fever, unspecified",high white blood cell count,0.14285714285714285
+"Fever, unspecified",headache,0.14285714285714285
+"Spinal stenosis, lumbar region, with neurogenic claudication",numbness,0.14285714285714285
+"Spinal stenosis, lumbar region, with neurogenic claudication",cough,0.14285714285714285
+"Spinal stenosis, lumbar region, with neurogenic claudication",shortness of breath,0.14285714285714285
+"Spinal stenosis, lumbar region, with neurogenic claudication",night sweats,0.14285714285714285
+"Spinal stenosis, lumbar region, with neurogenic claudication",hip pain,0.14285714285714285
+"Spinal stenosis, lumbar region, with neurogenic claudication",diarrhea,0.14285714285714285
+"Spinal stenosis, lumbar region, with neurogenic claudication",headache,0.14285714285714285
+Unspecified macular degeneration,cough,0.2
+Unspecified macular degeneration,shortness of breath,0.2
+Unspecified macular degeneration,runny nose,0.2
+Unspecified macular degeneration,abdominal pain,0.2
+Unspecified macular degeneration,headache,0.2
+Other and unspecified Escherichia coli [E. coli],wheezing,0.125
+Other and unspecified Escherichia coli [E. coli],cough,0.125
+Other and unspecified Escherichia coli [E. coli],shortness of breath,0.125
+Other and unspecified Escherichia coli [E. coli],diarrhea,0.125
+Other and unspecified Escherichia coli [E. coli],night sweats,0.125
+Other and unspecified Escherichia coli [E. coli],abdominal pain,0.125
+Other and unspecified Escherichia coli [E. coli],breast lumps,0.125
+Other and unspecified Escherichia coli [E. coli],headache,0.125
+"Body mass index [BMI] 27.0-27.9, adult",abdominal pain,0.5
+"Body mass index [BMI] 27.0-27.9, adult",vaginal discharge,0.5
+"Chronic kidney disease, stage 4 (severe)",blood clots,0.5
+"Chronic kidney disease, stage 4 (severe)",diarrhea,0.5
+Dehydration,numbness,0.1
+Dehydration,shortness of breath,0.2
+Dehydration,diarrhea,0.1
+Dehydration,nausea and vomiting,0.1
+Dehydration,abdominal pain,0.1
+Dehydration,cough,0.1
+Dehydration,dizziness,0.1
+Dehydration,headache,0.2
+"Acute myeloblastic leukemia, in relapse",diarrhea,0.25
+"Acute myeloblastic leukemia, in relapse",dizziness,0.25
+"Acute myeloblastic leukemia, in relapse",fatigue,0.25
+"Acute myeloblastic leukemia, in relapse",headache,0.25
+Chronic hepatitis C with hepatic coma,cough,0.3333333333333333
+Chronic hepatitis C with hepatic coma,numbness,0.3333333333333333
+Chronic hepatitis C with hepatic coma,runny nose,0.3333333333333333
+Umbilical hernia without mention of obstruction or gangrene,cough,0.5
+Umbilical hernia without mention of obstruction or gangrene,abdominal pain,0.5
+Neoplasm of uncertain behavior of other and unspecified male genital organs,shoulder pain,0.5
+Neoplasm of uncertain behavior of other and unspecified male genital organs,leg pain,0.5
+Acute kidney failure with lesion of tubular necrosis,cough,0.25
+Acute kidney failure with lesion of tubular necrosis,abdominal pain,0.25
+Acute kidney failure with lesion of tubular necrosis,night sweats,0.25
+Acute kidney failure with lesion of tubular necrosis,headache,0.25
+"Leukocytosis, unspecified",fatigue,0.14285714285714285
+"Leukocytosis, unspecified",cough,0.14285714285714285
+"Leukocytosis, unspecified",shortness of breath,0.14285714285714285
+"Leukocytosis, unspecified",night sweats,0.14285714285714285
+"Leukocytosis, unspecified",diarrhea,0.14285714285714285
+"Leukocytosis, unspecified",abdominal pain,0.14285714285714285
+"Leukocytosis, unspecified",headache,0.14285714285714285
+"Osteoarthrosis, unspecified whether generalized or localized, site unspecified",rectal bleeding,0.3333333333333333
+"Osteoarthrosis, unspecified whether generalized or localized, site unspecified",fatigue,0.3333333333333333
+"Osteoarthrosis, unspecified whether generalized or localized, site unspecified",nausea and vomiting,0.3333333333333333
+"Surgical operation with anastomosis, bypass or graft as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",diarrhea,0.5
+"Surgical operation with anastomosis, bypass or graft as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",shortness of breath,0.5
+"Polyneuropathy, unspecified",diarrhea,1.0
+Severe sepsis,fatigue,1.0
+Secondary malignant neoplasm of other specified sites,wheezing,0.25
+Secondary malignant neoplasm of other specified sites,cough,0.25
+Secondary malignant neoplasm of other specified sites,nasal congestion,0.25
+Secondary malignant neoplasm of other specified sites,shortness of breath,0.25
+"Diastolic heart failure, unspecified",numbness,0.125
+"Diastolic heart failure, unspecified",joint pain,0.125
+"Diastolic heart failure, unspecified",fatigue,0.125
+"Diastolic heart failure, unspecified",shoulder pain,0.125
+"Diastolic heart failure, unspecified",arm pain,0.125
+"Diastolic heart failure, unspecified",diarrhea,0.125
+"Diastolic heart failure, unspecified",abdominal pain,0.125
+"Diastolic heart failure, unspecified",headache,0.125
+Other late effects of cerebrovascular disease,cough,0.5
+Other late effects of cerebrovascular disease,shortness of breath,0.5
+"Fall in (into) shower or empty bathtub, initial encounter",numbness,0.1111111111111111
+"Fall in (into) shower or empty bathtub, initial encounter",dizziness,0.1111111111111111
+"Fall in (into) shower or empty bathtub, initial encounter",cough,0.1111111111111111
+"Fall in (into) shower or empty bathtub, initial encounter",shortness of breath,0.1111111111111111
+"Fall in (into) shower or empty bathtub, initial encounter",night sweats,0.1111111111111111
+"Fall in (into) shower or empty bathtub, initial encounter",diarrhea,0.1111111111111111
+"Fall in (into) shower or empty bathtub, initial encounter",abdominal pain,0.1111111111111111
+"Fall in (into) shower or empty bathtub, initial encounter",rectal bleeding,0.1111111111111111
+"Fall in (into) shower or empty bathtub, initial encounter",headache,0.1111111111111111
+"Bipolar disorder, unspecified",nasal congestion,0.2
+"Bipolar disorder, unspecified",diarrhea,0.2
+"Bipolar disorder, unspecified",leg pain,0.2
+"Bipolar disorder, unspecified",abdominal pain,0.2
+"Bipolar disorder, unspecified",dizziness,0.2
+"Complications of transplanted organ, stem cell",fatigue,0.16666666666666666
+"Complications of transplanted organ, stem cell",cough,0.16666666666666666
+"Complications of transplanted organ, stem cell",diarrhea,0.16666666666666666
+"Complications of transplanted organ, stem cell",night sweats,0.16666666666666666
+"Complications of transplanted organ, stem cell",shortness of breath,0.16666666666666666
+"Complications of transplanted organ, stem cell",abdominal pain,0.16666666666666666
+"Asthma, unspecified type, unspecified",cough,0.5
+"Asthma, unspecified type, unspecified",leg swelling,0.5
+Other musculoskeletal symptoms referable to limbs,cough,0.14285714285714285
+Other musculoskeletal symptoms referable to limbs,shoulder pain,0.14285714285714285
+Other musculoskeletal symptoms referable to limbs,shortness of breath,0.14285714285714285
+Other musculoskeletal symptoms referable to limbs,night sweats,0.14285714285714285
+Other musculoskeletal symptoms referable to limbs,diarrhea,0.14285714285714285
+Other musculoskeletal symptoms referable to limbs,abdominal pain,0.14285714285714285
+Other musculoskeletal symptoms referable to limbs,headache,0.14285714285714285
+Other abnormal blood chemistry,cough,0.14285714285714285
+Other abnormal blood chemistry,shortness of breath,0.14285714285714285
+Other abnormal blood chemistry,diarrhea,0.14285714285714285
+Other abnormal blood chemistry,elevated liver enzymes,0.07142857142857142
+Other abnormal blood chemistry,abdominal pain,0.14285714285714285
+Other abnormal blood chemistry,headache,0.14285714285714285
+Other abnormal blood chemistry,numbness,0.07142857142857142
+Other abnormal blood chemistry,fatigue,0.07142857142857142
+Other abnormal blood chemistry,wheezing,0.07142857142857142
+Other long term (current) drug therapy,abdominal pain,0.5
+Other long term (current) drug therapy,dizziness,0.5
+Renal dialysis status,cough,0.2222222222222222
+Renal dialysis status,abdominal pain,0.1111111111111111
+Renal dialysis status,diarrhea,0.2222222222222222
+Renal dialysis status,shortness of breath,0.1111111111111111
+Renal dialysis status,night sweats,0.1111111111111111
+Renal dialysis status,nausea and vomiting,0.1111111111111111
+Renal dialysis status,headache,0.1111111111111111
+Paralysis agitans,cough,0.5
+Paralysis agitans,shortness of breath,0.5
+"Open wound of finger(s), without mention of complication",dizziness,0.2
+"Open wound of finger(s), without mention of complication",cough,0.2
+"Open wound of finger(s), without mention of complication",diarrhea,0.2
+"Open wound of finger(s), without mention of complication",shortness of breath,0.2
+"Open wound of finger(s), without mention of complication",abdominal pain,0.2
+Accidents occurring in residential institution,cough,0.2857142857142857
+Accidents occurring in residential institution,abdominal pain,0.14285714285714285
+Accidents occurring in residential institution,fatigue,0.14285714285714285
+Accidents occurring in residential institution,diarrhea,0.14285714285714285
+Accidents occurring in residential institution,shortness of breath,0.14285714285714285
+Accidents occurring in residential institution,headache,0.14285714285714285
+Other complications of intestinal pouch,abdominal pain,1.0
+Passenger in pick-up truck or van injured in collision with railway train or railway vehicle in traffic accident,cough,0.16666666666666666
+Passenger in pick-up truck or van injured in collision with railway train or railway vehicle in traffic accident,shortness of breath,0.16666666666666666
+Passenger in pick-up truck or van injured in collision with railway train or railway vehicle in traffic accident,night sweats,0.16666666666666666
+Passenger in pick-up truck or van injured in collision with railway train or railway vehicle in traffic accident,diarrhea,0.16666666666666666
+Passenger in pick-up truck or van injured in collision with railway train or railway vehicle in traffic accident,abdominal pain,0.16666666666666666
+Passenger in pick-up truck or van injured in collision with railway train or railway vehicle in traffic accident,headache,0.16666666666666666
+"Other disorders of muscle, ligament, and fascia",numbness,0.2
+"Other disorders of muscle, ligament, and fascia",dizziness,0.2
+"Other disorders of muscle, ligament, and fascia",cough,0.2
+"Other disorders of muscle, ligament, and fascia",shortness of breath,0.2
+"Other disorders of muscle, ligament, and fascia",headache,0.2
+Occlusion and stenosis of right carotid artery,elbow pain,0.5
+Occlusion and stenosis of right carotid artery,diarrhea,0.5
+"Other diseases of bronchus, not elsewhere classified",wheezing,0.3333333333333333
+"Other diseases of bronchus, not elsewhere classified",abdominal pain,0.3333333333333333
+"Other diseases of bronchus, not elsewhere classified",shortness of breath,0.3333333333333333
+"Poisoning by aromatic analgesics, not elsewhere classified",ankle pain,0.25
+"Poisoning by aromatic analgesics, not elsewhere classified",elevated liver enzymes,0.25
+"Poisoning by aromatic analgesics, not elsewhere classified",abdominal pain,0.25
+"Poisoning by aromatic analgesics, not elsewhere classified",diarrhea,0.25
+Nonrheumatic aortic (valve) stenosis,fatigue,0.2
+Nonrheumatic aortic (valve) stenosis,wheezing,0.2
+Nonrheumatic aortic (valve) stenosis,diarrhea,0.2
+Nonrheumatic aortic (valve) stenosis,shortness of breath,0.2
+Nonrheumatic aortic (valve) stenosis,abdominal pain,0.2
+Mechanical complication of tracheostomy,wheezing,0.5
+Mechanical complication of tracheostomy,cough,0.5
+Obstructive chronic bronchitis without exacerbation,cough,0.3333333333333333
+Obstructive chronic bronchitis without exacerbation,shortness of breath,0.3333333333333333
+Obstructive chronic bronchitis without exacerbation,dizziness,0.3333333333333333
+Personal history of malignant neoplasm of kidney,shoulder pain,0.5
+Personal history of malignant neoplasm of kidney,diarrhea,0.5
+"Acute myeloid leukemia, without mention of having achieved remission",shortness of breath,0.5
+"Acute myeloid leukemia, without mention of having achieved remission",abdominal pain,0.5
+"Unspecified osteomyelitis, ankle and foot",cough,0.16666666666666666
+"Unspecified osteomyelitis, ankle and foot",shortness of breath,0.16666666666666666
+"Unspecified osteomyelitis, ankle and foot",night sweats,0.16666666666666666
+"Unspecified osteomyelitis, ankle and foot",diarrhea,0.16666666666666666
+"Unspecified osteomyelitis, ankle and foot",abdominal pain,0.16666666666666666
+"Unspecified osteomyelitis, ankle and foot",headache,0.16666666666666666
+"Alopecia, unspecified",blood clots,0.5
+"Alopecia, unspecified",fatigue,0.5
+Cerebral edema,headache,1.0
+Acute embolism and thrombosis of other specified veins,shoulder pain,0.25
+Acute embolism and thrombosis of other specified veins,numbness,0.25
+Acute embolism and thrombosis of other specified veins,blood clots,0.25
+Acute embolism and thrombosis of other specified veins,cough,0.25
+Hypercalcemia,fatigue,0.2
+Hypercalcemia,cough,0.2
+Hypercalcemia,nausea and vomiting,0.2
+Hypercalcemia,abdominal pain,0.2
+Hypercalcemia,headache,0.2
+"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",abdominal pain,1.0
+Tracheostomy status,blood clots,1.0
+Obstructive sleep apnea (adult)(pediatric),abdominal pain,0.4
+Obstructive sleep apnea (adult)(pediatric),shortness of breath,0.2
+Obstructive sleep apnea (adult)(pediatric),blood clots,0.2
+Obstructive sleep apnea (adult)(pediatric),dizziness,0.2
+"Malignant neoplasm of uterus, part unspecified",pelvic pain,0.16666666666666666
+"Malignant neoplasm of uterus, part unspecified",cough,0.16666666666666666
+"Malignant neoplasm of uterus, part unspecified",shortness of breath,0.16666666666666666
+"Malignant neoplasm of uterus, part unspecified",diarrhea,0.16666666666666666
+"Malignant neoplasm of uterus, part unspecified",abdominal pain,0.16666666666666666
+"Malignant neoplasm of uterus, part unspecified",headache,0.16666666666666666
+"Chronic kidney disease, unspecified",cough,0.15384615384615385
+"Chronic kidney disease, unspecified",shortness of breath,0.15384615384615385
+"Chronic kidney disease, unspecified",fatigue,0.07692307692307693
+"Chronic kidney disease, unspecified",wheezing,0.07692307692307693
+"Chronic kidney disease, unspecified",abdominal pain,0.23076923076923078
+"Chronic kidney disease, unspecified",dizziness,0.07692307692307693
+"Chronic kidney disease, unspecified",diarrhea,0.07692307692307693
+"Chronic kidney disease, unspecified",night sweats,0.07692307692307693
+"Chronic kidney disease, unspecified",headache,0.07692307692307693
+"Leakage of biological heart valve graft, initial encounter",cough,0.3333333333333333
+"Leakage of biological heart valve graft, initial encounter",abdominal pain,0.3333333333333333
+"Leakage of biological heart valve graft, initial encounter",shortness of breath,0.3333333333333333
+Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere,joint pain,0.16666666666666666
+Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere,wheezing,0.16666666666666666
+Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere,cough,0.16666666666666666
+Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere,diarrhea,0.16666666666666666
+Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere,shortness of breath,0.16666666666666666
+Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere,fatigue,0.16666666666666666
+Passenger of special construction vehicle injured in traffic accident,cough,0.16666666666666666
+Passenger of special construction vehicle injured in traffic accident,shortness of breath,0.16666666666666666
+Passenger of special construction vehicle injured in traffic accident,night sweats,0.16666666666666666
+Passenger of special construction vehicle injured in traffic accident,diarrhea,0.16666666666666666
+Passenger of special construction vehicle injured in traffic accident,abdominal pain,0.16666666666666666
+Passenger of special construction vehicle injured in traffic accident,leg swelling,0.16666666666666666
+"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",cough,0.22727272727272727
+"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",shortness of breath,0.13636363636363635
+"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",night sweats,0.09090909090909091
+"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",diarrhea,0.18181818181818182
+"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",abdominal pain,0.09090909090909091
+"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",headache,0.09090909090909091
+"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",wheezing,0.045454545454545456
+"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",numbness,0.09090909090909091
+"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",runny nose,0.045454545454545456
+"Systolic heart failure, unspecified",shortness of breath,1.0
+Unspecified place in hospital as the place of occurrence of the external cause,cough,0.08333333333333333
+Unspecified place in hospital as the place of occurrence of the external cause,nasal congestion,0.08333333333333333
+Unspecified place in hospital as the place of occurrence of the external cause,diarrhea,0.16666666666666666
+Unspecified place in hospital as the place of occurrence of the external cause,fatigue,0.08333333333333333
+Unspecified place in hospital as the place of occurrence of the external cause,blood clots,0.08333333333333333
+Unspecified place in hospital as the place of occurrence of the external cause,abdominal pain,0.08333333333333333
+Unspecified place in hospital as the place of occurrence of the external cause,dizziness,0.08333333333333333
+Unspecified place in hospital as the place of occurrence of the external cause,headache,0.16666666666666666
+Unspecified place in hospital as the place of occurrence of the external cause,wheezing,0.08333333333333333
+Unspecified place in hospital as the place of occurrence of the external cause,shortness of breath,0.08333333333333333
+Tobacco use,cough,0.2
+Tobacco use,shortness of breath,0.2
+Tobacco use,diarrhea,0.2
+Tobacco use,leg pain,0.2
+Tobacco use,abdominal pain,0.2
+Other sequelae of chronic liver disease,elevated liver enzymes,0.5
+Other sequelae of chronic liver disease,diarrhea,0.5
+Personal history of other infectious and parasitic diseases,cough,0.2
+Personal history of other infectious and parasitic diseases,shortness of breath,0.2
+Personal history of other infectious and parasitic diseases,diarrhea,0.2
+Personal history of other infectious and parasitic diseases,abdominal pain,0.2
+Personal history of other infectious and parasitic diseases,high white blood cell count,0.2
+Hypokalemia,cough,0.3333333333333333
+Hypokalemia,abdominal pain,0.3333333333333333
+Hypokalemia,diarrhea,0.3333333333333333
+"Post-traumatic stress disorder, unspecified",cough,0.25
+"Post-traumatic stress disorder, unspecified",abdominal pain,0.25
+"Post-traumatic stress disorder, unspecified",diarrhea,0.25
+"Post-traumatic stress disorder, unspecified",headache,0.25
+Unspecified hemorrhoids without mention of complication,nasal congestion,0.1
+Unspecified hemorrhoids without mention of complication,cough,0.1
+Unspecified hemorrhoids without mention of complication,shoulder pain,0.1
+Unspecified hemorrhoids without mention of complication,shortness of breath,0.1
+Unspecified hemorrhoids without mention of complication,night sweats,0.1
+Unspecified hemorrhoids without mention of complication,eye pain,0.1
+Unspecified hemorrhoids without mention of complication,diarrhea,0.1
+Unspecified hemorrhoids without mention of complication,muscle pain,0.1
+Unspecified hemorrhoids without mention of complication,abdominal pain,0.1
+Unspecified hemorrhoids without mention of complication,headache,0.1
+Cachexia,numbness,0.14285714285714285
+Cachexia,cough,0.14285714285714285
+Cachexia,diarrhea,0.14285714285714285
+Cachexia,night sweats,0.14285714285714285
+Cachexia,shortness of breath,0.14285714285714285
+Cachexia,abdominal pain,0.14285714285714285
+Cachexia,headache,0.14285714285714285
+Dysarthria,numbness,0.5
+Dysarthria,headache,0.5
+Peritoneal adhesions (postoperative) (postinfection),abdominal pain,0.5
+Peritoneal adhesions (postoperative) (postinfection),vaginal discharge,0.25
+Peritoneal adhesions (postoperative) (postinfection),vaginal bleeding,0.25
+Malignant ascites,cough,0.2
+Malignant ascites,shortness of breath,0.2
+Malignant ascites,night sweats,0.2
+Malignant ascites,diarrhea,0.2
+Malignant ascites,headache,0.2
+"Spinal stenosis, lumbar region",wheezing,1.0
+"Chronic osteomyelitis, other specified sites",wheezing,0.14285714285714285
+"Chronic osteomyelitis, other specified sites",cough,0.14285714285714285
+"Chronic osteomyelitis, other specified sites",shortness of breath,0.14285714285714285
+"Chronic osteomyelitis, other specified sites",night sweats,0.14285714285714285
+"Chronic osteomyelitis, other specified sites",diarrhea,0.14285714285714285
+"Chronic osteomyelitis, other specified sites",abdominal pain,0.14285714285714285
+"Chronic osteomyelitis, other specified sites",headache,0.14285714285714285
+Dissociative identity disorder,abdominal pain,0.5
+Dissociative identity disorder,nausea and vomiting,0.5
+Iron deficiency anemia secondary to blood loss (chronic),cough,0.25
+Iron deficiency anemia secondary to blood loss (chronic),abdominal pain,0.25
+Iron deficiency anemia secondary to blood loss (chronic),diarrhea,0.25
+Iron deficiency anemia secondary to blood loss (chronic),fatigue,0.25
+Supraventricular tachycardia,fatigue,0.1111111111111111
+Supraventricular tachycardia,wheezing,0.2222222222222222
+Supraventricular tachycardia,cough,0.1111111111111111
+Supraventricular tachycardia,abdominal pain,0.1111111111111111
+Supraventricular tachycardia,headache,0.1111111111111111
+Supraventricular tachycardia,shortness of breath,0.2222222222222222
+Supraventricular tachycardia,leg swelling,0.1111111111111111
+Other disorders of phosphorus metabolism,dizziness,0.2
+Other disorders of phosphorus metabolism,cough,0.2
+Other disorders of phosphorus metabolism,nausea and vomiting,0.2
+Other disorders of phosphorus metabolism,abdominal pain,0.2
+Other disorders of phosphorus metabolism,headache,0.2
+"Other malignant neoplasm of skin of lower limb, including hip",shortness of breath,0.25
+"Other malignant neoplasm of skin of lower limb, including hip",abdominal pain,0.25
+"Other malignant neoplasm of skin of lower limb, including hip",diarrhea,0.25
+"Other malignant neoplasm of skin of lower limb, including hip",dizziness,0.25
+Vascular abnormalities of conjunctiva,fatigue,0.16666666666666666
+Vascular abnormalities of conjunctiva,cough,0.16666666666666666
+Vascular abnormalities of conjunctiva,diarrhea,0.16666666666666666
+Vascular abnormalities of conjunctiva,shortness of breath,0.16666666666666666
+Vascular abnormalities of conjunctiva,abdominal pain,0.16666666666666666
+Vascular abnormalities of conjunctiva,headache,0.16666666666666666
+Cellulitis of right upper limb,cough,0.2
+Cellulitis of right upper limb,diarrhea,0.2
+Cellulitis of right upper limb,shortness of breath,0.2
+Cellulitis of right upper limb,abdominal pain,0.2
+Cellulitis of right upper limb,headache,0.2
+Subdural hemorrhage,fatigue,0.2
+Subdural hemorrhage,wheezing,0.2
+Subdural hemorrhage,cough,0.2
+Subdural hemorrhage,shortness of breath,0.2
+Subdural hemorrhage,leg swelling,0.2
+"Cocaine abuse, unspecified",wheezing,0.5
+"Cocaine abuse, unspecified",shortness of breath,0.5
+"Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation, without mention of obstruction",abdominal pain,1.0
+"Epilepsy, unspecified, without mention of intractable epilepsy",cough,0.18181818181818182
+"Epilepsy, unspecified, without mention of intractable epilepsy",shortness of breath,0.09090909090909091
+"Epilepsy, unspecified, without mention of intractable epilepsy",night sweats,0.18181818181818182
+"Epilepsy, unspecified, without mention of intractable epilepsy",diarrhea,0.18181818181818182
+"Epilepsy, unspecified, without mention of intractable epilepsy",nausea and vomiting,0.09090909090909091
+"Epilepsy, unspecified, without mention of intractable epilepsy",headache,0.18181818181818182
+"Epilepsy, unspecified, without mention of intractable epilepsy",abdominal pain,0.09090909090909091
+"Urinary catheterization as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",shortness of breath,1.0
+Personal history of alcoholism,cough,1.0
+Other specified abnormalities of plasma proteins,wheezing,0.25
+Other specified abnormalities of plasma proteins,shoulder pain,0.25
+Other specified abnormalities of plasma proteins,abdominal pain,0.25
+Other specified abnormalities of plasma proteins,diarrhea,0.25
+"Schizoaffective disorder, bipolar type",nausea and vomiting,0.25
+"Schizoaffective disorder, bipolar type",shortness of breath,0.25
+"Schizoaffective disorder, bipolar type",dizziness,0.25
+"Schizoaffective disorder, bipolar type",headache,0.25
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy",numbness,0.14285714285714285
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy",cough,0.14285714285714285
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy",diarrhea,0.14285714285714285
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy",night sweats,0.14285714285714285
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy",shortness of breath,0.14285714285714285
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy",abdominal pain,0.14285714285714285
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy",headache,0.14285714285714285
+Person on outside of car injured in collision with two- or three-wheeled motor vehicle in nontraffic accident,shortness of breath,0.5
+Person on outside of car injured in collision with two- or three-wheeled motor vehicle in nontraffic accident,dizziness,0.5
+"Chronic airway obstruction, not elsewhere classified",fatigue,0.07692307692307693
+"Chronic airway obstruction, not elsewhere classified",wheezing,0.07692307692307693
+"Chronic airway obstruction, not elsewhere classified",cough,0.23076923076923078
+"Chronic airway obstruction, not elsewhere classified",shortness of breath,0.15384615384615385
+"Chronic airway obstruction, not elsewhere classified",diarrhea,0.15384615384615385
+"Chronic airway obstruction, not elsewhere classified",night sweats,0.07692307692307693
+"Chronic airway obstruction, not elsewhere classified",abdominal pain,0.07692307692307693
+"Chronic airway obstruction, not elsewhere classified",headache,0.07692307692307693
+"Chronic airway obstruction, not elsewhere classified",blood clots,0.07692307692307693
+Aftercare following surgery for neoplasm,diarrhea,1.0
+Person boarding or alighting a car injured in collision with railway train or railway vehicle,cough,0.14285714285714285
+Person boarding or alighting a car injured in collision with railway train or railway vehicle,shortness of breath,0.14285714285714285
+Person boarding or alighting a car injured in collision with railway train or railway vehicle,night sweats,0.14285714285714285
+Person boarding or alighting a car injured in collision with railway train or railway vehicle,hip pain,0.14285714285714285
+Person boarding or alighting a car injured in collision with railway train or railway vehicle,diarrhea,0.14285714285714285
+Person boarding or alighting a car injured in collision with railway train or railway vehicle,abdominal pain,0.14285714285714285
+Person boarding or alighting a car injured in collision with railway train or railway vehicle,headache,0.14285714285714285
+Hyperosmolality and hypernatremia,cough,0.5
+Hyperosmolality and hypernatremia,shortness of breath,0.5
+Liver cell carcinoma,abdominal pain,0.25
+Liver cell carcinoma,shortness of breath,0.25
+Liver cell carcinoma,dizziness,0.25
+Liver cell carcinoma,diarrhea,0.25
+Other obstruction of duodenum,cough,0.2
+Other obstruction of duodenum,diarrhea,0.2
+Other obstruction of duodenum,nausea and vomiting,0.2
+Other obstruction of duodenum,abdominal pain,0.2
+Other obstruction of duodenum,leg swelling,0.2
+"Urinary catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",joint pain,0.5
+"Urinary catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",elbow pain,0.5
+"Opioid type dependence, continuous",abdominal pain,0.5
+"Opioid type dependence, continuous",dizziness,0.5
+Automatic implantable cardiac defibrillator in situ,fatigue,1.0
+Secondary neuroendocrine tumor of other sites,diarrhea,0.5
+Secondary neuroendocrine tumor of other sites,dizziness,0.5
+Unspecified condition of brain,numbness,0.14285714285714285
+Unspecified condition of brain,dizziness,0.14285714285714285
+Unspecified condition of brain,diarrhea,0.14285714285714285
+Unspecified condition of brain,night sweats,0.14285714285714285
+Unspecified condition of brain,muscle pain,0.14285714285714285
+Unspecified condition of brain,abdominal pain,0.14285714285714285
+Unspecified condition of brain,headache,0.14285714285714285
+"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other anaerobes",abdominal pain,0.5
+"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other anaerobes",diarrhea,0.5
+Other ascites,cough,0.2
+Other ascites,abdominal pain,0.4
+Other ascites,shortness of breath,0.2
+Other ascites,shoulder pain,0.2
+"Hemorrhage, unspecified",cough,0.16666666666666666
+"Hemorrhage, unspecified",shortness of breath,0.16666666666666666
+"Hemorrhage, unspecified",night sweats,0.16666666666666666
+"Hemorrhage, unspecified",diarrhea,0.16666666666666666
+"Hemorrhage, unspecified",abdominal pain,0.16666666666666666
+"Hemorrhage, unspecified",headache,0.16666666666666666
+Other specified bacterial agents as the cause of diseases classified elsewhere,wheezing,0.2
+Other specified bacterial agents as the cause of diseases classified elsewhere,cough,0.2
+Other specified bacterial agents as the cause of diseases classified elsewhere,diarrhea,0.2
+Other specified bacterial agents as the cause of diseases classified elsewhere,shortness of breath,0.2
+Other specified bacterial agents as the cause of diseases classified elsewhere,nausea and vomiting,0.2
+"Unspecified dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety",abdominal pain,0.2857142857142857
+"Unspecified dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety",shortness of breath,0.14285714285714285
+"Unspecified dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety",dizziness,0.14285714285714285
+"Unspecified dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety",cough,0.14285714285714285
+"Unspecified dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety",diarrhea,0.14285714285714285
+"Unspecified dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety",headache,0.14285714285714285
+Dependence on renal dialysis,wheezing,0.25
+Dependence on renal dialysis,cough,0.25
+Dependence on renal dialysis,shortness of breath,0.25
+Dependence on renal dialysis,numbness,0.25
+"Unspecified asthma, uncomplicated",abdominal pain,1.0
+"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",dizziness,0.16666666666666666
+"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",cough,0.16666666666666666
+"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",shortness of breath,0.16666666666666666
+"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",night sweats,0.16666666666666666
+"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",diarrhea,0.16666666666666666
+"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",headache,0.16666666666666666
+"Mild intermittent asthma, uncomplicated",pelvic pain,0.2
+"Mild intermittent asthma, uncomplicated",vaginal bleeding,0.2
+"Mild intermittent asthma, uncomplicated",diarrhea,0.2
+"Mild intermittent asthma, uncomplicated",abdominal pain,0.2
+"Mild intermittent asthma, uncomplicated",vaginal discharge,0.2
+Acute systolic (congestive) heart failure,wheezing,1.0
+Person boarding or alighting a pedal cycle injured in collision with pedestrian or animal,cough,1.0
+"Pneumonia, unspecified organism",cough,0.3333333333333333
+"Pneumonia, unspecified organism",fatigue,0.16666666666666666
+"Pneumonia, unspecified organism",diarrhea,0.16666666666666666
+"Pneumonia, unspecified organism",abdominal pain,0.16666666666666666
+"Pneumonia, unspecified organism",petechiae,0.16666666666666666
+"Ileus, unspecified",abdominal pain,0.4
+"Ileus, unspecified",cough,0.2
+"Ileus, unspecified",night sweats,0.2
+"Ileus, unspecified",headache,0.2
+Acute respiratory failure with hypoxia,cough,0.5
+Acute respiratory failure with hypoxia,diarrhea,0.5
+Motorcycle driver injured in collision with fixed or stationary object in nontraffic accident,wheezing,0.25
+Motorcycle driver injured in collision with fixed or stationary object in nontraffic accident,cough,0.25
+Motorcycle driver injured in collision with fixed or stationary object in nontraffic accident,headache,0.25
+Motorcycle driver injured in collision with fixed or stationary object in nontraffic accident,vaginal bleeding,0.25
+Antidepressants causing adverse effects in therapeutic use,ankle pain,1.0
+"Small cell B-cell lymphoma, extranodal and solid organ sites",cough,0.3333333333333333
+"Small cell B-cell lymphoma, extranodal and solid organ sites",dizziness,0.3333333333333333
+"Small cell B-cell lymphoma, extranodal and solid organ sites",headache,0.3333333333333333
+Fluid overload disorder,cough,0.14285714285714285
+Fluid overload disorder,shortness of breath,0.14285714285714285
+Fluid overload disorder,night sweats,0.14285714285714285
+Fluid overload disorder,diarrhea,0.14285714285714285
+Fluid overload disorder,abdominal pain,0.14285714285714285
+Fluid overload disorder,vaginal dryness,0.14285714285714285
+Fluid overload disorder,headache,0.14285714285714285
+Acute respiratory failure,wheezing,0.25
+Acute respiratory failure,cough,0.25
+Acute respiratory failure,shortness of breath,0.25
+Acute respiratory failure,diarrhea,0.25
+Acquired absence of unspecified breast and nipple,shortness of breath,1.0
+Other and unspecified infection due to central venous catheter,wheezing,0.25
+Other and unspecified infection due to central venous catheter,cough,0.25
+Other and unspecified infection due to central venous catheter,abdominal pain,0.25
+Other and unspecified infection due to central venous catheter,diarrhea,0.25
+Obstruction of bile duct,dizziness,0.125
+Obstruction of bile duct,wheezing,0.125
+Obstruction of bile duct,diarrhea,0.125
+Obstruction of bile duct,abdominal pain,0.25
+Obstruction of bile duct,headache,0.125
+Obstruction of bile duct,elevated liver enzymes,0.125
+Obstruction of bile duct,night sweats,0.125
+Sickle-cell trait,numbness,0.3333333333333333
+Sickle-cell trait,eosinophilia,0.3333333333333333
+Sickle-cell trait,night sweats,0.3333333333333333
+"Mantle cell lymphoma, intrathoracic lymph nodes",dizziness,0.2
+"Mantle cell lymphoma, intrathoracic lymph nodes",fatigue,0.2
+"Mantle cell lymphoma, intrathoracic lymph nodes",cough,0.2
+"Mantle cell lymphoma, intrathoracic lymph nodes",shortness of breath,0.2
+"Mantle cell lymphoma, intrathoracic lymph nodes",night sweats,0.2
+"Interstitial pulmonary disease, unspecified",cough,0.3333333333333333
+"Interstitial pulmonary disease, unspecified",shortness of breath,0.3333333333333333
+"Interstitial pulmonary disease, unspecified",diarrhea,0.3333333333333333
+"Other mechanical complication of nephrostomy catheter, initial encounter",frequent bowel movements,0.25
+"Other mechanical complication of nephrostomy catheter, initial encounter",abdominal pain,0.25
+"Other mechanical complication of nephrostomy catheter, initial encounter",diarrhea,0.25
+"Other mechanical complication of nephrostomy catheter, initial encounter",vaginal bleeding,0.25
+Polymyalgia rheumatica,cough,0.3333333333333333
+Polymyalgia rheumatica,abdominal pain,0.3333333333333333
+Polymyalgia rheumatica,diarrhea,0.3333333333333333
+"Unspecified car occupant injured in collision with car, pick-up truck or van in nontraffic accident",cough,0.5
+"Unspecified car occupant injured in collision with car, pick-up truck or van in nontraffic accident",headache,0.25
+"Unspecified car occupant injured in collision with car, pick-up truck or van in nontraffic accident",shortness of breath,0.25
+Acute respiratory failure with hypercapnia,cough,0.2
+Acute respiratory failure with hypercapnia,shortness of breath,0.2
+Acute respiratory failure with hypercapnia,diarrhea,0.2
+Acute respiratory failure with hypercapnia,abdominal pain,0.2
+Acute respiratory failure with hypercapnia,headache,0.2
+"Obesity, unspecified",cough,0.14285714285714285
+"Obesity, unspecified",abdominal pain,0.21428571428571427
+"Obesity, unspecified",diarrhea,0.14285714285714285
+"Obesity, unspecified",dizziness,0.07142857142857142
+"Obesity, unspecified",fatigue,0.14285714285714285
+"Obesity, unspecified",wheezing,0.07142857142857142
+"Obesity, unspecified",shortness of breath,0.14285714285714285
+"Obesity, unspecified",headache,0.07142857142857142
+Resistance to unspecified beta lactam antibiotics,wheezing,0.3333333333333333
+Resistance to unspecified beta lactam antibiotics,cough,0.3333333333333333
+Resistance to unspecified beta lactam antibiotics,abdominal pain,0.3333333333333333
+"Bronchitis and pneumonitis due to chemicals, gases, fumes and vapors",wheezing,0.16666666666666666
+"Bronchitis and pneumonitis due to chemicals, gases, fumes and vapors",cough,0.16666666666666666
+"Bronchitis and pneumonitis due to chemicals, gases, fumes and vapors",diarrhea,0.16666666666666666
+"Bronchitis and pneumonitis due to chemicals, gases, fumes and vapors",night sweats,0.16666666666666666
+"Bronchitis and pneumonitis due to chemicals, gases, fumes and vapors",shortness of breath,0.16666666666666666
+"Bronchitis and pneumonitis due to chemicals, gases, fumes and vapors",abdominal pain,0.16666666666666666
+Presence of cardiac pacemaker,wheezing,0.25
+Presence of cardiac pacemaker,cough,0.25
+Presence of cardiac pacemaker,shortness of breath,0.25
+Presence of cardiac pacemaker,fatigue,0.25
+"Other noninflammatory disorders of ovary, fallopian tube, and broad ligament",cough,1.0
+Long term (current) use of insulin,fatigue,1.0
+"Acute embolism and thrombosis of deep veins of upper extremity, bilateral",wheezing,0.5
+"Acute embolism and thrombosis of deep veins of upper extremity, bilateral",blood clots,0.5
+Allergy to radiographic dye,nasal congestion,0.1111111111111111
+Allergy to radiographic dye,numbness,0.1111111111111111
+Allergy to radiographic dye,dizziness,0.1111111111111111
+Allergy to radiographic dye,cough,0.1111111111111111
+Allergy to radiographic dye,shortness of breath,0.1111111111111111
+Allergy to radiographic dye,diarrhea,0.1111111111111111
+Allergy to radiographic dye,nosebleeds,0.1111111111111111
+Allergy to radiographic dye,abdominal pain,0.1111111111111111
+Allergy to radiographic dye,rectal bleeding,0.1111111111111111
+Hyposmolality and/or hyponatremia,numbness,0.125
+Hyposmolality and/or hyponatremia,fatigue,0.125
+Hyposmolality and/or hyponatremia,cough,0.125
+Hyposmolality and/or hyponatremia,shortness of breath,0.125
+Hyposmolality and/or hyponatremia,night sweats,0.125
+Hyposmolality and/or hyponatremia,diarrhea,0.125
+Hyposmolality and/or hyponatremia,abdominal pain,0.125
+Hyposmolality and/or hyponatremia,headache,0.125
+"Parastomal hernia with obstruction, without gangrene",dizziness,0.16666666666666666
+"Parastomal hernia with obstruction, without gangrene",fatigue,0.16666666666666666
+"Parastomal hernia with obstruction, without gangrene",blood clots,0.16666666666666666
+"Parastomal hernia with obstruction, without gangrene",shortness of breath,0.16666666666666666
+"Parastomal hernia with obstruction, without gangrene",abdominal pain,0.16666666666666666
+"Parastomal hernia with obstruction, without gangrene",headache,0.16666666666666666
+"Heart failure, unspecified",cough,0.14285714285714285
+"Heart failure, unspecified",shortness of breath,0.14285714285714285
+"Heart failure, unspecified",night sweats,0.14285714285714285
+"Heart failure, unspecified",diarrhea,0.14285714285714285
+"Heart failure, unspecified",abdominal pain,0.14285714285714285
+"Heart failure, unspecified",leg swelling,0.14285714285714285
+"Heart failure, unspecified",headache,0.14285714285714285
+"Myalgia and myositis, unspecified",wheezing,0.5
+"Myalgia and myositis, unspecified",headache,0.5
+Epigastric pain,rectal bleeding,0.3333333333333333
+Epigastric pain,abdominal pain,0.3333333333333333
+Epigastric pain,diarrhea,0.3333333333333333
+Glaucoma associated with systemic syndromes,numbness,0.3333333333333333
+Glaucoma associated with systemic syndromes,dizziness,0.3333333333333333
+Glaucoma associated with systemic syndromes,headache,0.3333333333333333
+Other sites of candidiasis,cough,0.5
+Other sites of candidiasis,dizziness,0.5
+Morbid (severe) obesity due to excess calories,cough,1.0
+"Swelling, mass, or lump in chest",cough,0.5
+"Swelling, mass, or lump in chest",shortness of breath,0.5
+Infection and inflammatory reaction due to indwelling urinary catheter,wheezing,0.3333333333333333
+Infection and inflammatory reaction due to indwelling urinary catheter,cough,0.3333333333333333
+Infection and inflammatory reaction due to indwelling urinary catheter,shortness of breath,0.3333333333333333
+"Spinal stenosis, unspecified region",numbness,0.14285714285714285
+"Spinal stenosis, unspecified region",wheezing,0.14285714285714285
+"Spinal stenosis, unspecified region",cough,0.14285714285714285
+"Spinal stenosis, unspecified region",shortness of breath,0.14285714285714285
+"Spinal stenosis, unspecified region",night sweats,0.14285714285714285
+"Spinal stenosis, unspecified region",abdominal pain,0.14285714285714285
+"Spinal stenosis, unspecified region",headache,0.14285714285714285
+Cellulitis and abscess of upper arm and forearm,fatigue,0.2
+Cellulitis and abscess of upper arm and forearm,wheezing,0.2
+Cellulitis and abscess of upper arm and forearm,cough,0.2
+Cellulitis and abscess of upper arm and forearm,diarrhea,0.2
+Cellulitis and abscess of upper arm and forearm,petechiae,0.2
+Chronic total occlusion of artery of the extremities,fatigue,0.2
+Chronic total occlusion of artery of the extremities,cough,0.2
+Chronic total occlusion of artery of the extremities,shortness of breath,0.2
+Chronic total occlusion of artery of the extremities,nausea and vomiting,0.2
+Chronic total occlusion of artery of the extremities,high white blood cell count,0.2
+"Hypothyroidism, unspecified",cough,0.3333333333333333
+"Hypothyroidism, unspecified",leg swelling,0.3333333333333333
+"Hypothyroidism, unspecified",headache,0.3333333333333333
+"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",wheezing,0.3333333333333333
+"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",cough,0.3333333333333333
+"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",shortness of breath,0.3333333333333333
+"Body mass index [BMI] 33.0-33.9, adult",joint pain,0.1
+"Body mass index [BMI] 33.0-33.9, adult",cough,0.1
+"Body mass index [BMI] 33.0-33.9, adult",shortness of breath,0.1
+"Body mass index [BMI] 33.0-33.9, adult",night sweats,0.1
+"Body mass index [BMI] 33.0-33.9, adult",muscle pain,0.1
+"Body mass index [BMI] 33.0-33.9, adult",diarrhea,0.1
+"Body mass index [BMI] 33.0-33.9, adult",hip pain,0.1
+"Body mass index [BMI] 33.0-33.9, adult",leg pain,0.1
+"Body mass index [BMI] 33.0-33.9, adult",abdominal pain,0.1
+"Body mass index [BMI] 33.0-33.9, adult",headache,0.1
+Carpal tunnel syndrome,wheezing,0.3333333333333333
+Carpal tunnel syndrome,shortness of breath,0.3333333333333333
+Carpal tunnel syndrome,dizziness,0.3333333333333333
+"Malignant neoplasm of breast (female), unspecified",shortness of breath,0.3333333333333333
+"Malignant neoplasm of breast (female), unspecified",fatigue,0.3333333333333333
+"Malignant neoplasm of breast (female), unspecified",abdominal pain,0.3333333333333333
+"Unspecified osteoarthritis, unspecified site",abdominal pain,0.5
+"Unspecified osteoarthritis, unspecified site",diarrhea,0.5
+Calculus of gallbladder with acute cholecystitis without obstruction,shortness of breath,0.3333333333333333
+Calculus of gallbladder with acute cholecystitis without obstruction,abdominal pain,0.3333333333333333
+Calculus of gallbladder with acute cholecystitis without obstruction,cough,0.3333333333333333
+Secondary malignant neoplasm of retroperitoneum and peritoneum,vaginal bleeding,0.2
+Secondary malignant neoplasm of retroperitoneum and peritoneum,nipple discharge,0.2
+Secondary malignant neoplasm of retroperitoneum and peritoneum,nausea and vomiting,0.2
+Secondary malignant neoplasm of retroperitoneum and peritoneum,abdominal pain,0.2
+Secondary malignant neoplasm of retroperitoneum and peritoneum,vaginal discharge,0.2
+Car passenger injured in collision with heavy transport vehicle or bus in nontraffic accident,wheezing,1.0
+Cirrhosis of liver without mention of alcohol,abdominal pain,1.0
+"Surgical procedure, unspecified as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",wheezing,0.25
+"Surgical procedure, unspecified as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",cough,0.25
+"Surgical procedure, unspecified as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",abdominal pain,0.25
+"Surgical procedure, unspecified as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",diarrhea,0.25
+"Bradycardia, unspecified",shortness of breath,0.16666666666666666
+"Bradycardia, unspecified",abdominal pain,0.16666666666666666
+"Bradycardia, unspecified",dizziness,0.3333333333333333
+"Bradycardia, unspecified",vaginal bleeding,0.16666666666666666
+"Bradycardia, unspecified",nosebleeds,0.16666666666666666
+Cystitis cystica,dry orgasm,0.5
+Cystitis cystica,abdominal pain,0.5
+Other specified aplastic anemias,cough,0.16666666666666666
+Other specified aplastic anemias,shortness of breath,0.16666666666666666
+Other specified aplastic anemias,diarrhea,0.16666666666666666
+Other specified aplastic anemias,low white blood cell count,0.16666666666666666
+Other specified aplastic anemias,abdominal pain,0.16666666666666666
+Other specified aplastic anemias,headache,0.16666666666666666
+Closed fracture of six ribs,cough,0.5
+Closed fracture of six ribs,shortness of breath,0.5
+Hydroureter,cough,0.3333333333333333
+Hydroureter,numbness,0.3333333333333333
+Hydroureter,abdominal pain,0.3333333333333333
+Acute and subacute necrosis of liver,shortness of breath,0.5
+Acute and subacute necrosis of liver,fatigue,0.5
+Other specified viral infection,abdominal pain,0.5
+Other specified viral infection,diarrhea,0.5
+Acute venous embolism and thrombosis of deep vessels of distal lower extremity,cough,0.125
+Acute venous embolism and thrombosis of deep vessels of distal lower extremity,shortness of breath,0.125
+Acute venous embolism and thrombosis of deep vessels of distal lower extremity,night sweats,0.125
+Acute venous embolism and thrombosis of deep vessels of distal lower extremity,diarrhea,0.125
+Acute venous embolism and thrombosis of deep vessels of distal lower extremity,leg pain,0.125
+Acute venous embolism and thrombosis of deep vessels of distal lower extremity,abdominal pain,0.125
+Acute venous embolism and thrombosis of deep vessels of distal lower extremity,brain lesions,0.125
+Acute venous embolism and thrombosis of deep vessels of distal lower extremity,headache,0.125
+Sicca syndrome,abdominal pain,0.5
+Sicca syndrome,nausea and vomiting,0.5
+"Spinal stenosis, lumbar region, without neurogenic claudication",numbness,0.5
+"Spinal stenosis, lumbar region, without neurogenic claudication",leg pain,0.5
+Operating room of hospital as the place of occurrence of the external cause,numbness,1.0
+Thoracic aneurysm without mention of rupture,headache,1.0
+Hypertensive urgency,cough,0.25
+Hypertensive urgency,abdominal pain,0.25
+Hypertensive urgency,shortness of breath,0.25
+Hypertensive urgency,diarrhea,0.25
+Mitral valve disorders,nasal congestion,0.125
+Mitral valve disorders,cough,0.125
+Mitral valve disorders,blood clots,0.125
+Mitral valve disorders,shortness of breath,0.125
+Mitral valve disorders,night sweats,0.125
+Mitral valve disorders,diarrhea,0.125
+Mitral valve disorders,abdominal pain,0.125
+Mitral valve disorders,headache,0.125
+Unspecified transient cerebral ischemia,cough,0.3333333333333333
+Unspecified transient cerebral ischemia,numbness,0.3333333333333333
+Unspecified transient cerebral ischemia,headache,0.3333333333333333
+"Hallucinations, unspecified",shortness of breath,1.0
+C5-C7 level with central cord syndrome,headache,1.0
+Other primary cardiomyopathies,fatigue,0.16666666666666666
+Other primary cardiomyopathies,cough,0.16666666666666666
+Other primary cardiomyopathies,diarrhea,0.16666666666666666
+Other primary cardiomyopathies,shortness of breath,0.16666666666666666
+Other primary cardiomyopathies,abdominal pain,0.16666666666666666
+Other primary cardiomyopathies,headache,0.16666666666666666
+Myalgia,numbness,0.2
+Myalgia,cough,0.2
+Myalgia,shortness of breath,0.2
+Myalgia,diarrhea,0.2
+Myalgia,headache,0.2
+"Coma scale, best verbal response, inappropriate words, at hospital admission",wheezing,0.2
+"Coma scale, best verbal response, inappropriate words, at hospital admission",cough,0.2
+"Coma scale, best verbal response, inappropriate words, at hospital admission",shortness of breath,0.2
+"Coma scale, best verbal response, inappropriate words, at hospital admission",diarrhea,0.2
+"Coma scale, best verbal response, inappropriate words, at hospital admission",leg swelling,0.2
+"Acquired absence of organ, genital organs",wheezing,0.5
+"Acquired absence of organ, genital organs",shortness of breath,0.5
+Other nonspecific abnormal serum enzyme levels,pelvic pain,0.2
+Other nonspecific abnormal serum enzyme levels,cough,0.2
+Other nonspecific abnormal serum enzyme levels,diarrhea,0.2
+Other nonspecific abnormal serum enzyme levels,hip pain,0.2
+Other nonspecific abnormal serum enzyme levels,shortness of breath,0.2
+"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter",dizziness,0.14285714285714285
+"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter",cough,0.14285714285714285
+"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter",shortness of breath,0.14285714285714285
+"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter",night sweats,0.14285714285714285
+"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter",diarrhea,0.14285714285714285
+"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter",leg pain,0.14285714285714285
+"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter",abdominal pain,0.14285714285714285
+Mechanical complication of gastrostomy,wheezing,0.5
+Mechanical complication of gastrostomy,shortness of breath,0.5
+Other genetic carrier status,wheezing,0.16666666666666666
+Other genetic carrier status,cough,0.16666666666666666
+Other genetic carrier status,diarrhea,0.16666666666666666
+Other genetic carrier status,shortness of breath,0.16666666666666666
+Other genetic carrier status,nausea and vomiting,0.16666666666666666
+Other genetic carrier status,abdominal pain,0.16666666666666666
+Do not resuscitate,numbness,0.125
+Do not resuscitate,dizziness,0.125
+Do not resuscitate,wheezing,0.125
+Do not resuscitate,cough,0.125
+Do not resuscitate,blood clots,0.125
+Do not resuscitate,shortness of breath,0.125
+Do not resuscitate,leg pain,0.125
+Do not resuscitate,abdominal pain,0.125
+"Viral intestinal infection, unspecified",abdominal pain,0.5
+"Viral intestinal infection, unspecified",nausea and vomiting,0.5
+Chronic systolic heart failure,wheezing,0.14285714285714285
+Chronic systolic heart failure,cough,0.14285714285714285
+Chronic systolic heart failure,shortness of breath,0.14285714285714285
+Chronic systolic heart failure,night sweats,0.14285714285714285
+Chronic systolic heart failure,diarrhea,0.14285714285714285
+Chronic systolic heart failure,abdominal pain,0.14285714285714285
+Chronic systolic heart failure,headache,0.14285714285714285
+Acute bronchitis,wheezing,0.14285714285714285
+Acute bronchitis,cough,0.14285714285714285
+Acute bronchitis,diarrhea,0.14285714285714285
+Acute bronchitis,shortness of breath,0.14285714285714285
+Acute bronchitis,muscle pain,0.14285714285714285
+Acute bronchitis,runny nose,0.14285714285714285
+Acute bronchitis,abdominal pain,0.14285714285714285
+Delirium due to known physiological condition,shortness of breath,0.25
+Delirium due to known physiological condition,dizziness,0.25
+Delirium due to known physiological condition,fatigue,0.25
+Delirium due to known physiological condition,nausea and vomiting,0.25
+Other chronic pain,cough,0.16666666666666666
+Other chronic pain,shoulder pain,0.16666666666666666
+Other chronic pain,shortness of breath,0.16666666666666666
+Other chronic pain,diarrhea,0.16666666666666666
+Other chronic pain,abdominal pain,0.16666666666666666
+Other chronic pain,headache,0.16666666666666666
+"Disorder of mineral metabolism, unspecified",shortness of breath,0.3333333333333333
+"Disorder of mineral metabolism, unspecified",abdominal pain,0.3333333333333333
+"Disorder of mineral metabolism, unspecified",diarrhea,0.3333333333333333
+"Osteoarthrosis, unspecified whether generalized or localized, shoulder region",shoulder pain,0.5
+"Osteoarthrosis, unspecified whether generalized or localized, shoulder region",leg swelling,0.5
+Other acquired deformities of ankle and foot,abdominal pain,1.0
+"Unqualified visual loss, one eye",hip pain,1.0
+Gastrointestinal stromal tumor of stomach,pelvic pain,0.16666666666666666
+Gastrointestinal stromal tumor of stomach,wheezing,0.16666666666666666
+Gastrointestinal stromal tumor of stomach,cough,0.16666666666666666
+Gastrointestinal stromal tumor of stomach,diarrhea,0.16666666666666666
+Gastrointestinal stromal tumor of stomach,shortness of breath,0.16666666666666666
+Gastrointestinal stromal tumor of stomach,nausea and vomiting,0.16666666666666666
+"Calculus of gallbladder and bile duct with acute cholecystitis, with obstruction",abdominal pain,1.0
+"Sensorineural hearing loss, unspecified",joint pain,0.2
+"Sensorineural hearing loss, unspecified",dizziness,0.2
+"Sensorineural hearing loss, unspecified",cough,0.2
+"Sensorineural hearing loss, unspecified",abdominal pain,0.2
+"Sensorineural hearing loss, unspecified",headache,0.2
+Atelectasis,blood clots,0.5
+Atelectasis,shortness of breath,0.5
+Dementia in conditions classified elsewhere without behavioral disturbance,wheezing,0.3333333333333333
+Dementia in conditions classified elsewhere without behavioral disturbance,cough,0.3333333333333333
+Dementia in conditions classified elsewhere without behavioral disturbance,diarrhea,0.3333333333333333
+Panhypopituitarism,headache,1.0
+Postmyocardial infarction syndrome,cough,0.5
+Postmyocardial infarction syndrome,dizziness,0.5
+Herpesviral vesicular dermatitis,wheezing,0.3333333333333333
+Herpesviral vesicular dermatitis,cough,0.3333333333333333
+Herpesviral vesicular dermatitis,shortness of breath,0.3333333333333333
+"Nonspecific (abnormal) findings on radiological and other examination of abdominal area, including retroperitoneum",cough,0.25
+"Nonspecific (abnormal) findings on radiological and other examination of abdominal area, including retroperitoneum",abdominal pain,0.25
+"Nonspecific (abnormal) findings on radiological and other examination of abdominal area, including retroperitoneum",shortness of breath,0.25
+"Nonspecific (abnormal) findings on radiological and other examination of abdominal area, including retroperitoneum",diarrhea,0.25
+Acute on chronic systolic (congestive) heart failure,leg swelling,0.3333333333333333
+Acute on chronic systolic (congestive) heart failure,shortness of breath,0.3333333333333333
+Acute on chronic systolic (congestive) heart failure,fatigue,0.3333333333333333
+"Poisoning by cannabis (derivatives), accidental (unintentional), initial encounter",fatigue,0.2
+"Poisoning by cannabis (derivatives), accidental (unintentional), initial encounter",cough,0.2
+"Poisoning by cannabis (derivatives), accidental (unintentional), initial encounter",diarrhea,0.2
+"Poisoning by cannabis (derivatives), accidental (unintentional), initial encounter",shortness of breath,0.2
+"Poisoning by cannabis (derivatives), accidental (unintentional), initial encounter",headache,0.2
+"Scoliosis, unspecified",shortness of breath,0.3333333333333333
+"Scoliosis, unspecified",abdominal pain,0.3333333333333333
+"Scoliosis, unspecified",headache,0.3333333333333333
+Chronic diastolic (congestive) heart failure,shoulder pain,0.125
+Chronic diastolic (congestive) heart failure,cough,0.125
+Chronic diastolic (congestive) heart failure,blood clots,0.125
+Chronic diastolic (congestive) heart failure,diarrhea,0.125
+Chronic diastolic (congestive) heart failure,night sweats,0.125
+Chronic diastolic (congestive) heart failure,nausea and vomiting,0.125
+Chronic diastolic (congestive) heart failure,abdominal pain,0.125
+Chronic diastolic (congestive) heart failure,headache,0.125
+"Nicotine dependence, cigarettes, uncomplicated",leg pain,1.0
+Septic shock,abdominal pain,1.0
+"Adverse effect of glucocorticoids and synthetic analogues, initial encounter",dizziness,0.2
+"Adverse effect of glucocorticoids and synthetic analogues, initial encounter",fatigue,0.2
+"Adverse effect of glucocorticoids and synthetic analogues, initial encounter",wheezing,0.2
+"Adverse effect of glucocorticoids and synthetic analogues, initial encounter",cough,0.2
+"Adverse effect of glucocorticoids and synthetic analogues, initial encounter",abdominal pain,0.2
+"Decreased white blood cell count, unspecified",shortness of breath,0.3333333333333333
+"Decreased white blood cell count, unspecified",abdominal pain,0.3333333333333333
+"Decreased white blood cell count, unspecified",nausea and vomiting,0.3333333333333333
+Type 2 diabetes mellitus with foot ulcer,cough,0.3333333333333333
+Type 2 diabetes mellitus with foot ulcer,abdominal pain,0.3333333333333333
+Type 2 diabetes mellitus with foot ulcer,diarrhea,0.3333333333333333
+Restless legs syndrome,cough,0.25
+Restless legs syndrome,abdominal pain,0.25
+Restless legs syndrome,shortness of breath,0.25
+Restless legs syndrome,diarrhea,0.25
+Secondary esophageal varices without bleeding,numbness,0.14285714285714285
+Secondary esophageal varices without bleeding,wheezing,0.14285714285714285
+Secondary esophageal varices without bleeding,cough,0.14285714285714285
+Secondary esophageal varices without bleeding,diarrhea,0.14285714285714285
+Secondary esophageal varices without bleeding,shortness of breath,0.14285714285714285
+Secondary esophageal varices without bleeding,abdominal pain,0.14285714285714285
+Secondary esophageal varices without bleeding,headache,0.14285714285714285
+"Pathological fracture, other site, initial encounter for fracture",dizziness,0.2
+"Pathological fracture, other site, initial encounter for fracture",cough,0.2
+"Pathological fracture, other site, initial encounter for fracture",shortness of breath,0.2
+"Pathological fracture, other site, initial encounter for fracture",arm pain,0.2
+"Pathological fracture, other site, initial encounter for fracture",diarrhea,0.2
+Morbid obesity,dizziness,1.0
+Cervicitis and endocervicitis,joint pain,0.125
+Cervicitis and endocervicitis,pelvic pain,0.125
+Cervicitis and endocervicitis,vaginal bleeding,0.125
+Cervicitis and endocervicitis,fatigue,0.125
+Cervicitis and endocervicitis,cough,0.125
+Cervicitis and endocervicitis,diarrhea,0.125
+Cervicitis and endocervicitis,shortness of breath,0.125
+Cervicitis and endocervicitis,headache,0.125
+Pure hypercholesterolemia,wheezing,0.2
+Pure hypercholesterolemia,cough,0.2
+Pure hypercholesterolemia,shortness of breath,0.2
+Pure hypercholesterolemia,diarrhea,0.2
+Pure hypercholesterolemia,abdominal pain,0.2
+Family history of malignant neoplasm of gastrointestinal tract,cough,0.25
+Family history of malignant neoplasm of gastrointestinal tract,abdominal pain,0.25
+Family history of malignant neoplasm of gastrointestinal tract,diarrhea,0.25
+Family history of malignant neoplasm of gastrointestinal tract,headache,0.25
+"Body mass index [BMI] 40.0-44.9, adult",fatigue,0.2
+"Body mass index [BMI] 40.0-44.9, adult",ankle pain,0.2
+"Body mass index [BMI] 40.0-44.9, adult",wheezing,0.2
+"Body mass index [BMI] 40.0-44.9, adult",blood clots,0.2
+"Body mass index [BMI] 40.0-44.9, adult",shortness of breath,0.2
+"Nausea with vomiting, unspecified",diarrhea,0.5
+"Nausea with vomiting, unspecified",headache,0.5
+"Urinary incontinence, unspecified",cough,0.5
+"Urinary incontinence, unspecified",shortness of breath,0.5
+Car passenger injured in collision with railway train or railway vehicle in nontraffic accident,fatigue,0.16666666666666666
+Car passenger injured in collision with railway train or railway vehicle in nontraffic accident,cough,0.16666666666666666
+Car passenger injured in collision with railway train or railway vehicle in nontraffic accident,diarrhea,0.16666666666666666
+Car passenger injured in collision with railway train or railway vehicle in nontraffic accident,shortness of breath,0.16666666666666666
+Car passenger injured in collision with railway train or railway vehicle in nontraffic accident,abdominal pain,0.16666666666666666
+Car passenger injured in collision with railway train or railway vehicle in nontraffic accident,headache,0.16666666666666666
+Pancytopenia,cough,0.16666666666666666
+Pancytopenia,diarrhea,0.16666666666666666
+Pancytopenia,shortness of breath,0.16666666666666666
+Pancytopenia,runny nose,0.16666666666666666
+Pancytopenia,abdominal pain,0.16666666666666666
+Pancytopenia,headache,0.16666666666666666
