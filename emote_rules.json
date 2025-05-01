@@ -1,0 +1,34 @@
+[{
+    "emote": "apology",
+    "phrase": [
+        "sorry", 
+        "apologize", 
+        "apologies", 
+        "i regret"
+    ]
+}, 
+{
+    "emote": "empathy",
+    "phrase": [
+        "that must be hard", 
+        "i understand", 
+        "that's unfortunate", 
+        "i'm sorry to hear", 
+        "sounds difficult", 
+        "that’s worrisome"
+    ]
+}, 
+{
+    "emote": "affirmative",
+    "phrase": [
+        "thanks", 
+        "okay", 
+        "got it", 
+        "understood", 
+        "sure", 
+        "great", 
+        "noted", 
+        "i see"
+    ]
+}
+]

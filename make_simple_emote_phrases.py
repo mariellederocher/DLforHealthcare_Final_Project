@@ -4,20 +4,26 @@ from collections import defaultdict
 from fuzzywuzzy import fuzz
 
 # Load MTS-Dialog
-df = pd.read_csv("MTS-Dialog.csv") 
+df = pd.read_csv("MTS-Dialog-TrainingSet.csv") 
 print(df.columns)
+
+# Load rules
+emote_df = pd.read_json("emote_rules.json")
 
 # Initialize phrase buckets
 emote_phrases = defaultdict(list)
 
 # Rule-based emotion annotation (simplified version from MEDCOD)
 def classify_emotion(text):
+    # Load rules
+    emote_df = pd.read_json("emote_rules.json")
+
     text = text.lower()
-    if any(x in text for x in ["sorry", "apologize", "apologies", "i regret"]):
+    if any(x in text for x in emote_df[0]["phrase"]):
         return "apology"
-    elif any(x in text for x in ["that must be hard", "i understand", "that's unfortunate", "i'm sorry to hear", "sounds difficult", "that’s worrisome"]):
+    elif any(x in text for x in emote_df[1]["phrase"]):
         return "empathy"
-    elif any(x in text for x in ["thanks", "okay", "got it", "understood", "sure", "great", "noted", "i see"]):
+    elif any(x in text for x in emote_df[2]["phrase"]):
         return "affirmative"
     return "none"
 
@@ -69,3 +75,5 @@ with open("emote_phrases.csv", "w", newline='', encoding='utf-8') as csvfile:
     for emote, phrases in deduped_emote_phrases.items():
         for phrase in phrases:
             writer.writerow([emote, phrase])
+            if emote != "none":
+                print(emote, phrase)
