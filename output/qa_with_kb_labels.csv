@@ -1,0 +1,572 @@
+encounter_id,doctor_q,patient_a,answer_type,kb_concept
+1,"Have you had any fever or chills, cough, congestion, nausea, vomiting, chest pain, chest pressure?
+","No.  
+",no,Fever/Chills
+2,"Are you having any symptoms with it, such as blurry vision, light sensitivity, dizziness, lightheadedness, or nausea? 
+","I'm having blurry vision and lightheadedness.  I also can't seem to write well. It looks so messy. I am naturally right handed but my writing looks like I am trying with my left. 
+",none,dizziness
+15,"How about any fatigue or pain? Any frequency in your urination? Any urgency in that? 
+",No.,no,fatigue
+17,"And you got right side shoulder pain? Is this something new?
+","Yes. That is right.
+",yes,shoulder pain
+18,"Any abdominal pain, fever, chill, or other symptoms? 
+","Just nausea and vomiting. It's been so terrible. 
+",none,Fever/Chills
+34,"Any fever or chills? 
+","Neither of them. 
+",none,Fever/Chills
+35,"How about anything like fever, nausea, vomiting, pain?
+","No.
+",no,Fever/Chills
+37,"For the past one week I am having this increased shortness of breath and having difficulty breathing from past few nights while sleeping.
+","Okay.
+",none,shortness of breath
+37,"And this morning I was having difficulty catching my breath. I am also having wheezing since morning.
+","Let me examine you, can you come forward and sit-up here? Any chest discomfort or acute chest pain or anything of that sort? Any pain of the left arm?
+",none,wheezing
+41,"Good, do you have any numbness or tingling today?
+","No, thankfully not.",no,numbness
+88,"Have you experienced any increased thirst, mood changes or unusual fatigue? 
+",No.,no,fatigue
+104,"This explains the pain you have been having on your left side. Are you still experiencing nausea and vomiting? 
+","Yes, I have been. 
+",yes,nausea and vomiting
+111,"Okay, let me see in my chart. You had some rectal bleeding issues because of which I referred you to the gastroenterologist. A complete endoscopy was performed, which was both on the upper and the lower side. There was no evidence of ulcers or any other abnormality. That's  good news, right? 
+","Yeah, I agree. That was a relief. 
+",yes,rectal bleeding
+117,"Any dizziness or spinning sensation?
+",Nope.,no,dizziness
+120,"Do you have any weakness, numbness, or tingling? 
+","No, I don't have any of that. 
+",no,numbness
+132,"Are you okay? You have a headache?
+","No I have a really bad migraine.
+",no,headache
+132,"Okay can you tell me if you have any fever or chills, congestion, cough cold like symptoms?
+","No. 
+",no,Fever/Chills
+132,"Any nausea, vomiting, diarrhea or trauma anywhere?
+","No nothing like that.
+",no,diarrhea
+142,"Any knee, ankle, or foot pain? 
+","No.  
+",no,foot pain
+142,"Any headache, nausea, or vomiting? 
+","No. 
+",no,headache
+142,"Fever or chills? 
+","No. 
+",no,Fever/Chills
+158,"Good, is there any back pain, numbness or tingling?
+","No, I don't have any of that. 
+",no,numbness
+158,"Is there any weakness, numbness or tingling in your legs and arms, my dear? 
+","No, I'm very strong, especially for my age. 
+",no,numbness
+187,"Do you feel any significant fatigue? 
+","No, not really. 
+",no,fatigue
+191,"Are you still having the diarrhea and decreased appetite? 
+","Yes, but I'm still feeling better though. 
+",yes,diarrhea
+191,"Are you having any fever symptoms? 
+","No, I feel pretty well.",no,Fever/Chills
+215,"How about fever?
+","Yes, I do. 
+",yes,Fever/Chills
+218,"I am sorry. It is likely that the increased dosage of your methothrexate is the cause of the mouth sores. Have you experienced a decreased appetite, nausea, abdominal discomfort or diarrhea?
+","No. It is painful to eat with the sores, but I still have an appetite. 
+",no,diarrhea
+242,"Okay, so tell me about your cough, is it getting worse than before? 
+","It's about the same but not getting better.
+",none,cough
+242,"Hm. And what about your diarrhea and stomach pain?
+","No more diarrhea and no pian. 
+",no,diarrhea
+247,"Okay, let me write you an order for a laxative that should help. How bout cough? Any pain in the ribs while coughing?
+","Nah, I am not bothered by it.
+",none,cough
+247,"Any headache or nerve pain or body pain?
+","Um, no I am fine.
+",no,headache
+248,"However, I do leak some pee when I cough. I wear pads daily. 
+","And did you notice any changes regarding your bladder, do you think it is better than before or worse since the last time I saw you?
+",none,cough
+248,"Ah yes, in the beginning of May, I got a spell of severe cough and because of continuous coughing I think I developed pain in my hip which travels down to my legs.
+","Oh okay, do you feel any tingling or numbness. 
+",none,cough
+254,"Are you bringing anything up when you cough? 
+","Nah. 
+",none,cough
+254,"Any shortness of breath or chest pain? 
+","Nah. 
+",none,shortness of breath
+254,"How about fevers or chills? 
+",None of that.,none,Fever/Chills
+256,"Have you had any shortness of breath or chest pain? 
+","No. 
+",no,shortness of breath
+269,"I see. What about hot flashes or night sweats? 
+","Nope. I feel fine most of the time. 
+",no,night sweats
+271,"I see. Did you ever feel any dizziness too? 
+","Yeah, I did. 
+",yes,dizziness
+271,"I will have you do some movements to see if your dizziness occurs. 
+","Sounds good. 
+",none,dizziness
+307,"Have you had a fever? 
+","I think so. I was chilled and my forehead was warm. The cough is a dry sounding cough. 
+",none,Fever/Chills
+307,"Does the abdominal pain come during one of these coughing episodes? 
+",Yes.,yes,abdominal pain
+310,"Have you experienced any pain or numbness in your arm, wrist, or hand? 
+","Yes! About two weeks after the pain started, I was having some numbness and painful cramping in these two fingers here. 
+",yes,numbness
+323,"Have you experienced any weakness, dizziness, vertigo, nausea or vomiting? 
+","No. 
+",no,dizziness
+325,"Have you had any night sweats or chills? 
+","No, not that I can remember. 
+",no,Fever/Chills
+325,"What about shortness of breath, or G I problems? 
+","Thankfully, no.",no,shortness of breath
+333,"What was to time frame of the procreation of the numbness from the finger to the wrist?  
+","It started when I woke up and then by the end of the day my wrist was numb too. 
+",none,numbness
+337,"Do you have any signs of infection? That'd be anything like fever or chills, anything like that?
+","No, I don't have anything like that.",no,Fever/Chills
+339,"Have you had any shortness of breath, chest pain or coughing up blood? 
+","No. 
+",no,coughing up blood
+339,"Any joint pain, headaches or rashes? 
+","No. Just a rash where the bandages are like I said earlier. I also want to discuss this acne while I am here. I have had it for about two years. It's nothing big, just mild to moderate in severity.",no,joint pain
+344,"And no dizziness?
+","Yes. I do.
+",yes,dizziness
+372,"Where is your left shoulder pain?
+","Mostly, it's in the back of my shoulder. 
+",none,shoulder pain
+377,"Great. Any shortness of breath that causes you to wake up?
+","None. I don't have shortness of breath at any other time of the day. 
+",none,shortness of breath
+380,"Any bladder issues or frequent urination? 
+","No. 
+",no,frequent urination
+385,"Okay, and have you been wheezing lately? 
+","No, I haven't been. 
+",no,wheezing
+396,"Any headache or body pains? 
+","No.
+",no,headache
+396,"Okay, any diarrhea?
+","No, on the contrary I am having constipation every now and then, it's really bothering me now. I feel bloated all the time and don't feel fresh in the morning or throughout the day.
+",no,diarrhea
+396,"Yeah, you can get that kind of pain with constipation. Any cough or cold like symptoms? Any cough with sputum? 
+","No, I feel fine. 
+",no,cough
+409,"No fever or chills, right?
+","Yeah, no fever or anything.
+",yes,Fever/Chills
+409,"Any chest pain, shortness of breath or shortness of breath while sleeping? 
+","No.
+",no,shortness of breath
+409,"Any sore throat or cough or cough with mucous or blood sputum?
+","I have this prolonged cough, but other than that nothing.
+",none,cough
+409,"No wheezing?
+","No, no wheezing.
+",no,wheezing
+409,"Loss of appetite or blood in stool or abdominal pain?
+","No.
+",no,abdominal pain
+409,"So, any joint pain, muscle stiffness or pain? Any backache? Ligament, tendon pain or strain? 
+","Nothing.
+",none,joint pain
+409,"Any weakness? Numbness or tingling? 
+","No.
+",no,numbness
+415,"Wow, that's concerning. Are you experiencing any nausea, vomiting, diarrhea, or abdominal pain? 
+","No. 
+",no,abdominal pain
+415,"How about chest pain, shortness of breath, cough, or heart racing? 
+","No. 
+",no,cough
+415,"Any neurological symptoms, such as numbness or tingling? 
+","No. 
+",no,numbness
+442,"Did you notice any rectal bleeding? 
+","No.
+",no,rectal bleeding
+450," Okay that is good. Any fever and chills?
+","No, no fever.
+",no,Fever/Chills
+450,"Okay I will evaluate that. How about any cough, blood in sputum?
+","No nothing like that.
+",no,cough
+454,"Okay no fever, nausea, anything of that sort?
+",Nope.,no,Fever/Chills
+455,"Any headache, nausea, vomiting, chills, or fever?
+",No.,no,Fever/Chills
+470,"So, you first came to our Pulmonary Clinic, and you were suffering with dyspnea even on minimal exertion. At that time, we evaluated you and we realized that there was some evidence of irregular sleep and daytime fatigue. At that time you also complained of nighttime choking episodes which got less intense over the past many months. 
+","That's right. I was then scheduled for the overnight sleep study to be evaluated for interruptions in my sleep and here we are today to discuss results. 
+",none,fatigue
+493,"I can imagine. That's always tough. It looks like the eval of your daytime fatigue and insomnia was sent over. Let me print out a copy and we can go over it together. How old are you again?
+",I am forty eight.,none,fatigue
+494,"Have you been experiencing cold like symptoms, such as cough, nasal congestion, headache, or nausea? 
+","Um no not really. 
+",no,cough
+494,"Have you tried taking any medicine to help with the fever? 
+","Yeah. I've taken Tylenol and that's helped a bit. 
+",yes,Fever/Chills
+499,"Prior to the episode did you experience any chest pain or shortness of breath? 
+","No. 
+",no,shortness of breath
+500,"It means that you have something called Carpal tunnel syndrome, which explains your numbness and tingling sensation in your left hand. It also explains your pain in the middle part of your hand as it's caused due to pinching or compression of a nerve called median nerve. 
+","Oh, how did that happen?
+",none,numbness
+502,"Any other symptoms with the pain, such as shortness of breath? 
+","Not really, no. 
+",no,shortness of breath
+515,"I don't think so. Are you feeling any symptoms of a fever or anything? 
+","No, I'm not. 
+",no,Fever/Chills
+517,"Any fever or chills? 
+","No. 
+",no,Fever/Chills
+536,"In the past couple days have you had a fever or chills?
+","No, nothing like that. 
+",no,Fever/Chills
+536,"Does the dizziness make you nauseous?
+","Yes, but I have not had to throw up or anything. 
+",yes,dizziness
+536,"What about diarrhea?
+","No, thank goodness. 
+",no,diarrhea
+542,"Do you get any night sweats or hot flashes while you're on your period? 
+","No.
+",no,night sweats
+560,"Have you been feeling a shortness of breath, wheezing, or other related symptoms?
+","Not that I know of. 
+",none,shortness of breath
+564,"Okay. Any shortness of breath, chest pain, abdominal pain or back pain?
+","No. 
+",no,abdominal pain
+567,"Do you feel anything else along with these episodes like a urine urgency, tendency to bite your tongue, headaches, any visual change, or your heart is beating very fast? Any kind of weakness or numbness or shortness of breath? 
+","No nothing else, just the confusion and forgetfulness. 
+",no,numbness
+574,"Yeah, good thing you came. We need to treat it. Did you experience any chills or fever? 
+","No.
+",no,Fever/Chills
+581,"Was there any leg numbness? 
+","Yes. Since December eleventh. 
+",yes,numbness
+584,"Okay, that's good. Do you have any shortness of breath or difficulty with your throat?
+","No, it's never felt like it was going to close up or anything like that. 
+",no,shortness of breath
+587,"Have you been experiencing any daytime fatigue? 
+","No. I have been falling asleep at work. I think it is from looking at my computer screen all day. My supervisor caught me snoring one day and forgot where I was at. My supervisor offered to give me a coffee. This has happened more than once. 
+",no,fatigue
+590,"Have you ever noticed any night sweats? 
+","Sometimes I do sweat at night. 
+",none,night sweats
+594,"Did you have wet cough?
+","No, not wet cough but I did notice back pain gets intense on the upper side whenever I coughed, like in my ribs. I normally massage that area and it gets better. 
+",no,cough
+594,"Any shortness of breath? 
+","Nope. 
+",no,shortness of breath
+605,"Have you taken anything for the fever? 
+","Tylenol and Advil. I've been taking them interchangeably. 
+",none,Fever/Chills
+605,"Are you experiencing any other symptoms, such as shortness of breath, nausea, vomiting, diarrhea, or others? 
+","I've been having a stronger urge to pee a lot more than usual. Not sure if that's related. 
+",none,diarrhea
+605,"Okay, great. Any signs of pneumonia or valley fever?
+","Nothing of the sort. 
+",none,Fever/Chills
+607,"Great, are you having any fever symptoms, like cough, runny nose, sore throat, fatigue, anything like that? 
+","No, but I have had some tingling in both my feet. I don't know if its related to surgery. If I'm remembering the names right, um, I have a history of spinal stenosis and neuropathy in my legs. 
+",no,Fever/Chills
+612,"Are you having any fever or chills, or cold or flu like symptoms? 
+","No, I'm not. 
+",no,Fever/Chills
+635,"Are you experiencing any symptoms currently, such as headache, nausea, vomiting, shortness of breath or chest pain?
+","Not right now, no. I did have some nausea yesterday. Oh and I guess I had a slight headache when I woke up this morning, but that's about it.",no,headache
+637,"Yeah, I briefly lost consciousness when help arrived at the scene. I felt an immediate headache when I regained consciousness. I also had lower back and neck pain.  
+","Did you get out of the car by yourself?  
+",none,headache
+638,"Are you having any other symptoms? Black or tarry stool? Nausea, vomiting, diarrhea? Lightheadedness?  
+","No, none of that.  
+",no,diarrhea
+641,"So, no fever, or chills, or sweating at night. 
+","Yeah, nothing like that. 
+",yes,Fever/Chills
+641,"Good, and do you have any numbness or tingling? 
+","No, doctor. I don't have any of that.",no,numbness
+645,"Are you having diarrhea?
+","Yeah, I am.
+",yes,diarrhea
+645,"I see, when was the last time you were treated for diarrhea? 
+","At this point, it's been more than three years.",none,diarrhea
+665,"How's your appetite? Any nausea, vomiting, diarrhea? 
+","Appetite is pretty fine. No nausea, vomiting, or diarrhea.
+",no,diarrhea
+665,"How about fever, chills, sweats, cough? 
+","No, ma'am. 
+",no,Fever/Chills
+665,"And any chest pain with your shortness of breath? 
+","No, ma'am.",no,shortness of breath
+672,"How would you describe the headache? 
+","Throbbing pain. 
+",none,headache
+672,"Do you have a headache currently? 
+","No, not right this second. 
+",no,headache
+672,"Any other symptoms associated with the headache, such as fever, chills, nausea, vomiting, blurred vision, or sensitivity to light? 
+","No, not really. I don't feel like I have a cold or anything. 
+",no,Fever/Chills
+690,"What about this weakness or the numbness anywhere else except your legs? 
+","No, it's only in the legs. 
+",no,numbness
+704,"Did you experience any shortness of breath?
+","No.	
+",no,shortness of breath
+704,"And no fever due to any fungal infection or anything, right? Like valley fever?
+","No, nothing of that sort.
+",no,Fever/Chills
+709,"Where is your heel pain? 
+","It's on the right heel, then it's on the inside bottom part of the heel and into the inside of the heel. 
+",none,heel pain
+709,"What about chest pain or shortness of breath?
+","Thankfully, no nothing like that.",no,shortness of breath
+758,"Any shortness of breath, wheezing, facial swelling, tongue or lip swelling, or other associated symptoms? 
+",No.,no,shortness of breath
+776,"You are back for a follow up on your right arm pain, right? 
+","Yes. It has been almost a year since the pain first started. 
+",yes,arm pain
+776,"I bet it does. Are you experiencing any numbness or tingling sensation in your arm or hand? 
+","No, but I have had this achy sensation in my hand radiating down to my fingers. 
+",no,numbness
+791,"Are you experiencing any chest pain on exertion or shortness of breath normally or when you try to sleep?
+","No, no chest pain and shortness of breath.
+",no,shortness of breath
+791,"Any feeling of numbness or tingling? Did you faint or lose consciousness anytime?
+","No and no.
+",no,numbness
+791,"Any diarrhea or vomiting?
+","Nope. 
+",no,diarrhea
+791,"Yes, no wheezing.
+","I don't see any lesions, that's good. Any mood swings, feeling depressed or have anxiety? 
+",none,wheezing
+800,"Approximately six months back. I took over the counter antacids and got some relief so i did not go to doctor. But two months back it got worse, I do get occasional nausea and vomiting.
+","I can see that they found H pylori positive infection and treated you with triple drug therapy for two weeks and then gave you antacid omeprazole. But it did not improve your pain.
+",none,nausea and vomiting
+800,"Are you taking any pain medication over the counter? Do you drink alcohol and maybe you are vomiting blood?
+","No no, nothing like that.
+",no,vomiting blood
+800,"Can you tell me if any change in position changes the quality of pain? do you have any fever?
+","No position changing have no effect, no fever or anything.
+",no,Fever/Chills
+821,"Any family history of blood clots? 
+",No.,no,blood clots
+824,"Okay. Do you have any fever or chills?
+","No, none of that. 
+",no,Fever/Chills
+833,"Are you experiencing any fever, chills or illnesses? 
+","No. 
+",no,Fever/Chills
+844,"Good, are you having any fever or chills? 
+","No, nothing like that. 
+",no,Fever/Chills
+845,"Did you have any chest pain or shortness of breath or uneasiness?
+","No, I don't have any heart condition.
+",no,shortness of breath
+845,"Okay and no dizziness or loss of consciousness or stroke like symptoms?
+","No.
+",no,dizziness
+855,"Headache? 
+","No headaches. 
+",no,headache
+855,"Are you coughing at all? And if yes, then are you bringing up any blood with your cough? 
+","No cough. 
+",no,cough
+855,"Any chest pain or shortness of breath that wakes you in the middle of the night? 
+","Nope. 
+",no,shortness of breath
+857,"How about shortness of breath?
+","I only get short of breath when I walk up the stairs. 
+",none,shortness of breath
+863,"I'd advise getting an orthotic for your shoes to help with the heel pain and resting your feet when you're home. In the meantime, I'd like for you to see a specialist to make sure nothing else is going on. 
+","Alright, I'm good with that plan. 
+",none,heel pain
+863,"Are you having any other problems? Joint pain, difficulty walking, nausea, vomiting, or other symptoms? 
+","No, just heel pain for now.",no,joint pain
+868,"Does it send pain or numbness or tingling down your arms? How about any jaw pain as a result? 
+","No, but it does get worse whenever I cough. 
+",no,numbness
+874,"Okay I will investigate it. Are you experiencing any chest pain or shortness of breath?
+","Oh no, I am not feeling that.
+",no,shortness of breath
+876,"Thank you, so, how is your leg pain been managed?
+","Um, I take pretty substantial doses of opioids in order to control it.
+",none,leg pain
+887,"Are you bringing anything up when you cough? 
+","Not really, no. 
+",no,cough
+887,"Are you taking anything for the cough or stuffy nose? 
+","Just drinking tea and taking cough drops here and there. 
+",none,cough
+892,"Do you have any problems like headache, fever, rash, oral ulcer?
+","None.
+",none,Fever/Chills
+892,"That's great. Any diarrhea, constipation, or red blood come out in stool? Or pale stool? Like any change in the color of stool?
+","No, it is fine.
+",no,diarrhea
+894,"I see. Do you experience room spinning dizziness at all? 
+","No. I also forgot to mention that four hours after not being able to get up from my chair, my left hand became numb for about two hours. 
+",no,dizziness
+901,"In addition to the numbness, how else would you describe your leg symptoms? 
+","Um, I'd say it feels cold, at least I've felt that for the last day or so.
+",none,numbness
+901,"Do you have any shortness of breath? 
+","Well, I've had it chronically for a while now, but I think it's getting worse. 
+",none,shortness of breath
+907,"How about any neck pain, swollen lymph nodes, chills, fever, or other symptoms? 
+","No, thank goodness.",no,Fever/Chills
+918,"Okay. Hm, are you experiencing any eye pain, blurred vision, or sensitivity to light? 
+",The pain has definitely gotten worse since this morning. My vision is fine and bright lights don't seem to be a problem.,none,eye pain
+919,"Any abdominal pain, nausea, vomiting?  
+","Uh no, but I'm having some pain here. 
+",no,abdominal pain
+924,"Any illness or fever?
+","No, nothing like that. 
+",no,Fever/Chills
+924,"Any headache or nausea?
+","No.
+",no,headache
+924,"Okay, any numbness tingling or loss of sensation in the hand?
+","No, not at all.
+",no,numbness
+928,"Any chest pain, palpitations or shortness of breath on exertion?
+","No.
+",no,shortness of breath
+941,"You have fever too?
+","Yes, I did.",yes,Fever/Chills
+949,"Okay, this is between your L four and sacrum. How would you describe your right leg pain?
+","I'd say it's intermittent and minimal now, it's not always there. 
+",none,leg pain
+975,"Any shortness of breath or pain in your stomach? 
+","No. 
+",no,shortness of breath
+975,"Any diarrhea or vomiting? 
+",No.,no,diarrhea
+982,"Dizziness or seizure?
+","Nope.
+",no,dizziness
+994,"Do you get wet cough or it's dry? What color sputum comes out?
+","It is wet and green colored stuff comes out.
+",none,cough
+994,"Everything is fine except some chills? I am sleeping okay.
+","Do you need anything for cough?
+",none,Fever/Chills
+994,"I don't need anything for the cough. I did call yesterday and got a refill of my Keflex. Then I took two Keflex this morning and I am feeling little bit better now. 
+","Okay then why are you crying, ma'am?
+",none,cough
+1003,"Yeah. You don't have to worry. Are you experiencing any dizziness or lightheadedness right now? 
+","Now that you mentioned it, I am. 
+",none,dizziness
+1019,"Any headache? What comes out of your nose?
+","Yes I had a little yesterday. Clear boogers.
+",yes,headache
+1030,"Are you feeling any shortness of breath or difficulty breathing?
+","No.
+",no,shortness of breath
+1030,"Okay. Do you have any wheezing? 
+",No.,no,wheezing
+1033,"Great. What about any phlegm or shortness of breath?
+",Nope.,no,shortness of breath
+1034,"When did you first start experiencing joint pain? 
+","Couple years ago. 
+",none,joint pain
+1034,"Fever or chills? 
+","I had diarrhea for a few days, but it's gotten much better. I was also having trouble holding my bladder. 
+",none,Fever/Chills
+1036,"Any fever?
+","Yeah, nurse just took my temperature it was one hundred point three. 
+",yes,Fever/Chills
+1036,"Okay. Any chills or shivering? 
+","No.
+",no,Fever/Chills
+1046,"Any chills or high temperature? 
+","Nope.
+",no,Fever/Chills
+1046,"Any excessive sweating or night sweating? 
+","Um, no.
+",no,excessive sweating
+1054,"I see, how long have you had this foot pain? 
+","Um, it started hurting a lot yesterday. 
+",none,foot pain
+1067,"Have you had a fever, chills, vomiting or diarrhea? 
+",I think I have a fever. I feel chilled. I have had some diarrhea.,none,Fever/Chills
+1072,"Are you experiencing any numbness or loss of strength in the area? 
+","No. 
+",no,numbness
+1081,"Did you experience any shortness of breath, itching, or hives? 
+","No, surprisingly. 
+",no,shortness of breath
+1087,"Have you been producing any mucus the times that you do cough?
+","No, I already said I didn't cough. 
+",no,cough
+1087,"Okay. Any fevers or chills?
+","Nothing so far. 
+",none,Fever/Chills
+1097,"That numbness and tingling you feel in the thigh, do you feel that in the knee at all?
+","Actually yes, it feels like pins and needles there.
+",yes,numbness
+1106,"It looks normal and well hydrated. Any excessive sweating? 
+","No, not really.
+",no,excessive sweating
+1130,"If you develop a fever greater than one hundred and one point four, chills, nausea, vomiting, or continuing diarrhea please call the office. Also if your incision site becomes red, warm to the touch or has any drainage, call the office. 
+",Okay.,none,Fever/Chills
+1138,"Was this the first time that you had feelings for fatigue and depression? 
+","No. I have always had a little sadness or depressed time in my life but it had been manageable before all the work stress started happening. 
+",no,fatigue
+1156,"Do you have a headache, nausea, or blurry vision? 
+","No. 
+",no,headache
+1156,"And no chest or abdominal pain? 
+","No. 
+",no,abdominal pain
+1158,"How about chest pain or shortness of breath?
+","No chest pain, but I am gradually feeling short of breath.
+",no,shortness of breath
+1173,"Do you ever experience any weakness or numbness throughout or localized to an area of the body. 
+","No. 
+",no,numbness
+1176,"Are you having numbness sir? 
+","Yes, and I can't move it very well, either. 
+",yes,numbness
+1178,"That will help your right side hip pain.
+",I think so too.,none,hip pain
+1185,"What about any cold or flu symptoms? Any fever or chills?  
+","No, that's all fine too. 
+",no,Fever/Chills
+1185,"Have you had a cough, or coughed up any blood. 
+","That's a negative, doctor. 
+",none,cough
+1185,"What about shortness of breath while at rest or difficulty breathing with exercise? 
+","No, that's normal too. I'm breathing just fine.",no,shortness of breath
+1187,"No nausea and vomiting or black stool? Did you notice any blood in your stools? 
+","Nope, nothing like that.
+",no,nausea and vomiting
+1187,"Any shortness of breath, cough or cold like symptoms?
+","Nope.
+",no,cough
+1188,"Do you feel any tingling or numbness or any kind of cramps? 
+","Nope. 
+",no,numbness
+1191,"Hm, left leg pain?
+",Yeah.,yes,leg pain
