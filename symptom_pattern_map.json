@@ -1,0 +1,198 @@
+{
+  "abdominal pain": [
+    "\\b(abdominal pain)\\b"
+  ],
+  "anal pain": [
+    "\\b(anal pain)\\b"
+  ],
+  "ankle pain": [
+    "\\b(ankle pain)\\b"
+  ],
+  "arm pain": [
+    "\\b(arm pain)\\b"
+  ],
+  "back pain": [
+    "\\b(back pain)\\b"
+  ],
+  "bent penis": [
+    "\\b(bent penis)\\b"
+  ],
+  "blood clots": [
+    "\\b(blood clots)\\b"
+  ],
+  "breast lumps": [
+    "\\b(breast lumps)\\b"
+  ],
+  "breast rash": [
+    "\\b(breast rash)\\b"
+  ],
+  "burning feet": [
+    "\\b(burning feet)\\b"
+  ],
+  "cold hands": [
+    "\\b(cold hands)\\b"
+  ],
+  "cough": [
+    "\\b(cough)\\b"
+  ],
+  "coughing up blood": [
+    "\\b(coughing up blood)\\b"
+  ],
+  "dark circles under eyes": [
+    "\\b(dark circles under eyes)\\b"
+  ],
+  "diarrhea": [
+    "\\b(diarrhea)\\b"
+  ],
+  "dizziness": [
+    "\\b(dizziness)\\b"
+  ],
+  "dry orgasm": [
+    "\\b(dry orgasm)\\b"
+  ],
+  "elbow pain": [
+    "\\b(elbow pain)\\b"
+  ],
+  "excessive sweating": [
+    "\\b(excessive sweating)\\b"
+  ],
+  "eye pain": [
+    "\\b(eye pain)\\b"
+  ],
+  "eye twitching": [
+    "\\b(eye twitching)\\b"
+  ],
+  "fatigue": [
+    "\\b(fatigue)\\b"
+  ],
+  "foot pain": [
+    "\\b(foot pain)\\b"
+  ],
+  "frequent bowel movements": [
+    "\\b(frequent bowel movements)\\b"
+  ],
+  "frequent urination": [
+    "\\b(frequent urination)\\b"
+  ],
+  "green stool": [
+    "\\b(green stool)\\b"
+  ],
+  "groin pain": [
+    "\\b(groin pain)\\b"
+  ],
+  "headache": [
+    "\\b(headache)\\b"
+  ],
+  "heel pain": [
+    "\\b(heel pain)\\b"
+  ],
+  "hip pain": [
+    "\\b(hip pain)\\b"
+  ],
+  "intestinal gas": [
+    "\\b(intestinal gas)\\b"
+  ],
+  "joint pain": [
+    "\\b(joint pain)\\b"
+  ],
+  "kidney pain": [
+    "\\b(kidney pain)\\b"
+  ],
+  "leg pain": [
+    "\\b(leg pain)\\b"
+  ],
+  "leg swelling": [
+    "\\b(leg swelling)\\b"
+  ],
+  "loss of smell": [
+    "\\b(loss of smell)\\b"
+  ],
+  "muscle pain": [
+    "\\b(muscle pain)\\b"
+  ],
+  "nasal congestion": [
+    "\\b(nasal congestion)\\b"
+  ],
+  "nausea": [
+    "\\b(nausea)\\b",
+    "\\b(vomiting)\\b"
+  ],
+  "neck pain": [
+    "\\b(neck pain:)\\b"
+  ],
+  "night leg cramps": [
+    "\\b(night leg cramps)\\b"
+  ],
+  "night sweats": [
+    "\\b(night sweats)\\b"
+  ],
+  "nipple discharge": [
+    "\\b(nipple discharge)\\b"
+  ],
+  "nosebleeds": [
+    "\\b(nosebleeds)\\b"
+  ],
+  "numbness": [
+    "\\b(numbness)\\b"
+  ],
+  "painful urination": [
+    "\\b(painful urination (dysuria))\\b"
+  ],
+  "peeling skin": [
+    "\\b(peeling skin)\\b"
+  ],
+  "pelvic pain": [
+    "\\b(pelvic pain)\\b"
+  ],
+  "rectal bleeding": [
+    "\\b(rectal bleeding)\\b"
+  ],
+  "red eye": [
+    "\\b(red eye)\\b"
+  ],
+  "runny nose": [
+    "\\b(runny nose)\\b"
+  ],
+  "shortness of breath": [
+    "\\b(shortness of breath)\\b"
+  ],
+  "shoulder pain": [
+    "\\b(shoulder pain)\\b"
+  ],
+  "testicle pain": [
+    "\\b(testicle pain)\\b"
+  ],
+  "weight loss": [
+    "\\b(weight loss)\\b"
+  ],
+  "urine odor": [
+    "\\b(urine odor)\\b"
+  ],
+  "vaginal bleeding": [
+    "\\b(vaginal bleeding)\\b"
+  ],
+  "vaginal discharge": [
+    "\\b(vaginal discharge)\\b"
+  ],
+  "vaginal dryness": [
+    "\\b(vaginal dryness)\\b"
+  ],
+  "vaginal odor": [
+    "\\b(vaginal odor)\\b"
+  ],
+  "vomiting blood": [
+    "\\b(vomiting blood)\\b"
+  ],
+  "watery eyes": [
+    "\\b(watery eyes)\\b"
+  ],
+  "wheezing": [
+    "\\b(wheezing)\\b"
+  ],
+  "white tongue": [
+    "\\b(white tongue)\\b"
+  ],
+  "yellow tongue": [
+    "\\b(yellow tongue)\\b"
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "abdominal pain": [
+    "Have you been experiencing any abdominal pain recently?",
+    "Do you feel any discomfort or pain in your stomach area?",
+    "Have you noticed any aches or cramps in your abdomen?"
+  ],
+  "anal pain": [
+    "Have you been experiencing any anal pain recently?",
+    "Have you had any pain or discomfort around your anus?",
+    "Are you experiencing soreness or irritation in the anal area?",
+    "Have you felt any burning or stinging sensations when sitting or using the bathroom?"
+  ],
+  "ankle pain": [
+    "Have you been experiencing any ankle pain recently?",
+    "Have you felt any pain in your ankles lately?",
+    "Do your ankles hurt when you walk or move?",
+    "Have you had any swelling or discomfort around your ankle joints?"
+  ],
+  "arm pain": [
+    "Have you been experiencing any arm pain recently?",
+    "Have you felt any pain in your arms lately?",
+    "Do your arms hurt when you move them?",
+    "Have you had any swelling or discomfort around your elbows or wrists?"
+  ],
+  "back pain": [
+    "Have you been experiencing any back pain recently?",
+    "Has your back been sore a lot lately?",
+    "Have you noticed any symptoms such as back pain?",
+    "Does your back hurt when bending or moving around?"
+  ],
+  "bent penis": [
+    "Have there been changes in the shape of your penis?",
+    "Does your penic seem bent?"
+  ],
+  "bleeding during pregnancy": [
+    "Have you been experiencing any bleeding during your pregnancy?",
+    "Since you became pregnant, have you experienced any vaginal bleeding?"
+  ],
+  "blood clots": [
+    "Have you been treated for blood clots?",
+    "Have you been having a lot of blood clots recently?"
+  ],
+  "brain lesions": [
+    "Have you been experiencing any brain lesions recently?",
+    "Do you feel any discomfort or pain related to brain lesions?",
+    "Have you noticed any symptoms such as brain lesions?"
+  ],
+  "breast calcifications": [
+    "Have you been experiencing any breast calcifications recently?",
+    "Do you feel any discomfort or pain related to breast calcifications?",
+    "Have you noticed any symptoms such as breast calcifications?"
+  ],
+  "breast lumps": [
+    "Have you been experiencing any breast lumps recently?",
+    "Do you feel any discomfort or pain related to breast lumps?",
+    "Have you noticed any symptoms such as breast lumps?"
+  ],
+  "breast rash": [
+    "Have you been experiencing any breast rash recently?",
+    "Do you feel any discomfort or pain related to breast rash?",
+    "Have you noticed any symptoms such as breast rash?"
+  ],
+  "burning feet": [
+    "Have you been experiencing any burning feet recently?",
+    "Do you feel any discomfort or pain related to burning feet?",
+    "Have you noticed any symptoms such as burning feet?"
+  ],
+  "cold hands": [
+    "Have you been experiencing any cold hands recently?",
+    "Do you feel any discomfort or pain related to cold hands?",
+    "Have you noticed any symptoms such as cold hands?"
+  ],
+  "cough": [
+    "Have you been experiencing any cough recently?",
+    "Do you feel any discomfort or pain related to cough?",
+    "Have you noticed any symptoms such as cough?"
+  ],
+  "coughing up blood": [
+    "Have you been experiencing any coughing up blood recently?",
+    "Do you feel any discomfort or pain related to coughing up blood?",
+    "Have you noticed any symptoms such as coughing up blood?"
+  ],
+  "dark circles under eyes": [
+    "Have you been experiencing any dark circles under eyes recently?",
+    "Do you feel any discomfort or pain related to dark circles under eyes?",
+    "Have you noticed any symptoms such as dark circles under eyes?"
+  ],
+  "diarrhea": [
+    "Have you been experiencing any diarrhea recently?",
+    "Do you feel any discomfort or pain related to diarrhea?",
+    "Have you noticed any symptoms such as diarrhea?"
+  ],
+  "dizziness": [
+    "Have you been experiencing any dizziness recently?",
+    "Do you feel any discomfort or pain related to dizziness?",
+    "Have you noticed any symptoms such as dizziness?"
+  ],
+  "dry orgasm": [
+    "Have you been experiencing any dry orgasm recently?",
+    "Do you feel any discomfort or pain related to dry orgasm?",
+    "Have you noticed any symptoms such as dry orgasm?"
+  ],
+  "elbow pain": [
+    "Have you been experiencing any elbow pain recently?",
+    "Do you feel any discomfort or pain related to elbow pain?",
+    "Have you noticed any symptoms such as elbow pain?"
+  ],
+  "elevated liver enzymes": [
+    "Have you been experiencing any elevated liver enzymes recently?",
+    "Do you feel any discomfort or pain related to elevated liver enzymes?",
+    "Have you noticed any symptoms such as elevated liver enzymes?"
+  ],
+  "eosinophilia": [
+    "Have you been experiencing any eosinophilia recently?",
+    "Do you feel any discomfort or pain related to eosinophilia?",
+    "Have you noticed any symptoms such as eosinophilia?"
+  ],
+  "excessive sweating": [
+    "Have you been experiencing any excessive sweating recently?",
+    "Do you feel any discomfort or pain related to excessive sweating?",
+    "Have you noticed any symptoms such as excessive sweating?"
+  ],
+  "eye pain": [
+    "Have you been experiencing any eye pain recently?",
+    "Do you feel any discomfort or pain related to eye pain?",
+    "Have you noticed any symptoms such as eye pain?"
+  ],
+  "eye twitching": [
+    "Have you been experiencing any eye twitching recently?",
+    "Do you feel any discomfort or pain related to eye twitching?",
+    "Have you noticed any symptoms such as eye twitching?"
+  ],
+  "fatigue": [
+    "Have you been experiencing any fatigue recently?",
+    "Do you feel any discomfort or pain related to fatigue?",
+    "Have you noticed any symptoms such as fatigue?"
+  ],
+  "foot pain": [
+    "Have you been experiencing any foot pain recently?",
+    "Do you feel any discomfort or pain related to foot pain?",
+    "Have you noticed any symptoms such as foot pain?"
+  ],
+  "frequent bowel movements": [
+    "Have you been experiencing any frequent bowel movements recently?",
+    "Do you feel any discomfort or pain related to frequent bowel movements?",
+    "Have you noticed any symptoms such as frequent bowel movements?"
+  ],
+  "frequent urination": [
+    "Have you been experiencing any frequent urination recently?",
+    "Do you feel any discomfort or pain related to frequent urination?",
+    "Have you noticed any symptoms such as frequent urination?"
+  ],
+  "green stool": [
+    "Have you been experiencing any green stool recently?",
+    "Do you feel any discomfort or pain related to green stool?",
+    "Have you noticed any symptoms such as green stool?"
+  ],
+  "groin pain": [
+    "Have you been experiencing any groin pain recently?",
+    "Do you feel any discomfort or pain related to groin pain?",
+    "Have you noticed any symptoms such as groin pain?"
+  ],
+  "headache": [
+    "Have you been experiencing any headache recently?",
+    "Do you feel any discomfort or pain related to headache?",
+    "Have you noticed any symptoms such as headache?"
+  ],
+  "heel pain": [
+    "Have you been experiencing any heel pain recently?",
+    "Do you feel any discomfort or pain related to heel pain?",
+    "Have you noticed any symptoms such as heel pain?"
+  ],
+  "high blood protein": [
+    "Have you been experiencing any high blood protein recently?",
+    "Do you feel any discomfort or pain related to high blood protein?",
+    "Have you noticed any symptoms such as high blood protein?"
+  ],
+  "high hemoglobin count": [
+    "Have you been experiencing any high hemoglobin count recently?",
+    "Do you feel any discomfort or pain related to high hemoglobin count?",
+    "Have you noticed any symptoms such as high hemoglobin count?"
+  ],
+  "high potassium (hyperkalemia)": [
+    "Have you been experiencing any high potassium (hyperkalemia) recently?",
+    "Do you feel any discomfort or pain related to high potassium (hyperkalemia)?",
+    "Have you noticed any symptoms such as high potassium (hyperkalemia)?"
+  ],
+  "high red blood cell count": [
+    "Have you been experiencing any high red blood cell count recently?",
+    "Do you feel any discomfort or pain related to high red blood cell count?",
+    "Have you noticed any symptoms such as high red blood cell count?"
+  ],
+  "high uric acid level": [
+    "Have you been experiencing any high uric acid level recently?",
+    "Do you feel any discomfort or pain related to high uric acid level?",
+    "Have you noticed any symptoms such as high uric acid level?"
+  ],
+  "high white blood cell count": [
+    "Have you been experiencing any high white blood cell count recently?",
+    "Do you feel any discomfort or pain related to high white blood cell count?",
+    "Have you noticed any symptoms such as high white blood cell count?"
+  ],
+  "hip pain": [
+    "Have you been experiencing any hip pain recently?",
+    "Do you feel any discomfort or pain related to hip pain?",
+    "Have you noticed any symptoms such as hip pain?"
+  ],
+  "intestinal gas": [
+    "Have you been experiencing any intestinal gas recently?",
+    "Do you feel any discomfort or pain related to intestinal gas?",
+    "Have you noticed any symptoms such as intestinal gas?"
+  ],
+  "joint pain": [
+    "Have you been experiencing any joint pain recently?",
+    "Do you feel any discomfort or pain related to joint pain?",
+    "Have you noticed any symptoms such as joint pain?"
+  ],
+  "kidney pain": [
+    "Have you been experiencing any kidney pain recently?",
+    "Do you feel any discomfort or pain related to kidney pain?",
+    "Have you noticed any symptoms such as kidney pain?"
+  ],
+  "leg pain": [
+    "Have you been experiencing any leg pain recently?",
+    "Do you feel any discomfort or pain related to leg pain?",
+    "Have you noticed any symptoms such as leg pain?"
+  ],
+  "leg swelling": [
+    "Have you been experiencing any leg swelling recently?",
+    "Do you feel any discomfort or pain related to leg swelling?",
+    "Have you noticed any symptoms such as leg swelling?"
+  ],
+  "loss of smell (anosmia)": [
+    "Have you been experiencing any loss of smell (anosmia) recently?",
+    "Do you feel any discomfort or pain related to loss of smell (anosmia)?",
+    "Have you noticed any symptoms such as loss of smell (anosmia)?"
+  ],
+  "low blood oxygen (hypoxemia)": [
+    "Have you been experiencing any low blood oxygen (hypoxemia) recently?",
+    "Do you feel any discomfort or pain related to low blood oxygen (hypoxemia)?",
+    "Have you noticed any symptoms such as low blood oxygen (hypoxemia)?"
+  ],
+  "low hemoglobin count": [
+    "Have you been experiencing any low hemoglobin count recently?",
+    "Do you feel any discomfort or pain related to low hemoglobin count?",
+    "Have you noticed any symptoms such as low hemoglobin count?"
+  ],
+  "low potassium (hypokalemia)": [
+    "Have you been experiencing any low potassium (hypokalemia) recently?",
+    "Do you feel any discomfort or pain related to low potassium (hypokalemia)?",
+    "Have you noticed any symptoms such as low potassium (hypokalemia)?"
+  ],
+  "low white blood cell count": [
+    "Have you been experiencing any low white blood cell count recently?",
+    "Do you feel any discomfort or pain related to low white blood cell count?",
+    "Have you noticed any symptoms such as low white blood cell count?"
+  ],
+  "lymphocytosis (high lymphocyte count)": [
+    "Have you been experiencing any lymphocytosis (high lymphocyte count) recently?",
+    "Do you feel any discomfort or pain related to lymphocytosis (high lymphocyte count)?",
+    "Have you noticed any symptoms such as lymphocytosis (high lymphocyte count)?"
+  ],
+  "muscle pain": [
+    "Have you been experiencing any muscle pain recently?",
+    "Do you feel any discomfort or pain related to muscle pain?",
+    "Have you noticed any symptoms such as muscle pain?"
+  ],
+  "nasal congestion": [
+    "Have you been experiencing any nasal congestion recently?",
+    "Do you feel any discomfort or pain related to nasal congestion?",
+    "Have you noticed any symptoms such as nasal congestion?"
+  ],
+  "nausea and vomiting": [
+    "Have you been experiencing any nausea and vomiting recently?",
+    "Do you feel any discomfort or pain related to nausea and vomiting?",
+    "Have you noticed any symptoms such as nausea and vomiting?"
+  ],
+  "neck pain": [
+    "Have you been experiencing any neck pain recently?",
+    "Do you feel any discomfort or pain related to neck pain?",
+    "Have you noticed any symptoms such as neck pain?"
+  ],
+  "neutropenia (low neutrophil count)": [
+    "Have you been experiencing any neutropenia (low neutrophil count) recently?",
+    "Do you feel any discomfort or pain related to neutropenia (low neutrophil count)?",
+    "Have you noticed any symptoms such as neutropenia (low neutrophil count)?"
+  ],
+  "night leg cramps": [
+    "Have you been experiencing any night leg cramps recently?",
+    "Do you feel any discomfort or pain related to night leg cramps?",
+    "Have you noticed any symptoms such as night leg cramps?"
+  ],
+  "night sweats": [
+    "Have you been experiencing any night sweats recently?",
+    "Do you feel any discomfort or pain related to night sweats?",
+    "Have you noticed any symptoms such as night sweats?"
+  ],
+  "nipple discharge": [
+    "Have you been experiencing any nipple discharge recently?",
+    "Do you feel any discomfort or pain related to nipple discharge?",
+    "Have you noticed any symptoms such as nipple discharge?"
+  ],
+  "nosebleeds": [
+    "Have you been experiencing any nosebleeds recently?",
+    "Do you feel any discomfort or pain related to nosebleeds?",
+    "Have you noticed any symptoms such as nosebleeds?"
+  ],
+  "numbness": [
+    "Have you been experiencing any numbness recently?",
+    "Do you feel any discomfort or pain related to numbness?",
+    "Have you noticed any symptoms such as numbness?"
+  ],
+  "painful urination": [
+    "Have you been experiencing any painful urination recently?",
+    "Does it hurt or feel uncomfortable when you urinate?",
+    "Have you noticed any symptoms such as painful urination?"
+  ],
+  "peeling skin": [
+    "Have you been experiencing any peeling skin recently?",
+    "Do you feel any discomfort or pain related to peeling skin?",
+    "Have you noticed any symptoms such as peeling skin?"
+  ],
+  "pelvic pain": [
+    "Have you been experiencing any pelvic pain recently?",
+    "Do you feel any discomfort or pain related to pelvic pain?",
+    "Have you noticed any symptoms such as pelvic pain?"
+  ],
+  "petechiae": [
+    "Have you been experiencing any petechiae recently?",
+    "Do you feel any discomfort or pain related to petechiae?",
+    "Have you noticed any symptoms such as petechiae?"
+  ],
+  "protein in urine (proteinuria)": [
+    "Have you been experiencing any protein in urine (proteinuria) recently?",
+    "Do you feel any discomfort or pain related to protein in urine (proteinuria)?",
+    "Have you noticed any symptoms such as protein in urine (proteinuria)?"
+  ],
+  "rectal bleeding": [
+    "Have you been experiencing any rectal bleeding recently?",
+    "Do you feel any discomfort or pain related to rectal bleeding?",
+    "Have you noticed any symptoms such as rectal bleeding?"
+  ],
+  "red eye": [
+    "Have you been experiencing any red eye recently?",
+    "Do you feel any discomfort or pain related to red eye?",
+    "Have you noticed any symptoms such as red eye?"
+  ],
+  "runny nose": [
+    "Have you been experiencing any runny nose recently?",
+    "Do you feel any discomfort or pain related to runny nose?",
+    "Have you noticed any symptoms such as runny nose?"
+  ],
+  "shortness of breath": [
+    "Have you been experiencing any shortness of breath recently?",
+    "Do you feel any discomfort or pain related to shortness of breath?",
+    "Have you noticed any symptoms such as shortness of breath?"
+  ],
+  "shoulder pain": [
+    "Have you been experiencing any shoulder pain recently?",
+    "Do you feel any discomfort or pain related to shoulder pain?",
+    "Have you noticed any symptoms such as shoulder pain?"
+  ],
+  "testicle pain": [
+    "Have you been experiencing any testicle pain recently?",
+    "Do you feel any discomfort or pain related to testicle pain?",
+    "Have you noticed any symptoms such as testicle pain?"
+  ],
+  "unexplained weight loss": [
+    "Have you been experiencing any unexplained weight loss recently?",
+    "Do you feel any discomfort or pain related to unexplained weight loss?",
+    "Have you noticed any symptoms such as unexplained weight loss?"
+  ],
+  "urine odor": [
+    "Have you been experiencing any urine odor recently?",
+    "Do you feel any discomfort or pain related to urine odor?",
+    "Have you noticed any symptoms such as urine odor?"
+  ],
+  "vaginal bleeding": [
+    "Have you been experiencing any vaginal bleeding recently?",
+    "Do you feel any discomfort or pain related to vaginal bleeding?",
+    "Have you noticed any symptoms such as vaginal bleeding?"
+  ],
+  "vaginal bleeding after sex": [
+    "Have you been experiencing any vaginal bleeding after sex recently?",
+    "Do you feel any discomfort or pain related to vaginal bleeding after sex?",
+    "Have you noticed any symptoms such as vaginal bleeding after sex?"
+  ],
+  "vaginal discharge": [
+    "Have you been experiencing any vaginal discharge recently?",
+    "Do you feel any discomfort or pain related to vaginal discharge?",
+    "Have you noticed any symptoms such as vaginal discharge?"
+  ],
+  "vaginal dryness": [
+    "Have you been experiencing any vaginal dryness recently?",
+    "Do you feel any discomfort or pain related to vaginal dryness?",
+    "Have you noticed any symptoms such as vaginal dryness?"
+  ],
+  "vaginal odor": [
+    "Have you been experiencing any vaginal odor recently?",
+    "Do you feel any discomfort or pain related to vaginal odor?",
+    "Have you noticed any symptoms such as vaginal odor?"
+  ],
+  "vomiting blood": [
+    "Have you been experiencing any vomiting blood recently?",
+    "Do you feel any discomfort or pain related to vomiting blood?",
+    "Have you noticed any symptoms such as vomiting blood?"
+  ],
+  "watery eyes": [
+    "Have you been experiencing any watery eyes recently?",
+    "Do you feel any discomfort or pain related to watery eyes?",
+    "Have you noticed any symptoms such as watery eyes?"
+  ],
+  "wheezing": [
+    "Have you been experiencing any wheezing recently?",
+    "Do you feel any discomfort or pain related to wheezing?",
+    "Have you noticed any symptoms such as wheezing?"
+  ],
+  "white tongue": [
+    "Has your tongue been more yellow than usual?",
+    "Have you noticed any symptoms such as white tongue?"
+  ],
+  "yellow tongue": [
+    "Has your tongue been more yellow than usual?",
+    "Have you noticed any symptoms such as yellow tongue?"
+  ]
+}
