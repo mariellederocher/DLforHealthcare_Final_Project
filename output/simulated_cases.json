@@ -1,0 +1,152 @@
+[
+  {
+    "encounter_id": 0,
+    "findings": [
+      "fever",
+      "vaginal dryness",
+      "nipple discharge",
+      "night sweats",
+      "unexplained weight loss",
+      "leg cramps",
+      "throat pain",
+      "shoulder pain",
+      "elbow pain",
+      "vomiting"
+    ]
+  },
+  {
+    "encounter_id": 1,
+    "findings": [
+      "night sweats",
+      "chills",
+      "cough",
+      "breast lumps",
+      "diarrhea",
+      "muscle pain",
+      "abdominal pain",
+      "nasal congestion",
+      "runny nose",
+      "leg cramps"
+    ]
+  },
+  {
+    "encounter_id": 2,
+    "findings": [
+      "nosebleeds",
+      "throat pain",
+      "breast rash",
+      "eye pain",
+      "muscle pain",
+      "nasal congestion",
+      "vaginal bleeding",
+      "neck pain",
+      "vaginal dryness",
+      "nipple discharge"
+    ]
+  },
+  {
+    "encounter_id": 3,
+    "findings": [
+      "groin pain",
+      "leg pain",
+      "dry orgasm",
+      "leg cramps",
+      "joint pain",
+      "vomiting",
+      "rectal bleeding",
+      "pelvic pain",
+      "frequent bowel movements",
+      "vaginal discharge"
+    ]
+  },
+  {
+    "encounter_id": 4,
+    "findings": [
+      "back pain",
+      "joint pain",
+      "frequent bowel movements",
+      "muscle pain",
+      "watery eyes",
+      "breast lumps",
+      "shortness of breath",
+      "chills",
+      "foot pain",
+      "nipple discharge"
+    ]
+  },
+  {
+    "encounter_id": 5,
+    "findings": [
+      "nasal congestion",
+      "frequent bowel movements",
+      "memory loss",
+      "nausea",
+      "shortness of breath",
+      "fatigue",
+      "back pain",
+      "heel pain",
+      "nipple discharge",
+      "dizziness"
+    ]
+  },
+  {
+    "encounter_id": 6,
+    "findings": [
+      "frequent urination",
+      "shoulder pain",
+      "muscle pain",
+      "headache",
+      "frequent bowel movements",
+      "arm pain",
+      "numbness",
+      "unexplained weight loss",
+      "nipple discharge",
+      "leg swelling"
+    ]
+  },
+  {
+    "encounter_id": 7,
+    "findings": [
+      "runny nose",
+      "ankle pain",
+      "shoulder pain",
+      "fever",
+      "vaginal dryness",
+      "fatigue",
+      "coughing up blood",
+      "abdominal pain",
+      "chills",
+      "rectal bleeding"
+    ]
+  },
+  {
+    "encounter_id": 8,
+    "findings": [
+      "back pain",
+      "hip pain",
+      "blood clots",
+      "chills",
+      "pelvic pain",
+      "dry orgasm",
+      "foot pain",
+      "nipple discharge",
+      "leg swelling",
+      "leg pain"
+    ]
+  },
+  {
+    "encounter_id": 9,
+    "findings": [
+      "back pain",
+      "neck pain",
+      "breast rash",
+      "ankle pain",
+      "vomiting",
+      "leg pain",
+      "insomnia",
+      "frequent urination",
+      "eye pain",
+      "arm pain"
+    ]
+  }
+]

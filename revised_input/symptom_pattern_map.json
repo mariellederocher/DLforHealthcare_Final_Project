@@ -1,0 +1,359 @@
+{
+  "abdominal pain": [
+    "abdominal pain",
+    "stomach pain",
+    "stomach ache",
+    "belly pain",
+    "tummy ache"
+  ],
+  "anal pain": [
+    "anal pain",
+    "rectal pain",
+    "butt pain",
+    "pain in anus"
+  ],
+  "ankle pain": [
+    "ankle pain",
+    "ankle ache",
+    "pain in ankle"
+  ],
+  "arm pain": [
+    "arm pain",
+    "arm ache",
+    "pain in arm"
+  ],
+  "back pain": [
+    "back pain",
+    "backache",
+    "lower back pain",
+    "upper back pain",
+    "pain in back"
+  ],
+  "bent penis": [
+    "bent penis",
+    "curved penis",
+    "penile curvature"
+  ],
+  "bleeding during pregnancy": [
+    "bleeding during pregnancy"
+  ],
+  "blood clots": [
+    "blood clots",
+    "blood clot",
+    "clots",
+    "thrombosis",
+    "thrombus"
+  ],
+  "breast lumps": [
+    "breast lumps",
+    "breast lump",
+    "breast mass",
+    "lump in breast"
+  ],
+  "breast rash": [
+    "breast rash",
+    "rash on breast",
+    "breast skin rash"
+  ],
+  "burning feet": [
+    "burning feet",
+    "feet burning",
+    "burning sensation in feet"
+  ],
+  "cold hands": [
+    "cold hands",
+    "hands feel cold"
+  ],
+  "cough": [
+    "cough",
+    "coughing",
+    "dry cough",
+    "wet cough",
+    "hacking cough"
+  ],
+  "coughing up blood": [
+    "coughing up blood",
+    "cough up blood",
+    "coughing blood",
+    "hemoptysis"
+  ],
+  "dark circles under eyes": [
+    "dark circles under eyes",
+    "dark circles",
+    "periorbital dark circles"
+  ],
+  "diarrhea": [
+    "diarrhea",
+    "diarrhoea",
+    "loose stools",
+    "watery stools"
+  ],
+  "dizziness": [
+    "dizziness",
+    "dizzy",
+    "lightheaded",
+    "feeling lightheaded"
+  ],
+  "dry orgasm": [
+    "dry orgasm",
+    "orgasm without fluid"
+  ],
+  "elbow pain": [
+    "elbow pain",
+    "elbow ache",
+    "pain in elbow"
+  ],
+  "excessive sweating": [
+    "excessive sweating",
+    "sweating excessively",
+    "sweating a lot",
+    "hyperhidrosis"
+  ],
+  "eye pain": [
+    "eye pain",
+    "ocular pain",
+    "eye ache"
+  ],
+  "eye twitching": [
+    "eye twitching",
+    "eyelid twitch",
+    "eye spasms"
+  ],
+  "fatigue": [
+    "fatigue",
+    "tiredness",
+    "feeling tired"
+  ],
+  "foot pain": [
+    "foot pain",
+    "foot ache",
+    "pain in foot"
+  ],
+  "frequent bowel movements": [
+    "frequent bowel movements",
+    "frequent stools",
+    "frequent BMs"
+  ],
+  "frequent urination": [
+    "frequent urination",
+    "frequent peeing",
+    "polyuria"
+  ],
+  "green stool": [
+    "green stool",
+    "green feces",
+    "green poo"
+  ],
+  "groin pain": [
+    "groin pain",
+    "pain in groin"
+  ],
+  "headache": [
+    "headache",
+    "headaches",
+    "head pain"
+  ],
+  "heel pain": [
+    "heel pain",
+    "heel ache",
+    "pain in heel"
+  ],
+  "hip pain": [
+    "hip pain",
+    "hip ache",
+    "pain in hip"
+  ],
+  "intestinal gas": [
+    "intestinal gas",
+    "gas",
+    "flatulence",
+    "bloating"
+  ],
+  "joint pain": [
+    "joint pain",
+    "arthralgia",
+    "joint aches",
+    "pain in joints"
+  ],
+  "kidney pain": [
+    "kidney pain",
+    "pain in kidney",
+    "flank pain"
+  ],
+  "leg pain": [
+    "leg pain",
+    "leg ache",
+    "pain in leg"
+  ],
+  "leg swelling": [
+    "leg swelling",
+    "swollen legs",
+    "leg edema",
+    "leg oedema"
+  ],
+  "loss of smell": [
+    "loss of smell",
+    "anosmia"
+  ],
+  "muscle pain": [
+    "muscle pain",
+    "myalgia",
+    "muscle ache",
+    "muscle soreness"
+  ],
+  "nasal congestion": [
+    "nasal congestion",
+    "stuffy nose",
+    "nasal blockage",
+    "rhinorrhea"
+  ],
+  "nausea": [
+    "nausea",
+    "nauseous",
+    "feeling nauseous",
+    "queasy"
+  ],
+  "vomiting": [
+    "vomiting"
+  ],
+  "neck pain": [
+    "neck pain",
+    "neck ache",
+    "pain in neck"
+  ],
+  "leg cramps": [
+    "leg cramps"
+  ],
+  "night sweats": [
+    "night sweats",
+    "excessive night sweating",
+    "night sweat"
+  ],
+  "nipple discharge": [
+    "nipple discharge",
+    "breast discharge"
+  ],
+  "nosebleeds": [
+    "nosebleeds",
+    "nose bleed",
+    "epistaxis"
+  ],
+  "numbness": [
+    "numbness",
+    "numb",
+    "tingling",
+    "paresthesia"
+  ],
+  "painful urination": [
+    "painful urination\\b)",
+    "dysuria",
+    "pain on urination"
+  ],
+  "peeling skin": [
+    "peeling skin",
+    "skin peeling"
+  ],
+  "pelvic pain": [
+    "pelvic pain",
+    "pain in pelvis",
+    "pelvic ache"
+  ],
+  "rectal bleeding": [
+    "rectal bleeding",
+    "rectal bleed",
+    "blood in stool"
+  ],
+  "red eye": [
+    "red eye",
+    "red eyes",
+    "bloodshot eye"
+  ],
+  "runny nose": [
+    "runny nose",
+    "rhinorrhea"
+  ],
+  "shortness of breath": [
+    "shortness of breath",
+    "SOB",
+    "breathlessness",
+    "dyspnea"
+  ],
+  "shoulder pain": [
+    "shoulder pain",
+    "shoulder ache",
+    "pain in shoulder"
+  ],
+  "testicle pain": [
+    "testicle pain",
+    "testicular pain",
+    "pain in testicle"
+  ],
+  "unexplained weight loss": [
+    "unexplained weight loss"
+  ],
+  "urine odor": [
+    "urine odor",
+    "smelly urine",
+    "strong urine smell"
+  ],
+  "vaginal bleeding": [
+    "vaginal bleeding",
+    "vaginal bleed",
+    "bleeding vaginally"
+  ],
+  "vaginal discharge": [
+    "vaginal discharge",
+    "discharge from vagina"
+  ],
+  "vaginal dryness": [
+    "vaginal dryness",
+    "dry vagina"
+  ],
+  "vaginal odor": [
+    "vaginal odor",
+    "odor from vagina"
+  ],
+  "vomiting blood": [
+    "vomiting blood",
+    "vomit blood",
+    "hematemesis"
+  ],
+  "watery eyes": [
+    "watery eyes",
+    "eyes watering",
+    "tearing"
+  ],
+  "wheezing": [
+    "wheezing",
+    "wheeze",
+    "wheezy"
+  ],
+  "white tongue": [
+    "white tongue",
+    "tongue white",
+    "white coating on tongue"
+  ],
+  "yellow tongue": [
+    "yellow tongue",
+    "tongue yellow",
+    "yellow-coated tongue"
+  ],
+  "fever": [
+    "fever"
+  ],
+  "chills": [
+    "chills"
+  ],
+  "throat pain": [
+    "throat pain"
+  ],
+  "insomnia": [
+    "insomnia"
+  ],
+  "frequent bruising": [
+    "frequent bruising"
+  ],
+  "memory loss": [
+    "memory loss"
+  ]
+}

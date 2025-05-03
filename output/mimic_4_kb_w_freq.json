@@ -1,0 +1,5100 @@
+{
+  "Long term (current) use of anticoagulants": {
+    "nausea": 0.08333333333333333,
+    "diarrhea": 0.08333333333333333,
+    "insomnia": 0.041666666666666664,
+    "shortness of breath": 0.125,
+    "leg swelling": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "fever": 0.041666666666666664,
+    "chills": 0.08333333333333333,
+    "numbness": 0.041666666666666664,
+    "fatigue": 0.08333333333333333,
+    "back pain": 0.08333333333333333,
+    "vomiting": 0.041666666666666664,
+    "foot pain": 0.041666666666666664
+  },
+  "Do not resuscitate status": {
+    "fatigue": 0.16666666666666666,
+    "fever": 0.08333333333333333,
+    "back pain": 0.08333333333333333,
+    "chills": 0.16666666666666666,
+    "headache": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "hip pain": 0.08333333333333333
+  },
+  "Cervicalgia": {
+    "diarrhea": 0.07692307692307693,
+    "vomiting": 0.15384615384615385,
+    "nausea": 0.23076923076923078,
+    "cough": 0.07692307692307693,
+    "back pain": 0.15384615384615385,
+    "headache": 0.15384615384615385,
+    "leg pain": 0.07692307692307693,
+    "fever": 0.07692307692307693
+  },
+  "Closed fracture of fourth cervical vertebra": {
+    "diarrhea": 0.125,
+    "numbness": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "shoulder pain": 0.125,
+    "abdominal pain": 0.125,
+    "dizziness": 0.125,
+    "chills": 0.125
+  },
+  "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)": {
+    "diarrhea": 0.11764705882352941,
+    "shortness of breath": 0.11764705882352941,
+    "numbness": 0.11764705882352941,
+    "groin pain": 0.058823529411764705,
+    "nausea": 0.058823529411764705,
+    "cough": 0.058823529411764705,
+    "back pain": 0.11764705882352941,
+    "abdominal pain": 0.11764705882352941,
+    "chills": 0.11764705882352941,
+    "fever": 0.058823529411764705,
+    "vomiting": 0.058823529411764705
+  },
+  "Unspecified essential hypertension": {
+    "fever": 0.125,
+    "back pain": 0.03409090909090909,
+    "chills": 0.10227272727272728,
+    "shortness of breath": 0.10227272727272728,
+    "vomiting": 0.07954545454545454,
+    "nausea": 0.09090909090909091,
+    "abdominal pain": 0.06818181818181818,
+    "diarrhea": 0.07954545454545454,
+    "insomnia": 0.03409090909090909,
+    "blood clots": 0.03409090909090909,
+    "cough": 0.056818181818181816,
+    "wheezing": 0.022727272727272728,
+    "leg pain": 0.011363636363636364,
+    "ankle pain": 0.011363636363636364,
+    "numbness": 0.03409090909090909,
+    "hip pain": 0.011363636363636364,
+    "headache": 0.056818181818181816,
+    "shoulder pain": 0.011363636363636364,
+    "groin pain": 0.011363636363636364,
+    "dizziness": 0.011363636363636364,
+    "night sweats": 0.011363636363636364
+  },
+  "Personal history of urinary calculi": {
+    "hip pain": 0.05,
+    "diarrhea": 0.15,
+    "shortness of breath": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "chills": 0.1,
+    "dizziness": 0.05,
+    "headache": 0.05
+  },
+  "Hyperpotassemia": {
+    "fatigue": 0.06451612903225806,
+    "vomiting": 0.06451612903225806,
+    "nausea": 0.0967741935483871,
+    "abdominal pain": 0.06451612903225806,
+    "wheezing": 0.12903225806451613,
+    "fever": 0.0967741935483871,
+    "chills": 0.06451612903225806,
+    "diarrhea": 0.0967741935483871,
+    "headache": 0.06451612903225806,
+    "shortness of breath": 0.03225806451612903,
+    "numbness": 0.06451612903225806,
+    "cough": 0.03225806451612903,
+    "back pain": 0.03225806451612903,
+    "dizziness": 0.03225806451612903,
+    "leg pain": 0.03225806451612903,
+    "arm pain": 0.03225806451612903
+  },
+  "Insulin pump status": {
+    "diarrhea": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "runny nose": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Other and unspecified hyperlipidemia": {
+    "diarrhea": 0.09473684210526316,
+    "night sweats": 0.06315789473684211,
+    "shortness of breath": 0.08421052631578947,
+    "nausea": 0.10526315789473684,
+    "cough": 0.07368421052631578,
+    "abdominal pain": 0.11578947368421053,
+    "wheezing": 0.021052631578947368,
+    "fever": 0.07368421052631578,
+    "chills": 0.11578947368421053,
+    "numbness": 0.021052631578947368,
+    "vomiting": 0.08421052631578947,
+    "headache": 0.05263157894736842,
+    "insomnia": 0.042105263157894736,
+    "blood clots": 0.010526315789473684,
+    "dizziness": 0.021052631578947368,
+    "hip pain": 0.010526315789473684,
+    "unexplained weight loss": 0.010526315789473684
+  },
+  "Dementia, unspecified, without behavioral disturbance": {
+    "watery eyes": 0.07692307692307693,
+    "diarrhea": 0.07692307692307693,
+    "night sweats": 0.07692307692307693,
+    "shortness of breath": 0.07692307692307693,
+    "vomiting": 0.07692307692307693,
+    "nausea": 0.07692307692307693,
+    "cough": 0.07692307692307693,
+    "shoulder pain": 0.07692307692307693,
+    "abdominal pain": 0.07692307692307693,
+    "dizziness": 0.07692307692307693,
+    "fever": 0.07692307692307693,
+    "headache": 0.07692307692307693,
+    "chills": 0.07692307692307693
+  },
+  "Coronary atherosclerosis of native coronary artery": {
+    "diarrhea": 0.06818181818181818,
+    "vomiting": 0.06818181818181818,
+    "nausea": 0.09090909090909091,
+    "back pain": 0.06818181818181818,
+    "dizziness": 0.045454545454545456,
+    "shortness of breath": 0.11363636363636363,
+    "arm pain": 0.022727272727272728,
+    "shoulder pain": 0.022727272727272728,
+    "cough": 0.06818181818181818,
+    "abdominal pain": 0.06818181818181818,
+    "hip pain": 0.022727272727272728,
+    "fatigue": 0.045454545454545456,
+    "groin pain": 0.045454545454545456,
+    "fever": 0.045454545454545456,
+    "headache": 0.045454545454545456,
+    "chills": 0.06818181818181818,
+    "night sweats": 0.022727272727272728,
+    "wheezing": 0.022727272727272728,
+    "foot pain": 0.022727272727272728,
+    "heel pain": 0.022727272727272728
+  },
+  "Incisional hernia without mention of obstruction or gangrene": {
+    "shortness of breath": 0.2,
+    "blood clots": 0.2,
+    "vomiting": 0.2,
+    "fever": 0.2,
+    "chills": 0.2
+  },
+  "Obesity hypoventilation syndrome": {
+    "wheezing": 0.3333333333333333,
+    "cough": 0.3333333333333333,
+    "back pain": 0.3333333333333333
+  },
+  "Esophageal reflux": {
+    "diarrhea": 0.0625,
+    "night sweats": 0.046875,
+    "shortness of breath": 0.109375,
+    "blood clots": 0.03125,
+    "vomiting": 0.0625,
+    "nausea": 0.09375,
+    "cough": 0.078125,
+    "back pain": 0.046875,
+    "abdominal pain": 0.09375,
+    "wheezing": 0.046875,
+    "fever": 0.109375,
+    "headache": 0.046875,
+    "chills": 0.09375,
+    "fatigue": 0.03125,
+    "leg swelling": 0.015625,
+    "dizziness": 0.015625,
+    "hip pain": 0.015625
+  },
+  "Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled": {
+    "numbness": 0.1,
+    "headache": 0.06666666666666667,
+    "cough": 0.16666666666666666,
+    "chills": 0.06666666666666667,
+    "ankle pain": 0.03333333333333333,
+    "nausea": 0.16666666666666666,
+    "diarrhea": 0.06666666666666667,
+    "abdominal pain": 0.06666666666666667,
+    "wheezing": 0.03333333333333333,
+    "fever": 0.03333333333333333,
+    "vomiting": 0.06666666666666667,
+    "shortness of breath": 0.06666666666666667,
+    "night sweats": 0.03333333333333333,
+    "fatigue": 0.03333333333333333
+  },
+  "Unspecified viral hepatitis C without hepatic coma": {
+    "shortness of breath": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "unexplained weight loss": 0.041666666666666664,
+    "abdominal pain": 0.125,
+    "dizziness": 0.041666666666666664,
+    "fever": 0.041666666666666664,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333,
+    "diarrhea": 0.041666666666666664,
+    "numbness": 0.041666666666666664,
+    "back pain": 0.08333333333333333
+  },
+  "Gastro-esophageal reflux disease without esophagitis": {
+    "vomiting": 0.10606060606060606,
+    "nausea": 0.12121212121212122,
+    "insomnia": 0.06060606060606061,
+    "shortness of breath": 0.09090909090909091,
+    "back pain": 0.045454545454545456,
+    "abdominal pain": 0.09090909090909091,
+    "chills": 0.07575757575757576,
+    "diarrhea": 0.06060606060606061,
+    "night sweats": 0.030303030303030304,
+    "fatigue": 0.030303030303030304,
+    "cough": 0.07575757575757576,
+    "fever": 0.045454545454545456,
+    "throat pain": 0.015151515151515152,
+    "leg pain": 0.015151515151515152,
+    "numbness": 0.015151515151515152,
+    "shoulder pain": 0.015151515151515152,
+    "wheezing": 0.030303030303030304,
+    "joint pain": 0.015151515151515152,
+    "eye pain": 0.015151515151515152,
+    "headache": 0.030303030303030304,
+    "dizziness": 0.015151515151515152
+  },
+  "Unspecified intestinal obstruction": {
+    "diarrhea": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.0625,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "wheezing": 0.0625,
+    "fever": 0.0625,
+    "chills": 0.0625,
+    "shortness of breath": 0.0625,
+    "numbness": 0.0625,
+    "dizziness": 0.0625,
+    "headache": 0.0625
+  },
+  "Chronic kidney disease, Stage III (moderate)": {
+    "fever": 0.1111111111111111,
+    "shortness of breath": 0.2222222222222222,
+    "fatigue": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "wheezing": 0.1111111111111111,
+    "headache": 0.1111111111111111,
+    "leg pain": 0.1111111111111111
+  },
+  "Personal history of tobacco use": {
+    "diarrhea": 0.08333333333333333,
+    "insomnia": 0.041666666666666664,
+    "shortness of breath": 0.08333333333333333,
+    "cough": 0.125,
+    "runny nose": 0.041666666666666664,
+    "back pain": 0.041666666666666664,
+    "abdominal pain": 0.125,
+    "wheezing": 0.041666666666666664,
+    "chills": 0.125,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "numbness": 0.041666666666666664,
+    "fever": 0.041666666666666664,
+    "headache": 0.041666666666666664
+  },
+  "Pressure ulcer of other site, unspecified stage": {
+    "cough": 0.3333333333333333,
+    "fever": 0.3333333333333333,
+    "diarrhea": 0.3333333333333333
+  },
+  "Congestive heart failure, unspecified": {
+    "fever": 0.1111111111111111,
+    "insomnia": 0.05555555555555555,
+    "nausea": 0.1388888888888889,
+    "hip pain": 0.027777777777777776,
+    "shortness of breath": 0.1111111111111111,
+    "memory loss": 0.027777777777777776,
+    "neck pain": 0.027777777777777776,
+    "cough": 0.08333333333333333,
+    "back pain": 0.027777777777777776,
+    "chills": 0.1388888888888889,
+    "diarrhea": 0.08333333333333333,
+    "leg swelling": 0.027777777777777776,
+    "dizziness": 0.05555555555555555,
+    "vomiting": 0.027777777777777776,
+    "abdominal pain": 0.027777777777777776,
+    "wheezing": 0.027777777777777776
+  },
+  "Acidosis": {
+    "insomnia": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.2222222222222222,
+    "abdominal pain": 0.1111111111111111,
+    "fever": 0.2222222222222222,
+    "numbness": 0.1111111111111111,
+    "headache": 0.1111111111111111
+  },
+  "Aortocoronary bypass status": {
+    "fever": 0.6666666666666666,
+    "back pain": 0.3333333333333333
+  },
+  "Epilepsy, unspecified, not intractable, without status epilepticus": {
+    "headache": 0.5,
+    "abdominal pain": 0.5
+  },
+  "Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use": {
+    "diarrhea": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.18181818181818182,
+    "cough": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091,
+    "dizziness": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "neck pain": 0.09090909090909091,
+    "headache": 0.09090909090909091,
+    "chills": 0.09090909090909091
+  },
+  "Bronchiectasis, uncomplicated": {
+    "wheezing": 0.25,
+    "cough": 0.25,
+    "shortness of breath": 0.25,
+    "leg swelling": 0.25
+  },
+  "Thrombocytopenia, unspecified": {
+    "fever": 0.1,
+    "abdominal pain": 0.15,
+    "diarrhea": 0.1,
+    "fatigue": 0.05,
+    "blood clots": 0.1,
+    "nausea": 0.05,
+    "shortness of breath": 0.1,
+    "cough": 0.1,
+    "dizziness": 0.05,
+    "wheezing": 0.05,
+    "chills": 0.1,
+    "headache": 0.05
+  },
+  "Essential (primary) hypertension": {
+    "numbness": 0.060240963855421686,
+    "shortness of breath": 0.08433734939759036,
+    "back pain": 0.060240963855421686,
+    "fatigue": 0.060240963855421686,
+    "muscle pain": 0.012048192771084338,
+    "diarrhea": 0.03614457831325301,
+    "night sweats": 0.03614457831325301,
+    "nausea": 0.12048192771084337,
+    "cough": 0.08433734939759036,
+    "abdominal pain": 0.07228915662650602,
+    "headache": 0.060240963855421686,
+    "wheezing": 0.04819277108433735,
+    "insomnia": 0.024096385542168676,
+    "neck pain": 0.012048192771084338,
+    "blood clots": 0.024096385542168676,
+    "chills": 0.03614457831325301,
+    "vomiting": 0.060240963855421686,
+    "fever": 0.07228915662650602,
+    "dizziness": 0.024096385542168676,
+    "leg pain": 0.012048192771084338
+  },
+  "Unspecified acquired hypothyroidism": {
+    "diarrhea": 0.075,
+    "shortness of breath": 0.1,
+    "cough": 0.125,
+    "abdominal pain": 0.1,
+    "wheezing": 0.025,
+    "headache": 0.075,
+    "chills": 0.125,
+    "numbness": 0.025,
+    "fever": 0.05,
+    "fatigue": 0.025,
+    "dizziness": 0.025,
+    "insomnia": 0.025,
+    "vomiting": 0.075,
+    "night sweats": 0.025,
+    "nausea": 0.075,
+    "vaginal bleeding": 0.025,
+    "leg swelling": 0.025
+  },
+  "Hypopotassemia": {
+    "diarrhea": 0.25,
+    "fatigue": 0.25,
+    "back pain": 0.25,
+    "insomnia": 0.25
+  },
+  "Chronic embolism and thrombosis of left femoral vein": {
+    "wheezing": 0.25,
+    "cough": 0.25,
+    "shortness of breath": 0.25,
+    "nausea": 0.25
+  },
+  "Fracture of subcondylar process of right mandible, initial encounter for open fracture": {
+    "shortness of breath": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "dizziness": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "chills": 0.16666666666666666
+  },
+  "Pressure ulcer of sacral region, stage 2": {
+    "diarrhea": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "dizziness": 0.14285714285714285,
+    "wheezing": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Malignant neoplasm of pancreas, part unspecified": {
+    "diarrhea": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "back pain": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Outcome of delivery, single liveborn": {
+    "diarrhea": 0.16666666666666666,
+    "shortness of breath": 0.16666666666666666,
+    "vaginal bleeding": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666,
+    "dizziness": 0.16666666666666666,
+    "fever": 0.16666666666666666
+  },
+  "Rheumatic tricuspid insufficiency": {
+    "diarrhea": 0.14285714285714285,
+    "insomnia": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "fatigue": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "fever": 0.14285714285714285
+  },
+  "Benign essential hypertension": {
+    "pelvic pain": 0.07142857142857142,
+    "diarrhea": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "dizziness": 0.14285714285714285,
+    "chills": 0.14285714285714285,
+    "fever": 0.07142857142857142
+  },
+  "Insomnia, unspecified": {
+    "diarrhea": 0.09433962264150944,
+    "shortness of breath": 0.07547169811320754,
+    "cough": 0.09433962264150944,
+    "fever": 0.09433962264150944,
+    "chills": 0.11320754716981132,
+    "night sweats": 0.05660377358490566,
+    "insomnia": 0.09433962264150944,
+    "abdominal pain": 0.07547169811320754,
+    "headache": 0.07547169811320754,
+    "fatigue": 0.03773584905660377,
+    "nausea": 0.07547169811320754,
+    "vomiting": 0.03773584905660377,
+    "back pain": 0.03773584905660377,
+    "wheezing": 0.018867924528301886,
+    "numbness": 0.018867924528301886
+  },
+  "Osteoporosis, unspecified": {
+    "fever": 0.14285714285714285,
+    "insomnia": 0.07142857142857142,
+    "numbness": 0.07142857142857142,
+    "chills": 0.14285714285714285,
+    "diarrhea": 0.07142857142857142,
+    "shortness of breath": 0.07142857142857142,
+    "neck pain": 0.07142857142857142,
+    "vomiting": 0.07142857142857142,
+    "nausea": 0.07142857142857142,
+    "back pain": 0.07142857142857142,
+    "dizziness": 0.07142857142857142,
+    "headache": 0.07142857142857142
+  },
+  "Type 2 diabetes mellitus with diabetic polyneuropathy": {
+    "arm pain": 0.16666666666666666,
+    "shoulder pain": 0.16666666666666666,
+    "back pain": 0.16666666666666666,
+    "blood clots": 0.16666666666666666,
+    "chills": 0.16666666666666666,
+    "dizziness": 0.16666666666666666
+  },
+  "Adverse effect of anticoagulants, initial encounter": {
+    "diarrhea": 0.1,
+    "shortness of breath": 0.05,
+    "fatigue": 0.05,
+    "vomiting": 0.05,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "back pain": 0.05,
+    "abdominal pain": 0.05,
+    "chills": 0.05,
+    "fever": 0.1,
+    "insomnia": 0.1,
+    "eye pain": 0.05,
+    "night sweats": 0.05,
+    "neck pain": 0.05,
+    "leg swelling": 0.05
+  },
+  "Acquired absence of intestine (large) (small)": {
+    "diarrhea": 0.07692307692307693,
+    "night sweats": 0.07692307692307693,
+    "shortness of breath": 0.07692307692307693,
+    "leg pain": 0.07692307692307693,
+    "vomiting": 0.07692307692307693,
+    "leg swelling": 0.07692307692307693,
+    "nausea": 0.07692307692307693,
+    "cough": 0.07692307692307693,
+    "abdominal pain": 0.07692307692307693,
+    "fever": 0.07692307692307693,
+    "foot pain": 0.07692307692307693,
+    "headache": 0.07692307692307693,
+    "chills": 0.07692307692307693
+  },
+  "Unspecified protein-calorie malnutrition": {
+    "fever": 0.3333333333333333,
+    "vomiting": 0.3333333333333333,
+    "headache": 0.3333333333333333
+  },
+  "Intestinal infection due to other organism, not elsewhere classified": {
+    "diarrhea": 0.2,
+    "abdominal pain": 0.2,
+    "dizziness": 0.2,
+    "fever": 0.2,
+    "headache": 0.2
+  },
+  "Hematoma complicating a procedure": {
+    "cough": 0.5,
+    "neck pain": 0.5
+  },
+  "Personal history of venous thrombosis and embolism": {
+    "diarrhea": 0.08695652173913043,
+    "shortness of breath": 0.08695652173913043,
+    "vomiting": 0.043478260869565216,
+    "vaginal bleeding": 0.043478260869565216,
+    "nausea": 0.13043478260869565,
+    "cough": 0.08695652173913043,
+    "abdominal pain": 0.043478260869565216,
+    "chills": 0.13043478260869565,
+    "insomnia": 0.043478260869565216,
+    "wheezing": 0.08695652173913043,
+    "fever": 0.08695652173913043,
+    "headache": 0.043478260869565216,
+    "back pain": 0.043478260869565216,
+    "joint pain": 0.043478260869565216
+  },
+  "Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation": {
+    "chills": 1.0
+  },
+  "Vascular disorder of intestine, unspecified": {
+    "nausea": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "dizziness": 0.14285714285714285,
+    "wheezing": 0.14285714285714285,
+    "foot pain": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Adverse effect of other antidysrhythmic drugs, initial encounter": {
+    "fatigue": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333,
+    "dizziness": 0.3333333333333333
+  },
+  "Abdominal aneurysm without mention of rupture": {
+    "night sweats": 0.125,
+    "shortness of breath": 0.125,
+    "numbness": 0.125,
+    "arm pain": 0.125,
+    "nausea": 0.125,
+    "shoulder pain": 0.125,
+    "wheezing": 0.125,
+    "joint pain": 0.125
+  },
+  "History of fall": {
+    "cough": 0.5,
+    "abdominal pain": 0.5
+  },
+  "Other retention of urine": {
+    "diarrhea": 1.0
+  },
+  "Hypovolemia": {
+    "diarrhea": 0.1,
+    "night sweats": 0.05,
+    "insomnia": 0.05,
+    "nausea": 0.15,
+    "abdominal pain": 0.1,
+    "chills": 0.1,
+    "wheezing": 0.05,
+    "blood clots": 0.1,
+    "vomiting": 0.1,
+    "fever": 0.1,
+    "dizziness": 0.05,
+    "back pain": 0.05
+  },
+  "Fistula of stomach and duodenum": {
+    "shortness of breath": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "elbow pain": 0.125,
+    "fever": 0.125,
+    "chills": 0.125
+  },
+  "Antiphospholipid syndrome": {
+    "diarrhea": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "fatigue": 0.14285714285714285,
+    "numbness": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Atrial fibrillation": {
+    "headache": 0.05555555555555555,
+    "numbness": 0.05555555555555555,
+    "fatigue": 0.027777777777777776,
+    "groin pain": 0.027777777777777776,
+    "shoulder pain": 0.027777777777777776,
+    "foot pain": 0.027777777777777776,
+    "abdominal pain": 0.05555555555555555,
+    "diarrhea": 0.05555555555555555,
+    "shortness of breath": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "dizziness": 0.027777777777777776,
+    "fever": 0.1111111111111111,
+    "hip pain": 0.027777777777777776,
+    "insomnia": 0.05555555555555555,
+    "blood clots": 0.027777777777777776,
+    "leg swelling": 0.027777777777777776,
+    "cough": 0.05555555555555555,
+    "chills": 0.08333333333333333,
+    "wheezing": 0.027777777777777776
+  },
+  "Neutropenia, unspecified": {
+    "night sweats": 0.07692307692307693,
+    "shortness of breath": 0.07692307692307693,
+    "vomiting": 0.07692307692307693,
+    "nausea": 0.15384615384615385,
+    "cough": 0.07692307692307693,
+    "abdominal pain": 0.15384615384615385,
+    "fever": 0.15384615384615385,
+    "headache": 0.07692307692307693,
+    "chills": 0.07692307692307693,
+    "dizziness": 0.07692307692307693
+  },
+  "Prepatellar bursitis": {
+    "chills": 0.3333333333333333,
+    "leg swelling": 0.3333333333333333,
+    "leg pain": 0.3333333333333333
+  },
+  "Right upper quadrant pain": {
+    "fever": 0.5,
+    "nausea": 0.5
+  },
+  "Adult failure to thrive": {
+    "diarrhea": 0.16666666666666666,
+    "insomnia": 0.16666666666666666,
+    "fatigue": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "fever": 0.16666666666666666
+  },
+  "Sepsis": {
+    "diarrhea": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "leg swelling": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "fever": 0.14285714285714285
+  },
+  "Solitary pulmonary nodule": {
+    "wheezing": 0.14285714285714285,
+    "cough": 0.2857142857142857,
+    "shortness of breath": 0.14285714285714285,
+    "chills": 0.14285714285714285,
+    "headache": 0.14285714285714285,
+    "dizziness": 0.14285714285714285
+  },
+  "Posttraumatic stress disorder": {
+    "diarrhea": 0.3333333333333333,
+    "vomiting": 0.3333333333333333,
+    "nausea": 0.3333333333333333
+  },
+  "Ulcerative colitis, unspecified": {
+    "shortness of breath": 0.2,
+    "vomiting": 0.2,
+    "nausea": 0.2,
+    "abdominal pain": 0.2,
+    "dizziness": 0.2
+  },
+  "Dissection of carotid artery": {
+    "fever": 0.5,
+    "cough": 0.5
+  },
+  "Displaced fracture of distal phalanx of left great toe, initial encounter for closed fracture": {
+    "fever": 1.0
+  },
+  "Incomplete uterovaginal prolapse": {
+    "vaginal discharge": 0.2,
+    "vaginal bleeding": 0.2,
+    "back pain": 0.2,
+    "abdominal pain": 0.2,
+    "fever": 0.2
+  },
+  "Coagulation defect, unspecified": {
+    "abdominal pain": 0.25,
+    "insomnia": 0.125,
+    "diarrhea": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "peeling skin": 0.125
+  },
+  "Noninfective gastroenteritis and colitis, unspecified": {
+    "diarrhea": 0.125,
+    "shortness of breath": 0.125,
+    "fatigue": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "back pain": 0.125,
+    "abdominal pain": 0.125,
+    "wheezing": 0.125
+  },
+  "Hyperkalemia": {
+    "rectal bleeding": 0.1,
+    "shortness of breath": 0.1,
+    "nausea": 0.2,
+    "abdominal pain": 0.2,
+    "fever": 0.1,
+    "headache": 0.1,
+    "diarrhea": 0.1,
+    "night sweats": 0.1
+  },
+  "Acute kidney failure, unspecified": {
+    "cough": 0.08108108108108109,
+    "shortness of breath": 0.10810810810810811,
+    "headache": 0.04054054054054054,
+    "dizziness": 0.02702702702702703,
+    "insomnia": 0.013513513513513514,
+    "arm pain": 0.013513513513513514,
+    "nausea": 0.12162162162162163,
+    "shoulder pain": 0.013513513513513514,
+    "back pain": 0.04054054054054054,
+    "abdominal pain": 0.08108108108108109,
+    "diarrhea": 0.08108108108108109,
+    "vomiting": 0.06756756756756757,
+    "fever": 0.08108108108108109,
+    "chills": 0.06756756756756757,
+    "blood clots": 0.02702702702702703,
+    "foot pain": 0.013513513513513514,
+    "night sweats": 0.02702702702702703,
+    "fatigue": 0.013513513513513514,
+    "hip pain": 0.04054054054054054,
+    "wheezing": 0.013513513513513514,
+    "leg swelling": 0.02702702702702703
+  },
+  "Pressure ulcer of right heel, stage 1": {
+    "wheezing": 0.3333333333333333,
+    "cough": 0.3333333333333333,
+    "fever": 0.3333333333333333
+  },
+  "Other and unspecified coagulation defects": {
+    "shortness of breath": 0.125,
+    "numbness": 0.125,
+    "fatigue": 0.125,
+    "cough": 0.125,
+    "back pain": 0.125,
+    "fever": 0.125,
+    "headache": 0.125,
+    "chills": 0.125
+  },
+  "Personal history of nicotine dependence": {
+    "diarrhea": 0.11764705882352941,
+    "vomiting": 0.14705882352941177,
+    "abdominal pain": 0.14705882352941177,
+    "shortness of breath": 0.058823529411764705,
+    "nausea": 0.11764705882352941,
+    "cough": 0.08823529411764706,
+    "wheezing": 0.029411764705882353,
+    "fever": 0.08823529411764706,
+    "insomnia": 0.058823529411764705,
+    "back pain": 0.029411764705882353,
+    "leg swelling": 0.029411764705882353,
+    "chills": 0.058823529411764705,
+    "headache": 0.029411764705882353
+  },
+  "Portal hypertension": {
+    "diarrhea": 0.0625,
+    "night sweats": 0.0625,
+    "shortness of breath": 0.0625,
+    "vomiting": 0.0625,
+    "nausea": 0.125,
+    "cough": 0.0625,
+    "back pain": 0.125,
+    "abdominal pain": 0.0625,
+    "dizziness": 0.0625,
+    "wheezing": 0.0625,
+    "fever": 0.0625,
+    "headache": 0.0625,
+    "chills": 0.0625,
+    "insomnia": 0.0625
+  },
+  "Other seasonal allergic rhinitis": {
+    "diarrhea": 0.16666666666666666,
+    "vaginal discharge": 0.16666666666666666,
+    "vaginal bleeding": 0.16666666666666666,
+    "back pain": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666,
+    "fever": 0.16666666666666666
+  },
+  "Lack of housing": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "shortness of breath": 0.1,
+    "numbness": 0.1,
+    "vomiting": 0.1,
+    "leg swelling": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "joint pain": 0.1,
+    "chills": 0.1
+  },
+  "Personal history of malignant neoplasm of breast": {
+    "diarrhea": 0.06666666666666667,
+    "shortness of breath": 0.06666666666666667,
+    "numbness": 0.06666666666666667,
+    "vomiting": 0.13333333333333333,
+    "nausea": 0.13333333333333333,
+    "cough": 0.13333333333333333,
+    "fever": 0.2,
+    "chills": 0.06666666666666667,
+    "nasal congestion": 0.06666666666666667,
+    "fatigue": 0.06666666666666667
+  },
+  "Diaphragmatic hernia without obstruction or gangrene": {
+    "numbness": 0.16666666666666666,
+    "back pain": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666,
+    "wheezing": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "shortness of breath": 0.16666666666666666
+  },
+  "Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified": {
+    "diarrhea": 0.1111111111111111,
+    "shortness of breath": 0.05555555555555555,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "chills": 0.1111111111111111,
+    "numbness": 0.05555555555555555,
+    "fatigue": 0.05555555555555555,
+    "wheezing": 0.05555555555555555
+  },
+  "Infection and inflammatory reaction due to indwelling urethral catheter, initial encounter": {
+    "diarrhea": 0.16666666666666666,
+    "insomnia": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "wheezing": 0.08333333333333333,
+    "fever": 0.16666666666666666,
+    "chills": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "nasal congestion": 0.08333333333333333
+  },
+  "Depressive disorder, not elsewhere classified": {
+    "eye pain": 0.015873015873015872,
+    "night sweats": 0.031746031746031744,
+    "shortness of breath": 0.06349206349206349,
+    "numbness": 0.047619047619047616,
+    "vomiting": 0.07936507936507936,
+    "nausea": 0.06349206349206349,
+    "cough": 0.1111111111111111,
+    "abdominal pain": 0.06349206349206349,
+    "dizziness": 0.06349206349206349,
+    "fever": 0.07936507936507936,
+    "headache": 0.06349206349206349,
+    "chills": 0.07936507936507936,
+    "fatigue": 0.031746031746031744,
+    "diarrhea": 0.07936507936507936,
+    "back pain": 0.047619047619047616,
+    "insomnia": 0.015873015873015872,
+    "wheezing": 0.015873015873015872,
+    "shoulder pain": 0.015873015873015872,
+    "muscle pain": 0.015873015873015872,
+    "elbow pain": 0.015873015873015872
+  },
+  "Atrial flutter": {
+    "fatigue": 0.125,
+    "headache": 0.0625,
+    "dizziness": 0.125,
+    "shortness of breath": 0.0625,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "diarrhea": 0.0625,
+    "cough": 0.0625,
+    "abdominal pain": 0.0625,
+    "wheezing": 0.0625,
+    "fever": 0.0625,
+    "chills": 0.0625
+  },
+  "Presence of coronary angioplasty implant and graft": {
+    "diarrhea": 0.07142857142857142,
+    "shortness of breath": 0.07142857142857142,
+    "numbness": 0.07142857142857142,
+    "vomiting": 0.07142857142857142,
+    "nausea": 0.14285714285714285,
+    "cough": 0.07142857142857142,
+    "back pain": 0.07142857142857142,
+    "hip pain": 0.07142857142857142,
+    "headache": 0.07142857142857142,
+    "chills": 0.14285714285714285,
+    "wheezing": 0.07142857142857142,
+    "abdominal pain": 0.07142857142857142
+  },
+  "Nonspecific abnormal results of function study of liver": {
+    "fever": 0.5,
+    "back pain": 0.5
+  },
+  "Long-term (current) use of steroids": {
+    "numbness": 0.1,
+    "nausea": 0.2,
+    "cough": 0.1,
+    "foot pain": 0.1,
+    "leg pain": 0.1,
+    "diarrhea": 0.1,
+    "vomiting": 0.1,
+    "abdominal pain": 0.1,
+    "chills": 0.1
+  },
+  "Polyp of stomach and duodenum": {
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "back pain": 0.16666666666666666,
+    "dizziness": 0.16666666666666666,
+    "fever": 0.16666666666666666
+  },
+  "Tobacco use disorder": {
+    "dizziness": 0.16666666666666666,
+    "insomnia": 0.16666666666666666,
+    "headache": 0.16666666666666666,
+    "chills": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666
+  },
+  "Other streptococcus as the cause of diseases classified elsewhere": {
+    "diarrhea": 0.06666666666666667,
+    "vomiting": 0.06666666666666667,
+    "nausea": 0.06666666666666667,
+    "cough": 0.13333333333333333,
+    "abdominal pain": 0.13333333333333333,
+    "fever": 0.13333333333333333,
+    "chills": 0.06666666666666667,
+    "rectal bleeding": 0.06666666666666667,
+    "insomnia": 0.06666666666666667,
+    "shoulder pain": 0.06666666666666667,
+    "back pain": 0.06666666666666667,
+    "headache": 0.06666666666666667
+  },
+  "End stage renal disease": {
+    "insomnia": 0.2,
+    "shortness of breath": 0.2,
+    "fatigue": 0.2,
+    "abdominal pain": 0.2,
+    "chills": 0.2
+  },
+  "Systemic lupus erythematosus": {
+    "diarrhea": 0.08333333333333333,
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "wheezing": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "joint pain": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333
+  },
+  "Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema": {
+    "shortness of breath": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "dizziness": 0.16666666666666666,
+    "fever": 0.16666666666666666
+  },
+  "Fatty (change of) liver, not elsewhere classified": {
+    "diarrhea": 0.2,
+    "night sweats": 0.2,
+    "nausea": 0.2,
+    "cough": 0.2,
+    "abdominal pain": 0.2
+  },
+  "Complications of transplanted liver": {
+    "diarrhea": 0.2,
+    "leg swelling": 0.2,
+    "nausea": 0.2,
+    "cough": 0.2,
+    "abdominal pain": 0.2
+  },
+  "Adverse effect of antineoplastic and immunosuppressive drugs, sequela": {
+    "diarrhea": 0.1,
+    "insomnia": 0.1,
+    "blood clots": 0.1,
+    "vomiting": 0.1,
+    "vaginal discharge": 0.1,
+    "vaginal bleeding": 0.1,
+    "nausea": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "chills": 0.1
+  },
+  "Unspecified glaucoma": {
+    "arm pain": 0.07692307692307693,
+    "neck pain": 0.07692307692307693,
+    "diarrhea": 0.07692307692307693,
+    "insomnia": 0.07692307692307693,
+    "shortness of breath": 0.07692307692307693,
+    "numbness": 0.07692307692307693,
+    "vomiting": 0.07692307692307693,
+    "nausea": 0.07692307692307693,
+    "cough": 0.07692307692307693,
+    "abdominal pain": 0.07692307692307693,
+    "fever": 0.07692307692307693,
+    "throat pain": 0.07692307692307693,
+    "chills": 0.07692307692307693
+  },
+  "Unspecified urinary incontinence": {
+    "insomnia": 0.16666666666666666,
+    "numbness": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "dizziness": 0.16666666666666666,
+    "headache": 0.16666666666666666
+  },
+  "Major depressive disorder, single episode, unspecified": {
+    "fever": 0.06060606060606061,
+    "insomnia": 0.045454545454545456,
+    "nausea": 0.10606060606060606,
+    "diarrhea": 0.10606060606060606,
+    "shortness of breath": 0.10606060606060606,
+    "fatigue": 0.030303030303030304,
+    "vomiting": 0.09090909090909091,
+    "cough": 0.07575757575757576,
+    "abdominal pain": 0.09090909090909091,
+    "wheezing": 0.015151515151515152,
+    "headache": 0.045454545454545456,
+    "chills": 0.09090909090909091,
+    "night sweats": 0.015151515151515152,
+    "numbness": 0.015151515151515152,
+    "back pain": 0.045454545454545456,
+    "blood clots": 0.030303030303030304,
+    "arm pain": 0.015151515151515152,
+    "leg swelling": 0.015151515151515152
+  },
+  "Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure": {
+    "diarrhea": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "numbness": 0.14285714285714285,
+    "chills": 0.14285714285714285,
+    "shortness of breath": 0.07142857142857142,
+    "vomiting": 0.07142857142857142,
+    "nausea": 0.07142857142857142,
+    "cough": 0.07142857142857142,
+    "abdominal pain": 0.07142857142857142,
+    "dizziness": 0.07142857142857142
+  },
+  "Other opiates and related narcotics causing adverse effects in therapeutic use": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "shortness of breath": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "headache": 0.1,
+    "chills": 0.1
+  },
+  "Encounter for immunization": {
+    "diarrhea": 0.16666666666666666,
+    "shortness of breath": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "cough": 0.16666666666666666,
+    "abdominal pain": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "chills": 0.16666666666666666,
+    "fatigue": 0.08333333333333333,
+    "headache": 0.08333333333333333
+  },
+  "Laparoscopic surgical procedure converted to open procedure": {
+    "diarrhea": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "dizziness": 0.05555555555555555,
+    "fever": 0.1111111111111111,
+    "chills": 0.1111111111111111,
+    "arm pain": 0.05555555555555555,
+    "cough": 0.05555555555555555,
+    "back pain": 0.05555555555555555
+  },
+  "Volume depletion, unspecified": {
+    "back pain": 0.14285714285714285,
+    "abdominal pain": 0.2857142857142857,
+    "fatigue": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "cough": 0.14285714285714285
+  },
+  "Unspecified sinusitis (chronic)": {
+    "diarrhea": 0.08333333333333333,
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "numbness": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "dizziness": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333
+  },
+  "Home accidents": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "shortness of breath": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "headache": 0.1,
+    "chills": 0.1
+  },
+  "Myotonia congenita": {
+    "diarrhea": 0.1111111111111111,
+    "insomnia": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Anxiety state, unspecified": {
+    "shoulder pain": 0.0196078431372549,
+    "neck pain": 0.0196078431372549,
+    "headache": 0.058823529411764705,
+    "abdominal pain": 0.13725490196078433,
+    "insomnia": 0.0392156862745098,
+    "leg swelling": 0.0196078431372549,
+    "leg pain": 0.0196078431372549,
+    "diarrhea": 0.0784313725490196,
+    "fever": 0.0784313725490196,
+    "vomiting": 0.0784313725490196,
+    "nausea": 0.0784313725490196,
+    "cough": 0.0784313725490196,
+    "dizziness": 0.0196078431372549,
+    "chills": 0.09803921568627451,
+    "wheezing": 0.0392156862745098,
+    "night sweats": 0.058823529411764705,
+    "fatigue": 0.0196078431372549,
+    "shortness of breath": 0.0392156862745098,
+    "back pain": 0.0196078431372549
+  },
+  "Unspecified car occupant injured in collision with railway train or railway vehicle in nontraffic accident": {
+    "diarrhea": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Other specified forms of tremor": {
+    "cough": 0.5,
+    "diarrhea": 0.5
+  },
+  "Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity": {
+    "diarrhea": 0.125,
+    "shortness of breath": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "back pain": 0.125,
+    "wheezing": 0.125,
+    "chills": 0.125
+  },
+  "Urinary tract infection, site not specified": {
+    "diarrhea": 0.06521739130434782,
+    "shortness of breath": 0.08695652173913043,
+    "vomiting": 0.08695652173913043,
+    "nausea": 0.08695652173913043,
+    "back pain": 0.06521739130434782,
+    "abdominal pain": 0.10869565217391304,
+    "dizziness": 0.08695652173913043,
+    "fever": 0.10869565217391304,
+    "leg pain": 0.021739130434782608,
+    "chills": 0.08695652173913043,
+    "cough": 0.08695652173913043,
+    "vaginal bleeding": 0.021739130434782608,
+    "numbness": 0.021739130434782608,
+    "headache": 0.043478260869565216,
+    "wheezing": 0.021739130434782608
+  },
+  "Unspecified place or not applicable": {
+    "abdominal pain": 0.4,
+    "chills": 0.2,
+    "insomnia": 0.2,
+    "leg pain": 0.2
+  },
+  "Nausea with vomiting": {
+    "diarrhea": 0.10344827586206896,
+    "vomiting": 0.13793103448275862,
+    "vaginal discharge": 0.034482758620689655,
+    "vaginal bleeding": 0.034482758620689655,
+    "nausea": 0.13793103448275862,
+    "back pain": 0.034482758620689655,
+    "abdominal pain": 0.10344827586206896,
+    "wheezing": 0.034482758620689655,
+    "fever": 0.10344827586206896,
+    "chills": 0.1724137931034483,
+    "numbness": 0.034482758620689655,
+    "shortness of breath": 0.034482758620689655,
+    "cough": 0.034482758620689655
+  },
+  "Other mitochondrial metabolism disorders": {
+    "cough": 0.5,
+    "back pain": 0.5
+  },
+  "Personal history of malignant neoplasm of large intestine": {
+    "insomnia": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "runny nose": 0.14285714285714285,
+    "back pain": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "throat pain": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Barrett's esophagus": {
+    "shortness of breath": 0.2,
+    "vomiting": 0.2,
+    "nausea": 0.2,
+    "cough": 0.2,
+    "chills": 0.2
+  },
+  "Anemia, unspecified": {
+    "diarrhea": 0.058823529411764705,
+    "abdominal pain": 0.0784313725490196,
+    "chills": 0.1568627450980392,
+    "fever": 0.0784313725490196,
+    "cough": 0.11764705882352941,
+    "wheezing": 0.0784313725490196,
+    "joint pain": 0.0196078431372549,
+    "dizziness": 0.0196078431372549,
+    "shortness of breath": 0.058823529411764705,
+    "vomiting": 0.0392156862745098,
+    "vaginal discharge": 0.0392156862745098,
+    "vaginal bleeding": 0.0196078431372549,
+    "back pain": 0.0784313725490196,
+    "headache": 0.0392156862745098,
+    "nausea": 0.0196078431372549,
+    "insomnia": 0.0196078431372549,
+    "fatigue": 0.0392156862745098,
+    "numbness": 0.0196078431372549,
+    "unexplained weight loss": 0.0196078431372549
+  },
+  "Secondary malignant neoplasm of bone and bone marrow": {
+    "shortness of breath": 0.14285714285714285,
+    "numbness": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "hip pain": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Closed fracture of cuboid": {
+    "foot pain": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Long term (current) use of antithrombotics/antiplatelets": {
+    "numbness": 0.2,
+    "headache": 0.1,
+    "diarrhea": 0.1,
+    "back pain": 0.1,
+    "hip pain": 0.1,
+    "fever": 0.2,
+    "nausea": 0.1,
+    "chills": 0.1
+  },
+  "Other chest pain": {
+    "numbness": 0.125,
+    "insomnia": 0.125,
+    "shortness of breath": 0.25,
+    "fatigue": 0.25,
+    "vomiting": 0.125,
+    "nausea": 0.125
+  },
+  "Fibromyalgia": {
+    "diarrhea": 0.125,
+    "shortness of breath": 0.125,
+    "numbness": 0.125,
+    "arm pain": 0.125,
+    "nausea": 0.125,
+    "wheezing": 0.125,
+    "hip pain": 0.125,
+    "fever": 0.125
+  },
+  "Examination of participant in clinical trial": {
+    "shortness of breath": 0.2,
+    "fatigue": 0.2,
+    "cough": 0.2,
+    "wheezing": 0.2,
+    "chills": 0.2
+  },
+  "Alcoholic polyneuropathy": {
+    "vomiting": 0.2,
+    "nausea": 0.2,
+    "fever": 0.2,
+    "foot pain": 0.2,
+    "chills": 0.2
+  },
+  "Long-term (current) use of anticoagulants": {
+    "diarrhea": 0.0851063829787234,
+    "shortness of breath": 0.06382978723404255,
+    "blood clots": 0.02127659574468085,
+    "vomiting": 0.0851063829787234,
+    "nausea": 0.10638297872340426,
+    "cough": 0.10638297872340426,
+    "fever": 0.10638297872340426,
+    "leg pain": 0.02127659574468085,
+    "chills": 0.06382978723404255,
+    "numbness": 0.02127659574468085,
+    "arm pain": 0.0425531914893617,
+    "night sweats": 0.0425531914893617,
+    "headache": 0.0425531914893617,
+    "fatigue": 0.02127659574468085,
+    "back pain": 0.02127659574468085,
+    "abdominal pain": 0.0425531914893617,
+    "insomnia": 0.02127659574468085,
+    "elbow pain": 0.02127659574468085,
+    "wheezing": 0.0425531914893617,
+    "joint pain": 0.02127659574468085
+  },
+  "Other malignant lymphomas, unspecified site, extranodal and solid organ sites": {
+    "numbness": 0.25,
+    "chills": 0.25,
+    "shortness of breath": 0.25,
+    "cough": 0.25
+  },
+  "Alcohol abuse, in remission": {
+    "diarrhea": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Mechanical complication due to cardiac pacemaker (electrode)": {
+    "numbness": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333,
+    "cough": 0.3333333333333333
+  },
+  "Morbid (severe) obesity with alveolar hypoventilation": {
+    "wheezing": 0.5,
+    "fever": 0.5
+  },
+  "Late effects of cerebrovascular disease, speech and language deficit, unspecified": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "shortness of breath": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "headache": 0.1,
+    "chills": 0.1
+  },
+  "Secondary and unspecified malignant neoplasm of axilla and upper limb lymph nodes": {
+    "fever": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "chills": 0.14285714285714285,
+    "diarrhea": 0.07142857142857142,
+    "insomnia": 0.07142857142857142,
+    "nausea": 0.07142857142857142,
+    "leg swelling": 0.07142857142857142,
+    "cough": 0.07142857142857142,
+    "leg cramps": 0.07142857142857142
+  },
+  "Fall on same level, unspecified, initial encounter": {
+    "blood clots": 1.0
+  },
+  "Abnormal weight loss": {
+    "diarrhea": 0.14285714285714285,
+    "numbness": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "headache": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Spondylosis of unspecified site, without mention of myelopathy": {
+    "diarrhea": 0.1,
+    "shortness of breath": 0.1,
+    "fatigue": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "back pain": 0.1,
+    "wheezing": 0.1,
+    "hip pain": 0.1,
+    "headache": 0.1
+  },
+  "Other postprocedural status": {
+    "fever": 0.25,
+    "vomiting": 0.25,
+    "abdominal pain": 0.25,
+    "nausea": 0.25
+  },
+  "Anxiety disorder, unspecified": {
+    "shortness of breath": 0.21052631578947367,
+    "vaginal bleeding": 0.05263157894736842,
+    "abdominal pain": 0.05263157894736842,
+    "dizziness": 0.10526315789473684,
+    "fever": 0.15789473684210525,
+    "diarrhea": 0.05263157894736842,
+    "nausea": 0.05263157894736842,
+    "cough": 0.05263157894736842,
+    "wheezing": 0.05263157894736842,
+    "headache": 0.05263157894736842,
+    "chills": 0.05263157894736842,
+    "back pain": 0.05263157894736842,
+    "fatigue": 0.05263157894736842
+  },
+  "Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits": {
+    "diarrhea": 0.047619047619047616,
+    "night sweats": 0.047619047619047616,
+    "shortness of breath": 0.07142857142857142,
+    "vomiting": 0.09523809523809523,
+    "nausea": 0.14285714285714285,
+    "cough": 0.07142857142857142,
+    "abdominal pain": 0.09523809523809523,
+    "dizziness": 0.023809523809523808,
+    "fever": 0.09523809523809523,
+    "headache": 0.07142857142857142,
+    "chills": 0.07142857142857142,
+    "wheezing": 0.07142857142857142,
+    "memory loss": 0.023809523809523808,
+    "shoulder pain": 0.023809523809523808,
+    "vaginal discharge": 0.023809523809523808,
+    "vaginal bleeding": 0.023809523809523808
+  },
+  "Acute appendicitis with generalized peritonitis": {
+    "diarrhea": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Alcohol abuse, continuous": {
+    "diarrhea": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "back pain": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091,
+    "dizziness": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "headache": 0.09090909090909091,
+    "throat pain": 0.09090909090909091,
+    "chills": 0.09090909090909091
+  },
+  "Calculus of kidney": {
+    "vomiting": 0.25,
+    "abdominal pain": 0.25,
+    "nausea": 0.25,
+    "chills": 0.25
+  },
+  "Left bundle-branch block, unspecified": {
+    "shortness of breath": 0.5,
+    "dizziness": 0.5
+  },
+  "Unspecified cirrhosis of liver": {
+    "diarrhea": 0.2,
+    "night sweats": 0.2,
+    "leg swelling": 0.2,
+    "abdominal pain": 0.2,
+    "headache": 0.2
+  },
+  "Long-term (current) use of aspirin": {
+    "cough": 0.5,
+    "abdominal pain": 0.25,
+    "chills": 0.25
+  },
+  "Other and unspecified alcohol dependence, continuous": {
+    "diarrhea": 0.125,
+    "insomnia": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "dizziness": 0.125,
+    "headache": 0.125
+  },
+  "Other acquired absence of organ": {
+    "diarrhea": 0.1111111111111111,
+    "night sweats": 0.037037037037037035,
+    "shortness of breath": 0.1111111111111111,
+    "vomiting": 0.07407407407407407,
+    "nausea": 0.1111111111111111,
+    "cough": 0.037037037037037035,
+    "abdominal pain": 0.1111111111111111,
+    "wheezing": 0.037037037037037035,
+    "fever": 0.14814814814814814,
+    "headache": 0.037037037037037035,
+    "chills": 0.14814814814814814,
+    "fatigue": 0.037037037037037035
+  },
+  "Long term (current) use of aspirin": {
+    "insomnia": 0.125,
+    "shortness of breath": 0.25,
+    "nausea": 0.125,
+    "back pain": 0.25,
+    "leg cramps": 0.125,
+    "cough": 0.125
+  },
+  "Personal history of malignant neoplasm of prostate": {
+    "insomnia": 0.16666666666666666,
+    "shortness of breath": 0.16666666666666666,
+    "blood clots": 0.08333333333333333,
+    "chills": 0.08333333333333333,
+    "fatigue": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "dizziness": 0.08333333333333333,
+    "wheezing": 0.08333333333333333,
+    "hip pain": 0.08333333333333333
+  },
+  "Body mass index [BMI] 30.0-30.9, adult": {
+    "fever": 0.3333333333333333,
+    "insomnia": 0.3333333333333333,
+    "cough": 0.3333333333333333
+  },
+  "Alcoholic cirrhosis of liver": {
+    "wheezing": 0.5,
+    "back pain": 0.5
+  },
+  "Suicidal ideation": {
+    "insomnia": 1.0
+  },
+  "Nontraumatic intracerebral hemorrhage in hemisphere, cortical": {
+    "cough": 0.3333333333333333,
+    "back pain": 0.3333333333333333,
+    "wheezing": 0.3333333333333333
+  },
+  "Hyperlipidemia, unspecified": {
+    "shortness of breath": 0.06976744186046512,
+    "vomiting": 0.06976744186046512,
+    "wheezing": 0.023255813953488372,
+    "fever": 0.09302325581395349,
+    "chills": 0.13953488372093023,
+    "diarrhea": 0.06976744186046512,
+    "arm pain": 0.023255813953488372,
+    "vaginal bleeding": 0.023255813953488372,
+    "nausea": 0.09302325581395349,
+    "back pain": 0.023255813953488372,
+    "abdominal pain": 0.09302325581395349,
+    "fatigue": 0.046511627906976744,
+    "headache": 0.046511627906976744,
+    "cough": 0.06976744186046512,
+    "dizziness": 0.046511627906976744,
+    "leg swelling": 0.023255813953488372,
+    "insomnia": 0.023255813953488372,
+    "night sweats": 0.023255813953488372
+  },
+  "Unspecified fall, initial encounter": {
+    "numbness": 0.5,
+    "neck pain": 0.5
+  },
+  "Adrenal cortical steroids causing adverse effects in therapeutic use": {
+    "diarrhea": 0.07692307692307693,
+    "vomiting": 0.07692307692307693,
+    "nausea": 0.07692307692307693,
+    "cough": 0.15384615384615385,
+    "abdominal pain": 0.07692307692307693,
+    "dizziness": 0.07692307692307693,
+    "fever": 0.07692307692307693,
+    "leg pain": 0.07692307692307693,
+    "chills": 0.07692307692307693,
+    "coughing up blood": 0.07692307692307693,
+    "night sweats": 0.07692307692307693,
+    "fatigue": 0.07692307692307693
+  },
+  "Dependence on wheelchair": {
+    "cough": 0.3333333333333333,
+    "night sweats": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Family history of diabetes mellitus": {
+    "wheezing": 0.3333333333333333,
+    "diarrhea": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333
+  },
+  "Other specified disorders of gallbladder": {
+    "fatigue": 0.2,
+    "vomiting": 0.2,
+    "nausea": 0.2,
+    "back pain": 0.2,
+    "chills": 0.2
+  },
+  "Unspecified disease of pericardium": {
+    "diarrhea": 0.16666666666666666,
+    "shortness of breath": 0.16666666666666666,
+    "fatigue": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "chills": 0.16666666666666666
+  },
+  "Person on outside of car injured in collision with other nonmotor vehicle in nontraffic accident": {
+    "vomiting": 0.125,
+    "vaginal bleeding": 0.125,
+    "nausea": 0.125,
+    "abdominal pain": 0.125,
+    "dizziness": 0.125,
+    "fever": 0.125,
+    "chills": 0.125,
+    "rectal bleeding": 0.125
+  },
+  "Closed fracture of second cervical vertebra": {
+    "neck pain": 1.0
+  },
+  "Spinal stenosis, lumbar region": {
+    "back pain": 0.5,
+    "wheezing": 0.5
+  },
+  "Benign prostatic hyperplasia without lower urinary tract symptoms": {
+    "abdominal pain": 0.5,
+    "nausea": 0.5
+  },
+  "Tubal ligation status": {
+    "vomiting": 0.3333333333333333,
+    "abdominal pain": 0.3333333333333333,
+    "nausea": 0.3333333333333333
+  },
+  "Other postoperative infection": {
+    "vomiting": 0.25,
+    "shortness of breath": 0.25,
+    "nausea": 0.25,
+    "chills": 0.25
+  },
+  "Automatic implantable cardiac defibrillator in situ": {
+    "back pain": 0.5,
+    "fatigue": 0.5
+  },
+  "Arthropathy, unspecified, site unspecified": {
+    "fatigue": 0.1,
+    "fever": 0.1,
+    "back pain": 0.2,
+    "leg swelling": 0.1,
+    "diarrhea": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "nasal congestion": 0.1,
+    "chills": 0.1
+  },
+  "Pain in joint, lower leg": {
+    "diarrhea": 0.1111111111111111,
+    "insomnia": 0.1111111111111111,
+    "numbness": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "back pain": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "headache": 0.1111111111111111
+  },
+  "Unspecified atrial flutter": {
+    "cough": 0.25,
+    "fever": 0.25,
+    "abdominal pain": 0.25,
+    "chills": 0.25
+  },
+  "Severe sepsis with septic shock": {
+    "diarrhea": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666,
+    "leg pain": 0.16666666666666666,
+    "back pain": 0.16666666666666666
+  },
+  "Personal history of malignant melanoma of skin": {
+    "cough": 0.25,
+    "shortness of breath": 0.25,
+    "leg swelling": 0.25,
+    "leg pain": 0.25
+  },
+  "Chronic pancreatitis": {
+    "night sweats": 0.1,
+    "shortness of breath": 0.1,
+    "neck pain": 0.1,
+    "numbness": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "chills": 0.1
+  },
+  "Acquired absence of other left toe(s)": {
+    "diarrhea": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "hip pain": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "headache": 0.16666666666666666
+  },
+  "Bilateral primary osteoarthritis of hip": {
+    "wheezing": 0.25,
+    "chills": 0.25,
+    "back pain": 0.25,
+    "leg pain": 0.25
+  },
+  "Staphylococcal arthritis, right shoulder": {
+    "shoulder pain": 0.25,
+    "night sweats": 0.25,
+    "neck pain": 0.25,
+    "fever": 0.25
+  },
+  "Secondary malignant neoplasm of unspecified lung": {
+    "frequent urination": 0.3333333333333333,
+    "abdominal pain": 0.3333333333333333,
+    "nausea": 0.3333333333333333
+  },
+  "Hypotension, unspecified": {
+    "diarrhea": 0.09090909090909091,
+    "night sweats": 0.045454545454545456,
+    "numbness": 0.045454545454545456,
+    "vomiting": 0.09090909090909091,
+    "leg swelling": 0.045454545454545456,
+    "nausea": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "abdominal pain": 0.045454545454545456,
+    "fever": 0.13636363636363635,
+    "headache": 0.045454545454545456,
+    "chills": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "ankle pain": 0.045454545454545456,
+    "vaginal bleeding": 0.045454545454545456
+  },
+  "Sepsis due to Methicillin susceptible Staphylococcus aureus": {
+    "fever": 0.25,
+    "chills": 0.25,
+    "nausea": 0.25,
+    "dizziness": 0.25
+  },
+  "Person injured in unspecified motor-vehicle accident, traffic, sequela": {
+    "wheezing": 0.5,
+    "fever": 0.5
+  },
+  "Chronic obstructive pulmonary disease with (acute) exacerbation": {
+    "shortness of breath": 0.2,
+    "cough": 0.2,
+    "wheezing": 0.2,
+    "fever": 0.2,
+    "chills": 0.2
+  },
+  "Lateral epicondylitis": {
+    "diarrhea": 0.125,
+    "night sweats": 0.125,
+    "shortness of breath": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125,
+    "chills": 0.125
+  },
+  "Unspecified diastolic (congestive) heart failure": {
+    "insomnia": 1.0
+  },
+  "Unspecified accident": {
+    "chills": 1.0
+  },
+  "Other and unspecified angina pectoris": {
+    "diarrhea": 0.0625,
+    "night sweats": 0.0625,
+    "shortness of breath": 0.125,
+    "vomiting": 0.0625,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "dizziness": 0.0625,
+    "fever": 0.0625,
+    "headache": 0.0625,
+    "chills": 0.125
+  },
+  "Chronic hepatitis C without mention of hepatic coma": {
+    "diarrhea": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "abdominal pain": 0.125,
+    "dizziness": 0.125,
+    "wheezing": 0.125,
+    "fever": 0.125,
+    "chills": 0.125
+  },
+  "Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation": {
+    "vomiting": 0.25,
+    "headache": 0.25,
+    "abdominal pain": 0.25,
+    "shortness of breath": 0.25
+  },
+  "Other iatrogenic hypotension": {
+    "hip pain": 0.25,
+    "shortness of breath": 0.25,
+    "blood clots": 0.25,
+    "chills": 0.25
+  },
+  "Other secondary thrombocytopenia": {
+    "diarrhea": 0.1,
+    "night sweats": 0.06666666666666667,
+    "shortness of breath": 0.06666666666666667,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "back pain": 0.03333333333333333,
+    "abdominal pain": 0.1,
+    "wheezing": 0.03333333333333333,
+    "fever": 0.06666666666666667,
+    "headache": 0.06666666666666667,
+    "chills": 0.06666666666666667,
+    "fatigue": 0.06666666666666667,
+    "dizziness": 0.03333333333333333
+  },
+  "Encephalopathy, unspecified": {
+    "pelvic pain": 0.1,
+    "neck pain": 0.1,
+    "fatigue": 0.1,
+    "cough": 0.2,
+    "back pain": 0.1,
+    "abdominal pain": 0.1,
+    "wheezing": 0.1,
+    "headache": 0.1,
+    "insomnia": 0.1
+  },
+  "Acute kidney failure with tubular necrosis": {
+    "headache": 1.0
+  },
+  "Other nonspecific abnormal finding of lung field": {
+    "wheezing": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333,
+    "vaginal bleeding": 0.3333333333333333
+  },
+  "Motor vehicle traffic accident involving collision with pedestrian injuring pedestrian": {
+    "hip pain": 1.0
+  },
+  "Unspecified pleural effusion": {
+    "cough": 0.25,
+    "fever": 0.25,
+    "chills": 0.25,
+    "back pain": 0.25
+  },
+  "Major depressive affective disorder, recurrent episode, unspecified": {
+    "cough": 0.2857142857142857,
+    "shortness of breath": 0.14285714285714285,
+    "night sweats": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Other constipation": {
+    "fatigue": 0.25,
+    "diarrhea": 0.25,
+    "vomiting": 0.25,
+    "chills": 0.25
+  },
+  "Ventral, unspecified, hernia with obstruction": {
+    "diarrhea": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Anemia in chronic kidney disease": {
+    "diarrhea": 0.07142857142857142,
+    "shortness of breath": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "dizziness": 0.07142857142857142,
+    "nausea": 0.14285714285714285,
+    "vomiting": 0.07142857142857142,
+    "eye pain": 0.07142857142857142,
+    "fever": 0.07142857142857142,
+    "headache": 0.07142857142857142
+  },
+  "Dilated cardiomyopathy": {
+    "abdominal pain": 0.3333333333333333,
+    "nausea": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Pernicious anemia": {
+    "shortness of breath": 1.0
+  },
+  "Elevated white blood cell count, unspecified": {
+    "diarrhea": 0.125,
+    "insomnia": 0.041666666666666664,
+    "shortness of breath": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.125,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.125,
+    "fever": 0.041666666666666664,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333,
+    "wheezing": 0.041666666666666664,
+    "night sweats": 0.041666666666666664,
+    "dizziness": 0.041666666666666664
+  },
+  "Contusion of abdominal wall, initial encounter": {
+    "fever": 0.25,
+    "shortness of breath": 0.25,
+    "abdominal pain": 0.25,
+    "dizziness": 0.25
+  },
+  "Alcohol abuse, unspecified": {
+    "fatigue": 0.09090909090909091,
+    "leg swelling": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "chills": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "blood clots": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "arm pain": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091
+  },
+  "Peripheral vascular disease, unspecified": {
+    "diarrhea": 0.07142857142857142,
+    "shortness of breath": 0.14285714285714285,
+    "vomiting": 0.07142857142857142,
+    "nausea": 0.07142857142857142,
+    "cough": 0.07142857142857142,
+    "runny nose": 0.07142857142857142,
+    "back pain": 0.07142857142857142,
+    "abdominal pain": 0.07142857142857142,
+    "blood clots": 0.07142857142857142,
+    "chills": 0.07142857142857142,
+    "fever": 0.07142857142857142,
+    "neck pain": 0.07142857142857142,
+    "throat pain": 0.07142857142857142
+  },
+  "Acne, unspecified": {
+    "night sweats": 0.5,
+    "chills": 0.5
+  },
+  "Traumatic subarachnoid hemorrhage without loss of consciousness, initial encounter": {
+    "hip pain": 0.14285714285714285,
+    "numbness": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "dizziness": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "headache": 0.14285714285714285
+  },
+  "Infection with drug-resistant microorganisms, unspecified, with multiple drug resistance": {
+    "fever": 1.0
+  },
+  "Presence of right artificial hip joint": {
+    "shortness of breath": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285,
+    "insomnia": 0.14285714285714285
+  },
+  "Car passenger injured in collision with van in traffic accident": {
+    "numbness": 0.5,
+    "back pain": 0.5
+  },
+  "Pneumonia due to other Gram-negative bacteria": {
+    "shortness of breath": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "back pain": 0.16666666666666666,
+    "wheezing": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "headache": 0.16666666666666666
+  },
+  "Headache": {
+    "diarrhea": 0.03571428571428571,
+    "night sweats": 0.03571428571428571,
+    "shortness of breath": 0.07142857142857142,
+    "vomiting": 0.10714285714285714,
+    "nausea": 0.10714285714285714,
+    "cough": 0.07142857142857142,
+    "abdominal pain": 0.10714285714285714,
+    "fever": 0.03571428571428571,
+    "headache": 0.17857142857142858,
+    "fatigue": 0.03571428571428571,
+    "numbness": 0.03571428571428571,
+    "dizziness": 0.03571428571428571,
+    "insomnia": 0.07142857142857142,
+    "wheezing": 0.03571428571428571,
+    "back pain": 0.03571428571428571
+  },
+  "Malignant melanoma of skin of scalp and neck": {
+    "cough": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Cholangitis": {
+    "diarrhea": 0.1111111111111111,
+    "night sweats": 0.05555555555555555,
+    "shortness of breath": 0.05555555555555555,
+    "neck pain": 0.05555555555555555,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.05555555555555555,
+    "back pain": 0.05555555555555555,
+    "abdominal pain": 0.1111111111111111,
+    "wheezing": 0.05555555555555555,
+    "fever": 0.1111111111111111,
+    "headache": 0.05555555555555555,
+    "chills": 0.05555555555555555
+  },
+  "Disorders of muscle in diseases classified elsewhere, left thigh": {
+    "diarrhea": 0.06666666666666667,
+    "night sweats": 0.06666666666666667,
+    "shortness of breath": 0.06666666666666667,
+    "insomnia": 0.06666666666666667,
+    "numbness": 0.06666666666666667,
+    "vomiting": 0.06666666666666667,
+    "nausea": 0.06666666666666667,
+    "leg swelling": 0.06666666666666667,
+    "cough": 0.06666666666666667,
+    "back pain": 0.06666666666666667,
+    "abdominal pain": 0.06666666666666667,
+    "fever": 0.06666666666666667,
+    "leg pain": 0.06666666666666667,
+    "headache": 0.06666666666666667,
+    "chills": 0.06666666666666667
+  },
+  "Dysphagia, oropharyngeal phase": {
+    "diarrhea": 0.5,
+    "abdominal pain": 0.5
+  },
+  "Percutaneous transluminal coronary angioplasty status": {
+    "wheezing": 0.25,
+    "cough": 0.25,
+    "insomnia": 0.25,
+    "shortness of breath": 0.25
+  },
+  "Disorders of magnesium metabolism": {
+    "diarrhea": 0.09090909090909091,
+    "night sweats": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "insomnia": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "headache": 0.09090909090909091,
+    "chills": 0.09090909090909091
+  },
+  "Personal history of malignant neoplasm of ovary": {
+    "fever": 0.5,
+    "back pain": 0.5
+  },
+  "Retention of urine, unspecified": {
+    "diarrhea": 0.08333333333333333,
+    "insomnia": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "back pain": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "hip pain": 0.08333333333333333,
+    "fever": 0.16666666666666666,
+    "leg pain": 0.08333333333333333,
+    "joint pain": 0.08333333333333333,
+    "chills": 0.08333333333333333
+  },
+  "Pressure ulcer of sacral region, stage 3": {
+    "diarrhea": 0.125,
+    "shortness of breath": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125,
+    "headache": 0.125
+  },
+  "Alcohol abuse, uncomplicated": {
+    "cough": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333,
+    "throat pain": 0.3333333333333333
+  },
+  "Renal and perinephric abscess": {
+    "diarrhea": 0.16666666666666666,
+    "shortness of breath": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "back pain": 0.16666666666666666,
+    "fever": 0.16666666666666666
+  },
+  "Other specified cardiac dysrhythmias": {
+    "diarrhea": 0.15384615384615385,
+    "numbness": 0.15384615384615385,
+    "fatigue": 0.15384615384615385,
+    "leg swelling": 0.07692307692307693,
+    "nausea": 0.07692307692307693,
+    "cough": 0.15384615384615385,
+    "shortness of breath": 0.07692307692307693,
+    "fever": 0.07692307692307693,
+    "chills": 0.07692307692307693
+  },
+  "Other specified forms of chronic ischemic heart disease": {
+    "diarrhea": 0.09090909090909091,
+    "night sweats": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "leg swelling": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "headache": 0.09090909090909091,
+    "chills": 0.09090909090909091
+  },
+  "Long-term (current) use of insulin": {
+    "shortness of breath": 0.2222222222222222,
+    "fatigue": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "dizziness": 0.1111111111111111,
+    "wheezing": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "fever": 0.1111111111111111
+  },
+  "Altered mental status": {
+    "back pain": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333,
+    "abdominal pain": 0.3333333333333333
+  },
+  "Unspecified convulsions": {
+    "nausea": 1.0
+  },
+  "Chronic interstitial cystitis": {
+    "pelvic pain": 0.5,
+    "insomnia": 0.5
+  },
+  "Open wound of lip, without mention of complication": {
+    "numbness": 0.25,
+    "fever": 0.25,
+    "headache": 0.25,
+    "chills": 0.25
+  },
+  "Vitamin D deficiency, unspecified": {
+    "diarrhea": 1.0
+  },
+  "Orthostatic hypotension": {
+    "diarrhea": 0.0625,
+    "vomiting": 0.0625,
+    "nausea": 0.0625,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "dizziness": 0.0625,
+    "headache": 0.125,
+    "throat pain": 0.0625,
+    "shortness of breath": 0.0625,
+    "neck pain": 0.0625,
+    "memory loss": 0.0625,
+    "fever": 0.0625,
+    "chills": 0.0625
+  },
+  "Lymphedema, not elsewhere classified": {
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "back pain": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "wheezing": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "headache": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Periprosthetic osteolysis of internal prosthetic left knee joint, initial encounter": {
+    "shortness of breath": 0.3333333333333333,
+    "blood clots": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Rheumatic mitral insufficiency": {
+    "cough": 0.2,
+    "nasal congestion": 0.2,
+    "fever": 0.2,
+    "headache": 0.2,
+    "chills": 0.2
+  },
+  "Disorder of kidney and ureter, unspecified": {
+    "shortness of breath": 0.2,
+    "blood clots": 0.2,
+    "cough": 0.2,
+    "hip pain": 0.2,
+    "chills": 0.2
+  },
+  "Glasgow coma scale score 3-8, at arrival to emergency department": {
+    "diarrhea": 0.16666666666666666,
+    "shortness of breath": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "chills": 0.16666666666666666
+  },
+  "Anemia due to antineoplastic chemotherapy": {
+    "diarrhea": 0.2,
+    "shortness of breath": 0.2,
+    "vomiting": 0.2,
+    "nausea": 0.2,
+    "abdominal pain": 0.2
+  },
+  "Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure": {
+    "diarrhea": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666,
+    "chills": 0.16666666666666666
+  },
+  "Person on outside of bus injured in collision with pedestrian or animal in traffic accident": {
+    "vomiting": 0.5,
+    "blood clots": 0.5
+  },
+  "Coronary atherosclerosis of unspecified type of vessel, native or graft": {
+    "leg pain": 0.2,
+    "vomiting": 0.2,
+    "abdominal pain": 0.2,
+    "nausea": 0.2,
+    "dizziness": 0.2
+  },
+  "Postprocedural intestinal obstruction": {
+    "nausea": 1.0
+  },
+  "Personal history of other malignant neoplasm of skin": {
+    "diarrhea": 0.14285714285714285,
+    "blood clots": 0.07142857142857142,
+    "vomiting": 0.07142857142857142,
+    "nausea": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "night sweats": 0.07142857142857142,
+    "cough": 0.07142857142857142,
+    "headache": 0.07142857142857142,
+    "chills": 0.07142857142857142
+  },
+  "Atherosclerotic heart disease of native coronary artery without angina pectoris": {
+    "night sweats": 0.05263157894736842,
+    "shortness of breath": 0.10526315789473684,
+    "neck pain": 0.05263157894736842,
+    "numbness": 0.05263157894736842,
+    "back pain": 0.05263157894736842,
+    "diarrhea": 0.05263157894736842,
+    "insomnia": 0.10526315789473684,
+    "vomiting": 0.05263157894736842,
+    "nausea": 0.10526315789473684,
+    "cough": 0.05263157894736842,
+    "abdominal pain": 0.05263157894736842,
+    "wheezing": 0.05263157894736842,
+    "fever": 0.05263157894736842,
+    "foot pain": 0.05263157894736842,
+    "headache": 0.05263157894736842,
+    "chills": 0.05263157894736842
+  },
+  "Nonspecific (abnormal) findings on radiological and other examination of skull and head": {
+    "numbness": 1.0
+  },
+  "Fever presenting with conditions classified elsewhere": {
+    "diarrhea": 0.09090909090909091,
+    "night sweats": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "numbness": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091,
+    "wheezing": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "headache": 0.09090909090909091
+  },
+  "Disease of pancreas, unspecified": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "shortness of breath": 0.1,
+    "fatigue": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "chills": 0.1
+  },
+  "Iron deficiency anemia, unspecified": {
+    "fever": 0.17647058823529413,
+    "vomiting": 0.11764705882352941,
+    "back pain": 0.058823529411764705,
+    "abdominal pain": 0.11764705882352941,
+    "fatigue": 0.11764705882352941,
+    "shortness of breath": 0.11764705882352941,
+    "insomnia": 0.058823529411764705,
+    "leg swelling": 0.058823529411764705,
+    "cough": 0.058823529411764705,
+    "chills": 0.058823529411764705,
+    "nausea": 0.058823529411764705
+  },
+  "Gout, unspecified": {
+    "wheezing": 0.03571428571428571,
+    "fatigue": 0.10714285714285714,
+    "abdominal pain": 0.10714285714285714,
+    "chills": 0.14285714285714285,
+    "diarrhea": 0.07142857142857142,
+    "night sweats": 0.07142857142857142,
+    "shortness of breath": 0.07142857142857142,
+    "vomiting": 0.07142857142857142,
+    "nausea": 0.07142857142857142,
+    "cough": 0.07142857142857142,
+    "fever": 0.10714285714285714,
+    "headache": 0.07142857142857142
+  },
+  "Legal blindness, as defined in U.S.A.": {
+    "fever": 0.3333333333333333,
+    "cough": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Subendocardial infarction, initial episode of care": {
+    "vomiting": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333,
+    "nausea": 0.3333333333333333
+  },
+  "Driver of pick-up truck or van injured in collision with pedal cycle in nontraffic accident": {
+    "shortness of breath": 0.2,
+    "vomiting": 0.2,
+    "back pain": 0.2,
+    "fever": 0.2,
+    "chills": 0.2
+  },
+  "Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus": {
+    "headache": 0.2,
+    "neck pain": 0.2,
+    "nausea": 0.2,
+    "insomnia": 0.2,
+    "vaginal bleeding": 0.2
+  },
+  "Old myocardial infarction": {
+    "chills": 0.08,
+    "insomnia": 0.04,
+    "shortness of breath": 0.12,
+    "nausea": 0.12,
+    "leg swelling": 0.08,
+    "cough": 0.08,
+    "dizziness": 0.08,
+    "wheezing": 0.04,
+    "fever": 0.08,
+    "leg pain": 0.04,
+    "numbness": 0.04,
+    "diarrhea": 0.04,
+    "fatigue": 0.04,
+    "vomiting": 0.08,
+    "abdominal pain": 0.04
+  },
+  "Anal or rectal pain": {
+    "diarrhea": 0.1,
+    "shortness of breath": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.2,
+    "fever": 0.2,
+    "night sweats": 0.1
+  },
+  "Tachycardia, unspecified": {
+    "diarrhea": 0.14285714285714285,
+    "vomiting": 0.07142857142857142,
+    "leg swelling": 0.07142857142857142,
+    "nausea": 0.07142857142857142,
+    "cough": 0.14285714285714285,
+    "back pain": 0.07142857142857142,
+    "night sweats": 0.07142857142857142,
+    "shortness of breath": 0.07142857142857142,
+    "fatigue": 0.07142857142857142,
+    "wheezing": 0.07142857142857142,
+    "fever": 0.07142857142857142,
+    "headache": 0.07142857142857142
+  },
+  "Anticoagulants causing adverse effects in therapeutic use": {
+    "diarrhea": 0.16666666666666666,
+    "shortness of breath": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "arm pain": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666
+  },
+  "Other mental disorders complicating pregnancy, third trimester": {
+    "pelvic pain": 0.125,
+    "diarrhea": 0.125,
+    "blood clots": 0.125,
+    "numbness": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "back pain": 0.125,
+    "headache": 0.125
+  },
+  "Unspecified septicemia": {
+    "diarrhea": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666,
+    "headache": 0.16666666666666666,
+    "chills": 0.16666666666666666
+  },
+  "Migraine, unspecified, not intractable, without status migrainosus": {
+    "insomnia": 0.08333333333333333,
+    "numbness": 0.08333333333333333,
+    "cough": 0.16666666666666666,
+    "dizziness": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333,
+    "diarrhea": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "leg swelling": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "wheezing": 0.08333333333333333
+  },
+  "Lumbago": {
+    "fever": 0.3333333333333333,
+    "back pain": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Disorders of phosphorus metabolism": {
+    "ankle pain": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "chills": 0.16666666666666666,
+    "numbness": 0.16666666666666666,
+    "back pain": 0.16666666666666666
+  },
+  "Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting left non-dominant side": {
+    "shortness of breath": 0.2,
+    "neck pain": 0.2,
+    "leg swelling": 0.2,
+    "fever": 0.2,
+    "chills": 0.2
+  },
+  "Neoplasm of unspecified behavior of bone, soft tissue, and skin": {
+    "numbness": 0.2,
+    "vomiting": 0.2,
+    "nausea": 0.2,
+    "dizziness": 0.2,
+    "fever": 0.2
+  },
+  "Pathologic fracture of other specified site": {
+    "numbness": 0.25,
+    "fever": 0.25,
+    "shortness of breath": 0.25,
+    "chills": 0.25
+  },
+  "Hereditary deficiency of other clotting factors": {
+    "wheezing": 0.25,
+    "cough": 0.25,
+    "shortness of breath": 0.25,
+    "chills": 0.25
+  },
+  "Other nonspecific findings on examination of urine": {
+    "diarrhea": 0.2,
+    "shortness of breath": 0.2,
+    "vomiting": 0.2,
+    "abdominal pain": 0.2,
+    "wheezing": 0.2
+  },
+  "Unspecified hereditary and idiopathic peripheral neuropathy": {
+    "insomnia": 1.0
+  },
+  "Type 2 diabetes mellitus with diabetic chronic kidney disease": {
+    "leg swelling": 0.16666666666666666,
+    "diarrhea": 0.08333333333333333,
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "insomnia": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "dizziness": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333
+  },
+  "Acquired absence of breast and nipple": {
+    "shortness of breath": 0.3333333333333333,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "chills": 0.16666666666666666
+  },
+  "Driver of special construction vehicle injured in traffic accident": {
+    "back pain": 0.3333333333333333,
+    "abdominal pain": 0.3333333333333333,
+    "nausea": 0.3333333333333333
+  },
+  "Other specified anxiety disorders": {
+    "diarrhea": 0.1111111111111111,
+    "blood clots": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "vaginal discharge": 0.1111111111111111,
+    "vaginal bleeding": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "headache": 0.1111111111111111
+  },
+  "Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene": {
+    "diarrhea": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "leg swelling": 0.09090909090909091,
+    "wheezing": 0.09090909090909091,
+    "insomnia": 0.09090909090909091,
+    "fatigue": 0.09090909090909091,
+    "numbness": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "headache": 0.09090909090909091
+  },
+  "Acute alcoholic hepatitis": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "shortness of breath": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "headache": 0.1,
+    "chills": 0.1
+  },
+  "Secondary and unspecified malignant neoplasm of lymph nodes of axilla and upper limb": {
+    "fever": 0.25,
+    "vomiting": 0.25,
+    "shortness of breath": 0.25,
+    "chills": 0.25
+  },
+  "Rheumatoid arthritis, unspecified": {
+    "diarrhea": 0.07142857142857142,
+    "night sweats": 0.07142857142857142,
+    "shortness of breath": 0.07142857142857142,
+    "neck pain": 0.07142857142857142,
+    "numbness": 0.07142857142857142,
+    "nausea": 0.07142857142857142,
+    "cough": 0.07142857142857142,
+    "shoulder pain": 0.07142857142857142,
+    "dizziness": 0.07142857142857142,
+    "fever": 0.07142857142857142,
+    "headache": 0.07142857142857142,
+    "chills": 0.07142857142857142,
+    "hip pain": 0.07142857142857142,
+    "back pain": 0.07142857142857142
+  },
+  "Type 2 diabetes mellitus without complications": {
+    "diarrhea": 0.14285714285714285,
+    "night sweats": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "headache": 0.14285714285714285
+  },
+  "Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting left non-dominant side": {
+    "dizziness": 1.0
+  },
+  "Polyneuropathy in diabetes": {
+    "diarrhea": 0.15384615384615385,
+    "fatigue": 0.07692307692307693,
+    "vomiting": 0.15384615384615385,
+    "nausea": 0.15384615384615385,
+    "abdominal pain": 0.07692307692307693,
+    "headache": 0.07692307692307693,
+    "chills": 0.15384615384615385,
+    "shortness of breath": 0.07692307692307693,
+    "fever": 0.07692307692307693
+  },
+  "Assault by knife, initial encounter": {
+    "diarrhea": 0.3333333333333333,
+    "fever": 0.3333333333333333,
+    "cough": 0.3333333333333333
+  },
+  "Other chronic pulmonary heart diseases": {
+    "diarrhea": 0.08333333333333333,
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.16666666666666666,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.16666666666666666,
+    "abdominal pain": 0.08333333333333333,
+    "fever": 0.16666666666666666,
+    "chills": 0.08333333333333333
+  },
+  "Hemiplegia, unspecified affecting right dominant side": {
+    "shoulder pain": 0.3333333333333333,
+    "headache": 0.3333333333333333,
+    "neck pain": 0.3333333333333333
+  },
+  "Moderate protein-calorie malnutrition": {
+    "diarrhea": 0.16666666666666666,
+    "shortness of breath": 0.16666666666666666,
+    "fatigue": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666
+  },
+  "Civilian activity done for income or pay": {
+    "diarrhea": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "wheezing": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Loss of weight": {
+    "diarrhea": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "abdominal pain": 0.07142857142857142,
+    "chills": 0.14285714285714285,
+    "insomnia": 0.07142857142857142,
+    "shortness of breath": 0.07142857142857142,
+    "cough": 0.07142857142857142,
+    "fever": 0.07142857142857142,
+    "headache": 0.07142857142857142
+  },
+  "Malignant neoplasm of liver, primary": {
+    "diarrhea": 0.07692307692307693,
+    "shortness of breath": 0.07692307692307693,
+    "vomiting": 0.07692307692307693,
+    "groin pain": 0.07692307692307693,
+    "nausea": 0.07692307692307693,
+    "cough": 0.07692307692307693,
+    "abdominal pain": 0.07692307692307693,
+    "dizziness": 0.07692307692307693,
+    "fever": 0.07692307692307693,
+    "leg pain": 0.07692307692307693,
+    "joint pain": 0.07692307692307693,
+    "headache": 0.07692307692307693,
+    "chills": 0.07692307692307693
+  },
+  "Pneumonia, organism unspecified": {
+    "diarrhea": 0.07142857142857142,
+    "shortness of breath": 0.14285714285714285,
+    "vomiting": 0.07142857142857142,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.07142857142857142,
+    "wheezing": 0.21428571428571427,
+    "fever": 0.07142857142857142,
+    "chills": 0.07142857142857142,
+    "fatigue": 0.07142857142857142,
+    "dizziness": 0.07142857142857142
+  },
+  "Unspecified chronic gastritis without bleeding": {
+    "diarrhea": 0.125,
+    "shortness of breath": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125,
+    "chills": 0.125
+  },
+  "Type 2 diabetes mellitus with other diabetic ophthalmic complication": {
+    "shortness of breath": 0.14285714285714285,
+    "blood clots": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "leg swelling": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "fever": 0.14285714285714285
+  },
+  "Impotence of organic origin": {
+    "blood clots": 0.5,
+    "leg pain": 0.5
+  },
+  "Diabetes with ketoacidosis, type II or unspecified type, uncontrolled": {
+    "abdominal pain": 1.0
+  },
+  "Body Mass Index 31.0-31.9, adult": {
+    "diarrhea": 0.2,
+    "shortness of breath": 0.2,
+    "nausea": 0.2,
+    "abdominal pain": 0.2,
+    "fever": 0.2
+  },
+  "Rheumatic disorders of both mitral and tricuspid valves": {
+    "diarrhea": 0.25,
+    "headache": 0.25,
+    "abdominal pain": 0.25,
+    "shortness of breath": 0.25
+  },
+  "Other and unspecified mycoses": {
+    "diarrhea": 0.125,
+    "night sweats": 0.125,
+    "shortness of breath": 0.125,
+    "cough": 0.125,
+    "back pain": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125,
+    "headache": 0.125
+  },
+  "Personal history of malignant neoplasm of larynx": {
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "wheezing": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Diabetes with unspecified complication, type II or unspecified type, uncontrolled": {
+    "fever": 1.0
+  },
+  "Tension headache": {
+    "fever": 0.25,
+    "cough": 0.25,
+    "diarrhea": 0.25,
+    "chills": 0.25
+  },
+  "Takotsubo syndrome": {
+    "shortness of breath": 0.14285714285714285,
+    "fatigue": 0.14285714285714285,
+    "shoulder pain": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "dizziness": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Hypertensive heart disease with heart failure": {
+    "diarrhea": 0.08333333333333333,
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "back pain": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333,
+    "leg swelling": 0.08333333333333333
+  },
+  "Hemorrhage from other sites in respiratory passages": {
+    "shortness of breath": 1.0
+  },
+  "Unspecified fracture of T11-T12 vertebra, initial encounter for closed fracture": {
+    "fever": 1.0
+  },
+  "Esophageal varices in diseases classified elsewhere, without mention of bleeding": {
+    "cough": 1.0
+  },
+  "Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation": {
+    "vomiting": 0.15384615384615385,
+    "vaginal discharge": 0.07692307692307693,
+    "nausea": 0.15384615384615385,
+    "back pain": 0.07692307692307693,
+    "abdominal pain": 0.07692307692307693,
+    "fever": 0.15384615384615385,
+    "diarrhea": 0.07692307692307693,
+    "shortness of breath": 0.07692307692307693,
+    "fatigue": 0.07692307692307693,
+    "leg swelling": 0.07692307692307693
+  },
+  "Mobitz (type) II atrioventricular block": {
+    "abdominal pain": 0.5,
+    "nausea": 0.5
+  },
+  "Body mass index [BMI] 28.0-28.9, adult": {
+    "shortness of breath": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "wheezing": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Personal history of sudden cardiac arrest": {
+    "cough": 0.3333333333333333,
+    "insomnia": 0.16666666666666666,
+    "diarrhea": 0.16666666666666666,
+    "shortness of breath": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666
+  },
+  "Cannabis abuse, unspecified": {
+    "numbness": 0.25,
+    "neck pain": 0.25,
+    "headache": 0.25,
+    "nausea": 0.25
+  },
+  "Acute posthemorrhagic anemia": {
+    "shortness of breath": 0.18181818181818182,
+    "fatigue": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "back pain": 0.18181818181818182,
+    "leg swelling": 0.09090909090909091,
+    "dizziness": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "insomnia": 0.09090909090909091
+  },
+  "Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy": {
+    "diarrhea": 0.1111111111111111,
+    "night sweats": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "wheezing": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "headache": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Obesity, unspecified": {
+    "chills": 0.125,
+    "insomnia": 0.08333333333333333,
+    "diarrhea": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.125,
+    "fever": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "fatigue": 0.08333333333333333,
+    "vomiting": 0.041666666666666664,
+    "dizziness": 0.041666666666666664,
+    "wheezing": 0.041666666666666664,
+    "headache": 0.041666666666666664
+  },
+  "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease": {
+    "fever": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333,
+    "cough": 0.3333333333333333
+  },
+  "Other motor vehicle traffic accident involving collision on the highway injuring driver of motor vehicle other than motorcycle": {
+    "back pain": 0.5,
+    "headache": 0.5
+  },
+  "Acute on chronic systolic heart failure": {
+    "cough": 0.16666666666666666,
+    "shortness of breath": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "chills": 0.16666666666666666,
+    "fatigue": 0.16666666666666666,
+    "back pain": 0.16666666666666666
+  },
+  "Trigeminal neuralgia": {
+    "diarrhea": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "fatigue": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "dizziness": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "headache": 0.1111111111111111
+  },
+  "Staphylococcus infection in conditions classified elsewhere and of unspecified site, staphylococcus, unspecified": {
+    "neck pain": 0.5,
+    "headache": 0.5
+  },
+  "Personal history of other diseases of the circulatory system": {
+    "diarrhea": 0.14285714285714285,
+    "insomnia": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "nasal congestion": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Chronic diastolic heart failure": {
+    "diarrhea": 0.1111111111111111,
+    "insomnia": 0.037037037037037035,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "chills": 0.1111111111111111,
+    "night sweats": 0.07407407407407407,
+    "shortness of breath": 0.07407407407407407,
+    "cough": 0.07407407407407407,
+    "abdominal pain": 0.07407407407407407,
+    "fever": 0.07407407407407407,
+    "headache": 0.07407407407407407,
+    "numbness": 0.037037037037037035,
+    "dizziness": 0.037037037037037035
+  },
+  "Major depressive affective disorder, single episode, unspecified": {
+    "diarrhea": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "wheezing": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Unspecified place in unspecified non-institutional (private) residence as the place of occurrence of the external cause": {
+    "cough": 0.3333333333333333,
+    "back pain": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333
+  },
+  "Herpes simplex without mention of complication": {
+    "fever": 1.0
+  },
+  "Fall from other slipping, tripping, or stumbling": {
+    "diarrhea": 0.13333333333333333,
+    "night sweats": 0.06666666666666667,
+    "shortness of breath": 0.06666666666666667,
+    "vomiting": 0.06666666666666667,
+    "nausea": 0.06666666666666667,
+    "cough": 0.06666666666666667,
+    "back pain": 0.13333333333333333,
+    "abdominal pain": 0.06666666666666667,
+    "fever": 0.06666666666666667,
+    "headache": 0.06666666666666667,
+    "chills": 0.06666666666666667,
+    "hip pain": 0.06666666666666667,
+    "numbness": 0.06666666666666667
+  },
+  "Severe sepsis without septic shock": {
+    "fever": 0.25,
+    "chills": 0.25,
+    "vomiting": 0.25,
+    "cough": 0.25
+  },
+  "Chronic combined systolic and diastolic heart failure": {
+    "dizziness": 1.0
+  },
+  "Malignant ascites": {
+    "back pain": 0.1111111111111111,
+    "nausea": 0.2222222222222222,
+    "diarrhea": 0.1111111111111111,
+    "night sweats": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "headache": 0.1111111111111111
+  },
+  "Awaiting organ transplant status": {
+    "cough": 0.25,
+    "nasal congestion": 0.25,
+    "fever": 0.25,
+    "dizziness": 0.25
+  },
+  "Bacteremia": {
+    "diarrhea": 0.125,
+    "shortness of breath": 0.125,
+    "vomiting": 0.125,
+    "cough": 0.125,
+    "breast rash": 0.125,
+    "wheezing": 0.125,
+    "fever": 0.125,
+    "chills": 0.125
+  },
+  "Psoriatic arthropathy": {
+    "diarrhea": 0.07142857142857142,
+    "night sweats": 0.07142857142857142,
+    "shortness of breath": 0.07142857142857142,
+    "blood clots": 0.07142857142857142,
+    "insomnia": 0.07142857142857142,
+    "vomiting": 0.07142857142857142,
+    "nausea": 0.07142857142857142,
+    "cough": 0.07142857142857142,
+    "abdominal pain": 0.07142857142857142,
+    "hip pain": 0.07142857142857142,
+    "foot pain": 0.07142857142857142,
+    "joint pain": 0.07142857142857142,
+    "headache": 0.07142857142857142,
+    "chills": 0.07142857142857142
+  },
+  "Anemia in other chronic diseases classified elsewhere": {
+    "diarrhea": 0.06666666666666667,
+    "night sweats": 0.06666666666666667,
+    "vomiting": 0.06666666666666667,
+    "nausea": 0.13333333333333333,
+    "cough": 0.06666666666666667,
+    "back pain": 0.13333333333333333,
+    "abdominal pain": 0.13333333333333333,
+    "fever": 0.06666666666666667,
+    "chills": 0.13333333333333333,
+    "shortness of breath": 0.06666666666666667,
+    "wheezing": 0.06666666666666667
+  },
+  "Diverticulosis of colon (without mention of hemorrhage)": {
+    "diarrhea": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "back pain": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "wheezing": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Right bundle branch block": {
+    "shortness of breath": 0.16666666666666666,
+    "fatigue": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "dizziness": 0.16666666666666666,
+    "fever": 0.16666666666666666
+  },
+  "Personal history of other malignant neoplasm of stomach": {
+    "cough": 0.5,
+    "diarrhea": 0.5
+  },
+  "Ulcer of other part of foot": {
+    "foot pain": 0.25,
+    "vomiting": 0.25,
+    "nausea": 0.25,
+    "chills": 0.25
+  },
+  "Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]": {
+    "diarrhea": 0.08333333333333333,
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "vaginal bleeding": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "wheezing": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333
+  },
+  "Edema, unspecified": {
+    "shortness of breath": 0.125,
+    "numbness": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "dizziness": 0.125,
+    "fever": 0.125,
+    "headache": 0.125
+  },
+  "Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure": {
+    "pelvic pain": 0.14285714285714285,
+    "diarrhea": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "dizziness": 0.14285714285714285,
+    "insomnia": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285
+  },
+  "Pedal cycle driver injured in collision with other nonmotor vehicle in nontraffic accident": {
+    "diarrhea": 0.1,
+    "insomnia": 0.05,
+    "night sweats": 0.1,
+    "shortness of breath": 0.1,
+    "vomiting": 0.05,
+    "nausea": 0.1,
+    "cough": 0.05,
+    "back pain": 0.05,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "headache": 0.1,
+    "chills": 0.1
+  },
+  "Acquired absence of both cervix and uterus": {
+    "diarrhea": 0.1,
+    "night sweats": 0.05,
+    "shortness of breath": 0.05,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "wheezing": 0.05,
+    "fever": 0.1,
+    "joint pain": 0.05,
+    "chills": 0.1,
+    "back pain": 0.05,
+    "dizziness": 0.05
+  },
+  "Tubal pregnancy without intrauterine pregnancy": {
+    "diarrhea": 0.1,
+    "vomiting": 0.1,
+    "vaginal discharge": 0.1,
+    "vaginal bleeding": 0.1,
+    "nausea": 0.1,
+    "abdominal pain": 0.1,
+    "dizziness": 0.1,
+    "fever": 0.1,
+    "headache": 0.1,
+    "chills": 0.1
+  },
+  "Long QT syndrome": {
+    "diarrhea": 0.16666666666666666,
+    "fatigue": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "back pain": 0.16666666666666666
+  },
+  "Frequency of micturition": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "numbness": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "memory loss": 0.1,
+    "abdominal pain": 0.1,
+    "back pain": 0.1,
+    "headache": 0.1
+  },
+  "Unspecified osteoarthritis, unspecified site": {
+    "vomiting": 0.18181818181818182,
+    "nausea": 0.18181818181818182,
+    "back pain": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "chills": 0.18181818181818182,
+    "diarrhea": 0.09090909090909091,
+    "insomnia": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091
+  },
+  "Fever, unspecified": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "shortness of breath": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "headache": 0.1,
+    "chills": 0.1
+  },
+  "Spinal stenosis, lumbar region, with neurogenic claudication": {
+    "diarrhea": 0.08333333333333333,
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "numbness": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "back pain": 0.08333333333333333,
+    "hip pain": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333
+  },
+  "Unspecified macular degeneration": {
+    "shortness of breath": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "runny nose": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "headache": 0.16666666666666666
+  },
+  "Other and unspecified Escherichia coli [E. coli]": {
+    "breast lumps": 0.0625,
+    "diarrhea": 0.0625,
+    "night sweats": 0.0625,
+    "shortness of breath": 0.0625,
+    "insomnia": 0.125,
+    "vomiting": 0.0625,
+    "nausea": 0.0625,
+    "cough": 0.0625,
+    "abdominal pain": 0.0625,
+    "wheezing": 0.0625,
+    "fever": 0.125,
+    "headache": 0.0625,
+    "chills": 0.0625,
+    "back pain": 0.0625
+  },
+  "Body mass index [BMI] 27.0-27.9, adult": {
+    "insomnia": 0.2,
+    "vaginal discharge": 0.2,
+    "nausea": 0.2,
+    "back pain": 0.2,
+    "abdominal pain": 0.2
+  },
+  "Chronic kidney disease, stage 4 (severe)": {
+    "diarrhea": 0.2,
+    "blood clots": 0.2,
+    "vomiting": 0.2,
+    "nausea": 0.2,
+    "fever": 0.2
+  },
+  "Dehydration": {
+    "diarrhea": 0.06666666666666667,
+    "shortness of breath": 0.13333333333333333,
+    "numbness": 0.06666666666666667,
+    "vomiting": 0.06666666666666667,
+    "nausea": 0.13333333333333333,
+    "back pain": 0.13333333333333333,
+    "abdominal pain": 0.06666666666666667,
+    "cough": 0.06666666666666667,
+    "dizziness": 0.06666666666666667,
+    "headache": 0.13333333333333333,
+    "chills": 0.06666666666666667
+  },
+  "Acute myeloblastic leukemia, in relapse": {
+    "diarrhea": 0.16666666666666666,
+    "fatigue": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "dizziness": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "headache": 0.16666666666666666
+  },
+  "Chronic hepatitis C with hepatic coma": {
+    "numbness": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "runny nose": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Umbilical hernia without mention of obstruction or gangrene": {
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "chills": 0.16666666666666666
+  },
+  "Neoplasm of uncertain behavior of other and unspecified male genital organs": {
+    "insomnia": 0.2,
+    "neck pain": 0.2,
+    "shoulder pain": 0.2,
+    "back pain": 0.2,
+    "leg pain": 0.2
+  },
+  "Acute kidney failure with lesion of tubular necrosis": {
+    "night sweats": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125,
+    "headache": 0.125,
+    "chills": 0.125
+  },
+  "Leukocytosis, unspecified": {
+    "diarrhea": 0.09090909090909091,
+    "night sweats": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "fatigue": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "headache": 0.09090909090909091,
+    "chills": 0.09090909090909091
+  },
+  "Osteoarthrosis, unspecified whether generalized or localized, site unspecified": {
+    "rectal bleeding": 0.2,
+    "fatigue": 0.2,
+    "vomiting": 0.2,
+    "nausea": 0.2,
+    "fever": 0.2
+  },
+  "Surgical operation with anastomosis, bypass or graft as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure": {
+    "diarrhea": 0.3333333333333333,
+    "back pain": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333
+  },
+  "Polyneuropathy, unspecified": {
+    "diarrhea": 0.5,
+    "insomnia": 0.5
+  },
+  "Severe sepsis": {
+    "fever": 0.3333333333333333,
+    "fatigue": 0.3333333333333333,
+    "back pain": 0.3333333333333333
+  },
+  "Secondary malignant neoplasm of other specified sites": {
+    "shortness of breath": 0.2,
+    "cough": 0.2,
+    "nasal congestion": 0.2,
+    "wheezing": 0.2,
+    "chills": 0.2
+  },
+  "Diastolic heart failure, unspecified": {
+    "diarrhea": 0.07692307692307693,
+    "insomnia": 0.07692307692307693,
+    "numbness": 0.07692307692307693,
+    "fatigue": 0.07692307692307693,
+    "vomiting": 0.07692307692307693,
+    "arm pain": 0.07692307692307693,
+    "shoulder pain": 0.07692307692307693,
+    "back pain": 0.07692307692307693,
+    "abdominal pain": 0.07692307692307693,
+    "fever": 0.07692307692307693,
+    "joint pain": 0.07692307692307693,
+    "headache": 0.07692307692307693,
+    "chills": 0.07692307692307693
+  },
+  "Other late effects of cerebrovascular disease": {
+    "cough": 0.5,
+    "shortness of breath": 0.5
+  },
+  "Fall in (into) shower or empty bathtub, initial encounter": {
+    "rectal bleeding": 0.06666666666666667,
+    "diarrhea": 0.06666666666666667,
+    "night sweats": 0.06666666666666667,
+    "shortness of breath": 0.06666666666666667,
+    "insomnia": 0.06666666666666667,
+    "numbness": 0.06666666666666667,
+    "vomiting": 0.06666666666666667,
+    "nausea": 0.06666666666666667,
+    "cough": 0.06666666666666667,
+    "memory loss": 0.06666666666666667,
+    "abdominal pain": 0.06666666666666667,
+    "dizziness": 0.06666666666666667,
+    "fever": 0.06666666666666667,
+    "headache": 0.06666666666666667,
+    "chills": 0.06666666666666667
+  },
+  "Bipolar disorder, unspecified": {
+    "diarrhea": 0.125,
+    "neck pain": 0.125,
+    "nasal congestion": 0.125,
+    "vomiting": 0.125,
+    "leg pain": 0.125,
+    "abdominal pain": 0.125,
+    "nausea": 0.125,
+    "dizziness": 0.125
+  },
+  "Complications of transplanted organ, stem cell": {
+    "diarrhea": 0.1111111111111111,
+    "night sweats": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "fatigue": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Other disorders of electrolyte and fluid balance, not elsewhere classified": {
+    "insomnia": 1.0
+  },
+  "Asthma, unspecified type, unspecified": {
+    "cough": 0.3333333333333333,
+    "leg swelling": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Other musculoskeletal symptoms referable to limbs": {
+    "diarrhea": 0.09090909090909091,
+    "night sweats": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "shoulder pain": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "headache": 0.09090909090909091,
+    "chills": 0.09090909090909091
+  },
+  "Other abnormal blood chemistry": {
+    "diarrhea": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "headache": 0.09090909090909091,
+    "chills": 0.09090909090909091,
+    "fatigue": 0.045454545454545456,
+    "numbness": 0.045454545454545456,
+    "back pain": 0.045454545454545456,
+    "wheezing": 0.045454545454545456
+  },
+  "Other long term (current) drug therapy": {
+    "abdominal pain": 0.5,
+    "dizziness": 0.5
+  },
+  "Renal dialysis status": {
+    "diarrhea": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "back pain": 0.1111111111111111,
+    "abdominal pain": 0.05555555555555555,
+    "fever": 0.1111111111111111,
+    "chills": 0.1111111111111111,
+    "night sweats": 0.05555555555555555,
+    "shortness of breath": 0.05555555555555555,
+    "headache": 0.05555555555555555
+  },
+  "Paralysis agitans": {
+    "fever": 0.25,
+    "shortness of breath": 0.25,
+    "cough": 0.25,
+    "chills": 0.25
+  },
+  "Open wound of finger(s), without mention of complication": {
+    "diarrhea": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "dizziness": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Accidents occurring in residential institution": {
+    "cough": 0.25,
+    "fatigue": 0.125,
+    "abdominal pain": 0.125,
+    "diarrhea": 0.125,
+    "shortness of breath": 0.125,
+    "headache": 0.125,
+    "chills": 0.125
+  },
+  "Other complications of intestinal pouch": {
+    "abdominal pain": 1.0
+  },
+  "Passenger in pick-up truck or van injured in collision with railway train or railway vehicle in traffic accident": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "shortness of breath": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "headache": 0.1,
+    "chills": 0.1
+  },
+  "Other disorders of muscle, ligament, and fascia": {
+    "shortness of breath": 0.14285714285714285,
+    "numbness": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "back pain": 0.14285714285714285,
+    "dizziness": 0.14285714285714285,
+    "headache": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Occlusion and stenosis of right carotid artery": {
+    "elbow pain": 0.25,
+    "diarrhea": 0.25,
+    "vomiting": 0.25,
+    "nausea": 0.25
+  },
+  "Other diseases of bronchus, not elsewhere classified": {
+    "insomnia": 0.2,
+    "shortness of breath": 0.2,
+    "abdominal pain": 0.2,
+    "wheezing": 0.2,
+    "chills": 0.2
+  },
+  "Poisoning by aromatic analgesics, not elsewhere classified": {
+    "diarrhea": 0.125,
+    "insomnia": 0.125,
+    "ankle pain": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125,
+    "chills": 0.125
+  },
+  "Nonrheumatic aortic (valve) stenosis": {
+    "diarrhea": 0.1111111111111111,
+    "insomnia": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "fatigue": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "back pain": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "wheezing": 0.1111111111111111
+  },
+  "Mechanical complication of tracheostomy": {
+    "wheezing": 0.3333333333333333,
+    "cough": 0.3333333333333333,
+    "fever": 0.3333333333333333
+  },
+  "Obstructive chronic bronchitis without exacerbation": {
+    "cough": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333,
+    "dizziness": 0.3333333333333333
+  },
+  "Personal history of malignant neoplasm of kidney": {
+    "diarrhea": 0.25,
+    "vomiting": 0.25,
+    "nausea": 0.25,
+    "shoulder pain": 0.25
+  },
+  "Acute myeloid leukemia, without mention of having achieved remission": {
+    "fever": 0.25,
+    "insomnia": 0.25,
+    "shortness of breath": 0.25,
+    "abdominal pain": 0.25
+  },
+  "Unspecified osteomyelitis, ankle and foot": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "shortness of breath": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "headache": 0.1,
+    "chills": 0.1
+  },
+  "Alopecia, unspecified": {
+    "insomnia": 0.2,
+    "blood clots": 0.2,
+    "fatigue": 0.2,
+    "nausea": 0.2,
+    "fever": 0.2
+  },
+  "Cerebral edema": {
+    "vomiting": 0.5,
+    "headache": 0.5
+  },
+  "Acute embolism and thrombosis of other specified veins": {
+    "insomnia": 0.1111111111111111,
+    "blood clots": 0.1111111111111111,
+    "numbness": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "shoulder pain": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Hypercalcemia": {
+    "fatigue": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "back pain": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125,
+    "headache": 0.125
+  },
+  "Encounter for palliative care": {
+    "nausea": 1.0
+  },
+  "Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease": {
+    "vomiting": 0.3333333333333333,
+    "abdominal pain": 0.3333333333333333,
+    "nausea": 0.3333333333333333
+  },
+  "Tracheostomy status": {
+    "fever": 0.3333333333333333,
+    "insomnia": 0.3333333333333333,
+    "blood clots": 0.3333333333333333
+  },
+  "Obstructive sleep apnea (adult)(pediatric)": {
+    "shortness of breath": 0.08333333333333333,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "insomnia": 0.08333333333333333,
+    "blood clots": 0.08333333333333333,
+    "dizziness": 0.08333333333333333
+  },
+  "Malignant neoplasm of uterus, part unspecified": {
+    "pelvic pain": 0.16666666666666666,
+    "diarrhea": 0.16666666666666666,
+    "shortness of breath": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666,
+    "headache": 0.16666666666666666
+  },
+  "Chronic kidney disease, unspecified": {
+    "shortness of breath": 0.09090909090909091,
+    "fatigue": 0.045454545454545456,
+    "cough": 0.09090909090909091,
+    "fever": 0.22727272727272727,
+    "chills": 0.09090909090909091,
+    "wheezing": 0.045454545454545456,
+    "abdominal pain": 0.13636363636363635,
+    "diarrhea": 0.045454545454545456,
+    "night sweats": 0.045454545454545456,
+    "vomiting": 0.045454545454545456,
+    "nausea": 0.045454545454545456,
+    "dizziness": 0.045454545454545456,
+    "headache": 0.045454545454545456
+  },
+  "Leakage of biological heart valve graft, initial encounter": {
+    "cough": 0.25,
+    "shortness of breath": 0.25,
+    "abdominal pain": 0.25,
+    "chills": 0.25
+  },
+  "Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere": {
+    "diarrhea": 0.1111111111111111,
+    "insomnia": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "wheezing": 0.1111111111111111,
+    "joint pain": 0.1111111111111111,
+    "chills": 0.1111111111111111,
+    "fatigue": 0.1111111111111111,
+    "nausea": 0.1111111111111111
+  },
+  "Passenger of special construction vehicle injured in traffic accident": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "shortness of breath": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "leg swelling": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "chills": 0.1
+  },
+  "Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified": {
+    "diarrhea": 0.1111111111111111,
+    "night sweats": 0.05555555555555555,
+    "shortness of breath": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.1388888888888889,
+    "abdominal pain": 0.05555555555555555,
+    "fever": 0.1111111111111111,
+    "headache": 0.05555555555555555,
+    "chills": 0.08333333333333333,
+    "insomnia": 0.027777777777777776,
+    "wheezing": 0.027777777777777776,
+    "numbness": 0.05555555555555555,
+    "runny nose": 0.027777777777777776
+  },
+  "Systolic heart failure, unspecified": {
+    "shortness of breath": 1.0
+  },
+  "Unspecified place in hospital as the place of occurrence of the external cause": {
+    "diarrhea": 0.1,
+    "insomnia": 0.05,
+    "fatigue": 0.05,
+    "nausea": 0.05,
+    "cough": 0.05,
+    "nasal congestion": 0.05,
+    "fever": 0.15,
+    "chills": 0.1,
+    "blood clots": 0.05,
+    "back pain": 0.05,
+    "abdominal pain": 0.05,
+    "dizziness": 0.05,
+    "headache": 0.1,
+    "shortness of breath": 0.05,
+    "wheezing": 0.05
+  },
+  "Tobacco use": {
+    "diarrhea": 0.1111111111111111,
+    "insomnia": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "back pain": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "leg pain": 0.1111111111111111
+  },
+  "Unspecified vitamin D deficiency": {
+    "leg cramps": 0.5,
+    "insomnia": 0.5
+  },
+  "Other sequelae of chronic liver disease": {
+    "diarrhea": 1.0
+  },
+  "Personal history of other infectious and parasitic diseases": {
+    "diarrhea": 0.125,
+    "insomnia": 0.125,
+    "shortness of breath": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125,
+    "chills": 0.125
+  },
+  "Hypokalemia": {
+    "diarrhea": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "back pain": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Post-traumatic stress disorder, unspecified": {
+    "diarrhea": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125,
+    "headache": 0.125,
+    "chills": 0.125
+  },
+  "Unspecified asthma, uncomplicated": {
+    "back pain": 0.14285714285714285,
+    "insomnia": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Unspecified hemorrhoids without mention of complication": {
+    "eye pain": 0.07142857142857142,
+    "diarrhea": 0.07142857142857142,
+    "night sweats": 0.07142857142857142,
+    "shortness of breath": 0.07142857142857142,
+    "neck pain": 0.07142857142857142,
+    "cough": 0.07142857142857142,
+    "shoulder pain": 0.07142857142857142,
+    "nasal congestion": 0.07142857142857142,
+    "back pain": 0.07142857142857142,
+    "abdominal pain": 0.07142857142857142,
+    "fever": 0.07142857142857142,
+    "muscle pain": 0.07142857142857142,
+    "headache": 0.07142857142857142,
+    "chills": 0.07142857142857142
+  },
+  "Cachexia": {
+    "diarrhea": 0.08333333333333333,
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "insomnia": 0.08333333333333333,
+    "numbness": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333
+  },
+  "Dysarthria": {
+    "insomnia": 0.2,
+    "numbness": 0.2,
+    "groin pain": 0.2,
+    "fever": 0.2,
+    "headache": 0.2
+  },
+  "Peritoneal adhesions (postoperative) (postinfection)": {
+    "fever": 0.2857142857142857,
+    "abdominal pain": 0.2857142857142857,
+    "nausea": 0.14285714285714285,
+    "vaginal bleeding": 0.14285714285714285,
+    "vaginal discharge": 0.14285714285714285
+  },
+  "Chronic osteomyelitis, other specified sites": {
+    "diarrhea": 0.09090909090909091,
+    "night sweats": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091,
+    "wheezing": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "headache": 0.09090909090909091,
+    "chills": 0.09090909090909091
+  },
+  "Dissociative identity disorder": {
+    "neck pain": 0.25,
+    "vomiting": 0.25,
+    "abdominal pain": 0.25,
+    "nausea": 0.25
+  },
+  "Iron deficiency anemia secondary to blood loss (chronic)": {
+    "diarrhea": 0.16666666666666666,
+    "insomnia": 0.16666666666666666,
+    "fatigue": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666
+  },
+  "Supraventricular tachycardia": {
+    "fatigue": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "wheezing": 0.16666666666666666,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "insomnia": 0.08333333333333333,
+    "back pain": 0.08333333333333333,
+    "leg swelling": 0.08333333333333333,
+    "shortness of breath": 0.16666666666666666
+  },
+  "Other disorders of phosphorus metabolism": {
+    "insomnia": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "dizziness": 0.125,
+    "headache": 0.125,
+    "chills": 0.125
+  },
+  "Other malignant neoplasm of skin of lower limb, including hip": {
+    "diarrhea": 0.1111111111111111,
+    "insomnia": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "dizziness": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Vascular abnormalities of conjunctiva": {
+    "diarrhea": 0.1,
+    "shortness of breath": 0.1,
+    "fatigue": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "headache": 0.1,
+    "chills": 0.1
+  },
+  "Cellulitis of right upper limb": {
+    "diarrhea": 0.1111111111111111,
+    "insomnia": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "headache": 0.1111111111111111
+  },
+  "Subdural hemorrhage": {
+    "shortness of breath": 0.16666666666666666,
+    "fatigue": 0.16666666666666666,
+    "leg swelling": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "wheezing": 0.16666666666666666,
+    "fever": 0.16666666666666666
+  },
+  "Cocaine abuse, unspecified": {
+    "wheezing": 0.5,
+    "shortness of breath": 0.5
+  },
+  "Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation, without mention of obstruction": {
+    "vomiting": 0.3333333333333333,
+    "abdominal pain": 0.3333333333333333,
+    "nausea": 0.3333333333333333
+  },
+  "Epilepsy, unspecified, without mention of intractable epilepsy": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "shortness of breath": 0.05,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "back pain": 0.1,
+    "fever": 0.1,
+    "headache": 0.1,
+    "chills": 0.1,
+    "abdominal pain": 0.05
+  },
+  "Urinary catheterization as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure": {
+    "shortness of breath": 1.0
+  },
+  "Personal history of alcoholism": {
+    "fever": 0.3333333333333333,
+    "cough": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Other specified abnormalities of plasma proteins": {
+    "wheezing": 0.25,
+    "shoulder pain": 0.25,
+    "abdominal pain": 0.25,
+    "diarrhea": 0.25
+  },
+  "Schizoaffective disorder, bipolar type": {
+    "shortness of breath": 0.2,
+    "vomiting": 0.2,
+    "nausea": 0.2,
+    "dizziness": 0.2,
+    "headache": 0.2
+  },
+  "Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy": {
+    "diarrhea": 0.07692307692307693,
+    "insomnia": 0.07692307692307693,
+    "night sweats": 0.07692307692307693,
+    "shortness of breath": 0.07692307692307693,
+    "numbness": 0.07692307692307693,
+    "vomiting": 0.07692307692307693,
+    "nausea": 0.07692307692307693,
+    "cough": 0.07692307692307693,
+    "memory loss": 0.07692307692307693,
+    "abdominal pain": 0.07692307692307693,
+    "fever": 0.07692307692307693,
+    "headache": 0.07692307692307693,
+    "chills": 0.07692307692307693
+  },
+  "Person on outside of car injured in collision with two- or three-wheeled motor vehicle in nontraffic accident": {
+    "shortness of breath": 0.3333333333333333,
+    "nausea": 0.3333333333333333,
+    "dizziness": 0.3333333333333333
+  },
+  "Chronic airway obstruction, not elsewhere classified": {
+    "diarrhea": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "fatigue": 0.045454545454545456,
+    "vomiting": 0.09090909090909091,
+    "cough": 0.13636363636363635,
+    "wheezing": 0.045454545454545456,
+    "fever": 0.09090909090909091,
+    "chills": 0.13636363636363635,
+    "night sweats": 0.045454545454545456,
+    "nausea": 0.045454545454545456,
+    "abdominal pain": 0.045454545454545456,
+    "headache": 0.045454545454545456,
+    "blood clots": 0.045454545454545456,
+    "back pain": 0.045454545454545456
+  },
+  "Aftercare following surgery for neoplasm": {
+    "diarrhea": 0.3333333333333333,
+    "back pain": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Person boarding or alighting a car injured in collision with railway train or railway vehicle": {
+    "diarrhea": 0.08333333333333333,
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "insomnia": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "hip pain": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333
+  },
+  "Hyperosmolality and hypernatremia": {
+    "cough": 0.5,
+    "shortness of breath": 0.5
+  },
+  "Liver cell carcinoma": {
+    "diarrhea": 0.125,
+    "shortness of breath": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "abdominal pain": 0.125,
+    "dizziness": 0.125,
+    "fever": 0.125,
+    "chills": 0.125
+  },
+  "Other obstruction of duodenum": {
+    "diarrhea": 0.1,
+    "insomnia": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "back pain": 0.2,
+    "fever": 0.1,
+    "abdominal pain": 0.1,
+    "leg swelling": 0.1
+  },
+  "Urinary catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure": {
+    "joint pain": 0.3333333333333333,
+    "elbow pain": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Opioid type dependence, continuous": {
+    "insomnia": 0.25,
+    "vomiting": 0.25,
+    "abdominal pain": 0.25,
+    "dizziness": 0.25
+  },
+  "Secondary neuroendocrine tumor of other sites": {
+    "dizziness": 0.3333333333333333,
+    "diarrhea": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Unspecified condition of brain": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "numbness": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "abdominal pain": 0.1,
+    "dizziness": 0.1,
+    "muscle pain": 0.1,
+    "headache": 0.1,
+    "chills": 0.1
+  },
+  "Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other anaerobes": {
+    "diarrhea": 0.2,
+    "nausea": 0.2,
+    "back pain": 0.2,
+    "abdominal pain": 0.2,
+    "fever": 0.2
+  },
+  "Other ascites": {
+    "shortness of breath": 0.1,
+    "nausea": 0.2,
+    "cough": 0.1,
+    "abdominal pain": 0.2,
+    "fever": 0.1,
+    "chills": 0.1,
+    "shoulder pain": 0.1,
+    "vomiting": 0.1
+  },
+  "Hemorrhage, unspecified": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "shortness of breath": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "headache": 0.1,
+    "chills": 0.1
+  },
+  "Other specified bacterial agents as the cause of diseases classified elsewhere": {
+    "diarrhea": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "back pain": 0.1111111111111111,
+    "wheezing": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Unspecified dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety": {
+    "insomnia": 0.1111111111111111,
+    "back pain": 0.1111111111111111,
+    "abdominal pain": 0.2222222222222222,
+    "shortness of breath": 0.1111111111111111,
+    "diarrhea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "dizziness": 0.1111111111111111,
+    "headache": 0.1111111111111111
+  },
+  "Dependence on renal dialysis": {
+    "wheezing": 0.125,
+    "cough": 0.125,
+    "fever": 0.25,
+    "shortness of breath": 0.125,
+    "vomiting": 0.125,
+    "numbness": 0.125,
+    "nausea": 0.125
+  },
+  "Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere": {
+    "diarrhea": 0.09090909090909091,
+    "night sweats": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "back pain": 0.09090909090909091,
+    "dizziness": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "headache": 0.09090909090909091,
+    "chills": 0.09090909090909091
+  },
+  "Mild intermittent asthma, uncomplicated": {
+    "pelvic pain": 0.125,
+    "diarrhea": 0.125,
+    "vomiting": 0.125,
+    "vaginal discharge": 0.125,
+    "vaginal bleeding": 0.125,
+    "nausea": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125
+  },
+  "Acute systolic (congestive) heart failure": {
+    "wheezing": 0.5,
+    "back pain": 0.5
+  },
+  "Person boarding or alighting a pedal cycle injured in collision with pedestrian or animal": {
+    "cough": 0.3333333333333333,
+    "fever": 0.3333333333333333,
+    "nausea": 0.3333333333333333
+  },
+  "Pneumonia, unspecified organism": {
+    "cough": 0.2857142857142857,
+    "diarrhea": 0.14285714285714285,
+    "insomnia": 0.14285714285714285,
+    "fatigue": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "fever": 0.14285714285714285
+  },
+  "Ileus, unspecified": {
+    "fever": 0.15384615384615385,
+    "vomiting": 0.15384615384615385,
+    "abdominal pain": 0.15384615384615385,
+    "nausea": 0.15384615384615385,
+    "night sweats": 0.07692307692307693,
+    "insomnia": 0.07692307692307693,
+    "cough": 0.07692307692307693,
+    "headache": 0.07692307692307693,
+    "chills": 0.07692307692307693
+  },
+  "Acute respiratory failure with hypoxia": {
+    "cough": 0.3333333333333333,
+    "diarrhea": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Motorcycle driver injured in collision with fixed or stationary object in nontraffic accident": {
+    "vaginal bleeding": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "wheezing": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "headache": 0.16666666666666666
+  },
+  "Antidepressants causing adverse effects in therapeutic use": {
+    "ankle pain": 0.5,
+    "insomnia": 0.5
+  },
+  "Small cell B-cell lymphoma, extranodal and solid organ sites": {
+    "nausea": 0.2,
+    "cough": 0.2,
+    "dizziness": 0.2,
+    "fever": 0.2,
+    "headache": 0.2
+  },
+  "Legal circumstances": {
+    "insomnia": 0.5,
+    "back pain": 0.5
+  },
+  "Fluid overload disorder": {
+    "diarrhea": 0.08333333333333333,
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "insomnia": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "vaginal dryness": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333
+  },
+  "Acute respiratory failure": {
+    "diarrhea": 0.16666666666666666,
+    "shortness of breath": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "wheezing": 0.16666666666666666
+  },
+  "Acquired absence of unspecified breast and nipple": {
+    "shortness of breath": 1.0
+  },
+  "Other and unspecified infection due to central venous catheter": {
+    "diarrhea": 0.1111111111111111,
+    "insomnia": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "wheezing": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Obstruction of bile duct": {
+    "diarrhea": 0.07692307692307693,
+    "vomiting": 0.07692307692307693,
+    "nausea": 0.07692307692307693,
+    "back pain": 0.07692307692307693,
+    "abdominal pain": 0.15384615384615385,
+    "dizziness": 0.07692307692307693,
+    "wheezing": 0.07692307692307693,
+    "fever": 0.07692307692307693,
+    "headache": 0.07692307692307693,
+    "chills": 0.15384615384615385,
+    "night sweats": 0.07692307692307693
+  },
+  "Sickle-cell trait": {
+    "fever": 0.25,
+    "night sweats": 0.25,
+    "numbness": 0.25,
+    "chills": 0.25
+  },
+  "Mantle cell lymphoma, intrathoracic lymph nodes": {
+    "night sweats": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "neck pain": 0.1111111111111111,
+    "fatigue": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "dizziness": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Interstitial pulmonary disease, unspecified": {
+    "diarrhea": 0.125,
+    "insomnia": 0.125,
+    "shortness of breath": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "back pain": 0.125,
+    "chills": 0.125
+  },
+  "Other mechanical complication of nephrostomy catheter, initial encounter": {
+    "diarrhea": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "groin pain": 0.1111111111111111,
+    "vaginal bleeding": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "frequent bowel movements": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Polymyalgia rheumatica": {
+    "diarrhea": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666,
+    "chills": 0.16666666666666666
+  },
+  "Unspecified car occupant injured in collision with car, pick-up truck or van in nontraffic accident": {
+    "cough": 0.2857142857142857,
+    "vomiting": 0.14285714285714285,
+    "headache": 0.14285714285714285,
+    "insomnia": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Acute respiratory failure with hypercapnia": {
+    "diarrhea": 0.125,
+    "shortness of breath": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125,
+    "headache": 0.125
+  },
+  "Resistance to unspecified beta lactam antibiotics": {
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666,
+    "wheezing": 0.16666666666666666,
+    "chills": 0.16666666666666666
+  },
+  "Bronchitis and pneumonitis due to chemicals, gases, fumes and vapors": {
+    "diarrhea": 0.1111111111111111,
+    "night sweats": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "insomnia": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "wheezing": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Postprocedural hypothyroidism": {
+    "fever": 1.0
+  },
+  "Presence of cardiac pacemaker": {
+    "insomnia": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "fatigue": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "back pain": 0.14285714285714285,
+    "wheezing": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Other noninflammatory disorders of ovary, fallopian tube, and broad ligament": {
+    "cough": 1.0
+  },
+  "Long term (current) use of insulin": {
+    "fatigue": 0.5,
+    "insomnia": 0.5
+  },
+  "Acute embolism and thrombosis of deep veins of upper extremity, bilateral": {
+    "wheezing": 0.3333333333333333,
+    "fever": 0.3333333333333333,
+    "blood clots": 0.3333333333333333
+  },
+  "Allergy to radiographic dye": {
+    "diarrhea": 0.07142857142857142,
+    "nosebleeds": 0.07142857142857142,
+    "rectal bleeding": 0.07142857142857142,
+    "shortness of breath": 0.07142857142857142,
+    "neck pain": 0.07142857142857142,
+    "numbness": 0.07142857142857142,
+    "vomiting": 0.07142857142857142,
+    "nausea": 0.07142857142857142,
+    "cough": 0.07142857142857142,
+    "nasal congestion": 0.07142857142857142,
+    "abdominal pain": 0.07142857142857142,
+    "dizziness": 0.07142857142857142,
+    "fever": 0.07142857142857142,
+    "chills": 0.07142857142857142
+  },
+  "Hyposmolality and/or hyponatremia": {
+    "diarrhea": 0.08333333333333333,
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "numbness": 0.08333333333333333,
+    "fatigue": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333
+  },
+  "Parastomal hernia with obstruction, without gangrene": {
+    "shortness of breath": 0.125,
+    "blood clots": 0.125,
+    "fatigue": 0.125,
+    "nausea": 0.125,
+    "abdominal pain": 0.125,
+    "dizziness": 0.125,
+    "fever": 0.125,
+    "headache": 0.125
+  },
+  "Heart failure, unspecified": {
+    "diarrhea": 0.09090909090909091,
+    "night sweats": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "leg swelling": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "headache": 0.09090909090909091,
+    "chills": 0.09090909090909091
+  },
+  "Other specified aplastic anemias": {
+    "fever": 0.2222222222222222,
+    "diarrhea": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "headache": 0.1111111111111111
+  },
+  "Myalgia and myositis, unspecified": {
+    "wheezing": 0.25,
+    "fever": 0.25,
+    "headache": 0.25,
+    "nausea": 0.25
+  },
+  "Epigastric pain": {
+    "rectal bleeding": 0.125,
+    "diarrhea": 0.125,
+    "insomnia": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "back pain": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125
+  },
+  "Glaucoma associated with systemic syndromes": {
+    "numbness": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "dizziness": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "headache": 0.16666666666666666
+  },
+  "Other sites of candidiasis": {
+    "cough": 0.5,
+    "dizziness": 0.5
+  },
+  "Morbid (severe) obesity due to excess calories": {
+    "cough": 0.5,
+    "fever": 0.5
+  },
+  "Swelling, mass, or lump in chest": {
+    "cough": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Infection and inflammatory reaction due to indwelling urinary catheter": {
+    "insomnia": 0.125,
+    "shortness of breath": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "wheezing": 0.125,
+    "fever": 0.125,
+    "chills": 0.125
+  },
+  "Spinal stenosis, unspecified region": {
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "numbness": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "back pain": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "wheezing": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333
+  },
+  "Cellulitis and abscess of upper arm and forearm": {
+    "diarrhea": 0.14285714285714285,
+    "fatigue": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "wheezing": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Chronic total occlusion of artery of the extremities": {
+    "shortness of breath": 0.14285714285714285,
+    "fatigue": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "memory loss": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Hypothyroidism, unspecified": {
+    "neck pain": 0.16666666666666666,
+    "leg swelling": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "headache": 0.16666666666666666,
+    "chills": 0.16666666666666666
+  },
+  "Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease": {
+    "wheezing": 0.25,
+    "fever": 0.25,
+    "shortness of breath": 0.25,
+    "cough": 0.25
+  },
+  "Body mass index [BMI] 33.0-33.9, adult": {
+    "diarrhea": 0.07692307692307693,
+    "night sweats": 0.07692307692307693,
+    "shortness of breath": 0.07692307692307693,
+    "vomiting": 0.07692307692307693,
+    "nausea": 0.07692307692307693,
+    "cough": 0.07692307692307693,
+    "abdominal pain": 0.07692307692307693,
+    "hip pain": 0.07692307692307693,
+    "leg pain": 0.07692307692307693,
+    "joint pain": 0.07692307692307693,
+    "muscle pain": 0.07692307692307693,
+    "headache": 0.07692307692307693,
+    "chills": 0.07692307692307693
+  },
+  "Carpal tunnel syndrome": {
+    "wheezing": 0.25,
+    "shortness of breath": 0.25,
+    "dizziness": 0.25,
+    "chills": 0.25
+  },
+  "Malignant neoplasm of breast (female), unspecified": {
+    "fatigue": 0.125,
+    "shortness of breath": 0.125,
+    "nausea": 0.25,
+    "vomiting": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125,
+    "chills": 0.125
+  },
+  "Calculus of gallbladder with acute cholecystitis without obstruction": {
+    "cough": 0.25,
+    "fever": 0.25,
+    "shortness of breath": 0.25,
+    "abdominal pain": 0.25
+  },
+  "Secondary malignant neoplasm of retroperitoneum and peritoneum": {
+    "vomiting": 0.14285714285714285,
+    "vaginal discharge": 0.14285714285714285,
+    "vaginal bleeding": 0.14285714285714285,
+    "nipple discharge": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "fever": 0.14285714285714285
+  },
+  "Car passenger injured in collision with heavy transport vehicle or bus in nontraffic accident": {
+    "wheezing": 0.3333333333333333,
+    "fever": 0.3333333333333333,
+    "insomnia": 0.3333333333333333
+  },
+  "Cirrhosis of liver without mention of alcohol": {
+    "back pain": 0.3333333333333333,
+    "abdominal pain": 0.3333333333333333,
+    "nausea": 0.3333333333333333
+  },
+  "Surgical procedure, unspecified as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure": {
+    "diarrhea": 0.2,
+    "cough": 0.2,
+    "back pain": 0.2,
+    "abdominal pain": 0.2,
+    "wheezing": 0.2
+  },
+  "Bradycardia, unspecified": {
+    "insomnia": 0.125,
+    "shortness of breath": 0.125,
+    "vaginal bleeding": 0.125,
+    "back pain": 0.125,
+    "abdominal pain": 0.125,
+    "dizziness": 0.25,
+    "nosebleeds": 0.125
+  },
+  "Cystitis cystica": {
+    "vomiting": 0.2,
+    "dry orgasm": 0.2,
+    "abdominal pain": 0.2,
+    "fever": 0.2,
+    "chills": 0.2
+  },
+  "Closed fracture of six ribs": {
+    "cough": 0.5,
+    "shortness of breath": 0.5
+  },
+  "Hydroureter": {
+    "numbness": 0.25,
+    "insomnia": 0.25,
+    "abdominal pain": 0.25,
+    "cough": 0.25
+  },
+  "Acute and subacute necrosis of liver": {
+    "fatigue": 0.5,
+    "shortness of breath": 0.5
+  },
+  "Other specified viral infection": {
+    "diarrhea": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "chills": 0.16666666666666666
+  },
+  "Acute venous embolism and thrombosis of deep vessels of distal lower extremity": {
+    "diarrhea": 0.08333333333333333,
+    "chills": 0.08333333333333333,
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "insomnia": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "leg pain": 0.08333333333333333
+  },
+  "Sicca syndrome": {
+    "vomiting": 0.2,
+    "nausea": 0.2,
+    "back pain": 0.2,
+    "abdominal pain": 0.2,
+    "chills": 0.2
+  },
+  "Spinal stenosis, lumbar region, without neurogenic claudication": {
+    "numbness": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "back pain": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "leg pain": 0.16666666666666666
+  },
+  "Operating room of hospital as the place of occurrence of the external cause": {
+    "numbness": 1.0
+  },
+  "Thoracic aneurysm without mention of rupture": {
+    "headache": 1.0
+  },
+  "Hypertensive urgency": {
+    "diarrhea": 0.125,
+    "shortness of breath": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125,
+    "chills": 0.125
+  },
+  "Mitral valve disorders": {
+    "diarrhea": 0.08333333333333333,
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "blood clots": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "nasal congestion": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333
+  },
+  "Unspecified transient cerebral ischemia": {
+    "numbness": 0.2,
+    "vomiting": 0.2,
+    "nausea": 0.2,
+    "cough": 0.2,
+    "headache": 0.2
+  },
+  "Hallucinations, unspecified": {
+    "insomnia": 0.3333333333333333,
+    "back pain": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333
+  },
+  "C5-C7 level with central cord syndrome": {
+    "fever": 0.5,
+    "headache": 0.5
+  },
+  "Other primary cardiomyopathies": {
+    "diarrhea": 0.09090909090909091,
+    "insomnia": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "neck pain": 0.09090909090909091,
+    "fatigue": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "headache": 0.09090909090909091
+  },
+  "Myalgia": {
+    "diarrhea": 0.1111111111111111,
+    "insomnia": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "numbness": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "headache": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Coma scale, best verbal response, inappropriate words, at hospital admission": {
+    "diarrhea": 0.1111111111111111,
+    "insomnia": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "leg swelling": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "wheezing": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Acquired absence of organ, genital organs": {
+    "shortness of breath": 0.2,
+    "vomiting": 0.2,
+    "wheezing": 0.2,
+    "fever": 0.2,
+    "chills": 0.2
+  },
+  "Other nonspecific abnormal serum enzyme levels": {
+    "pelvic pain": 0.1,
+    "diarrhea": 0.1,
+    "shortness of breath": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "back pain": 0.1,
+    "hip pain": 0.1,
+    "fever": 0.1,
+    "chills": 0.1
+  },
+  "Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter": {
+    "diarrhea": 0.1,
+    "night sweats": 0.1,
+    "shortness of breath": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "dizziness": 0.1,
+    "leg pain": 0.1,
+    "chills": 0.1
+  },
+  "Mechanical complication of gastrostomy": {
+    "wheezing": 0.5,
+    "shortness of breath": 0.5
+  },
+  "Other genetic carrier status": {
+    "diarrhea": 0.1111111111111111,
+    "insomnia": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "wheezing": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Do not resuscitate": {
+    "shortness of breath": 0.1111111111111111,
+    "blood clots": 0.1111111111111111,
+    "numbness": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "dizziness": 0.1111111111111111,
+    "wheezing": 0.1111111111111111,
+    "leg pain": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Viral intestinal infection, unspecified": {
+    "vomiting": 0.25,
+    "abdominal pain": 0.25,
+    "nausea": 0.25,
+    "insomnia": 0.25
+  },
+  "Chronic systolic heart failure": {
+    "diarrhea": 0.08333333333333333,
+    "night sweats": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "insomnia": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "wheezing": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333
+  },
+  "Acute bronchitis": {
+    "diarrhea": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "runny nose": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091,
+    "wheezing": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "muscle pain": 0.09090909090909091,
+    "chills": 0.09090909090909091
+  },
+  "Delirium due to known physiological condition": {
+    "shortness of breath": 0.2,
+    "fatigue": 0.2,
+    "vomiting": 0.2,
+    "nausea": 0.2,
+    "dizziness": 0.2
+  },
+  "Other chronic pain": {
+    "diarrhea": 0.1,
+    "shortness of breath": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "shoulder pain": 0.1,
+    "back pain": 0.1,
+    "abdominal pain": 0.1,
+    "headache": 0.1,
+    "chills": 0.1
+  },
+  "Disorder of mineral metabolism, unspecified": {
+    "diarrhea": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Osteoarthrosis, unspecified whether generalized or localized, shoulder region": {
+    "shoulder pain": 0.5,
+    "leg swelling": 0.5
+  },
+  "Other acquired deformities of ankle and foot": {
+    "vomiting": 0.3333333333333333,
+    "abdominal pain": 0.3333333333333333,
+    "nausea": 0.3333333333333333
+  },
+  "Unqualified visual loss, one eye": {
+    "hip pain": 0.3333333333333333,
+    "insomnia": 0.3333333333333333,
+    "nausea": 0.3333333333333333
+  },
+  "Traumatic shock, initial encounter": {
+    "fever": 1.0
+  },
+  "Gastrointestinal stromal tumor of stomach": {
+    "pelvic pain": 0.1111111111111111,
+    "diarrhea": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "wheezing": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "chills": 0.1111111111111111
+  },
+  "Calculus of gallbladder and bile duct with acute cholecystitis, with obstruction": {
+    "abdominal pain": 1.0
+  },
+  "Sensorineural hearing loss, unspecified": {
+    "neck pain": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "back pain": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "dizziness": 0.14285714285714285,
+    "joint pain": 0.14285714285714285,
+    "headache": 0.14285714285714285
+  },
+  "Atelectasis": {
+    "shortness of breath": 0.3333333333333333,
+    "blood clots": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Dementia in conditions classified elsewhere without behavioral disturbance": {
+    "wheezing": 0.25,
+    "cough": 0.25,
+    "fever": 0.25,
+    "diarrhea": 0.25
+  },
+  "Panhypopituitarism": {
+    "neck pain": 0.25,
+    "vomiting": 0.25,
+    "headache": 0.25,
+    "nausea": 0.25
+  },
+  "Postmyocardial infarction syndrome": {
+    "cough": 0.3333333333333333,
+    "nausea": 0.3333333333333333,
+    "dizziness": 0.3333333333333333
+  },
+  "Regional enteritis of unspecified site": {
+    "vomiting": 0.5,
+    "nausea": 0.5
+  },
+  "Herpesviral vesicular dermatitis": {
+    "shortness of breath": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "back pain": 0.16666666666666666,
+    "wheezing": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "chills": 0.16666666666666666
+  },
+  "Nonspecific (abnormal) findings on radiological and other examination of abdominal area, including retroperitoneum": {
+    "diarrhea": 0.14285714285714285,
+    "shortness of breath": 0.14285714285714285,
+    "vomiting": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Acute on chronic systolic (congestive) heart failure": {
+    "fatigue": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333,
+    "leg swelling": 0.3333333333333333
+  },
+  "Poisoning by cannabis (derivatives), accidental (unintentional), initial encounter": {
+    "diarrhea": 0.125,
+    "shortness of breath": 0.125,
+    "fatigue": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "fever": 0.125,
+    "headache": 0.125
+  },
+  "Scoliosis, unspecified": {
+    "shortness of breath": 0.2,
+    "nausea": 0.2,
+    "back pain": 0.2,
+    "abdominal pain": 0.2,
+    "headache": 0.2
+  },
+  "Chronic diastolic (congestive) heart failure": {
+    "diarrhea": 0.09090909090909091,
+    "night sweats": 0.09090909090909091,
+    "blood clots": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "shoulder pain": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "abdominal pain": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "headache": 0.09090909090909091,
+    "chills": 0.09090909090909091
+  },
+  "Nicotine dependence, cigarettes, uncomplicated": {
+    "fever": 0.5,
+    "leg pain": 0.5
+  },
+  "Septic shock": {
+    "fever": 0.5,
+    "abdominal pain": 0.5
+  },
+  "Adverse effect of glucocorticoids and synthetic analogues, initial encounter": {
+    "fatigue": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "dizziness": 0.14285714285714285,
+    "wheezing": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Decreased white blood cell count, unspecified": {
+    "shortness of breath": 0.2,
+    "vomiting": 0.2,
+    "nausea": 0.2,
+    "back pain": 0.2,
+    "abdominal pain": 0.2
+  },
+  "Type 2 diabetes mellitus with foot ulcer": {
+    "diarrhea": 0.16666666666666666,
+    "vomiting": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "cough": 0.16666666666666666,
+    "abdominal pain": 0.16666666666666666,
+    "chills": 0.16666666666666666
+  },
+  "Restless legs syndrome": {
+    "diarrhea": 0.125,
+    "shortness of breath": 0.125,
+    "vomiting": 0.125,
+    "nausea": 0.125,
+    "cough": 0.125,
+    "abdominal pain": 0.125,
+    "fever": 0.125,
+    "chills": 0.125
+  },
+  "Secondary esophageal varices without bleeding": {
+    "diarrhea": 0.08333333333333333,
+    "shortness of breath": 0.08333333333333333,
+    "numbness": 0.08333333333333333,
+    "vomiting": 0.08333333333333333,
+    "nausea": 0.08333333333333333,
+    "cough": 0.08333333333333333,
+    "back pain": 0.08333333333333333,
+    "abdominal pain": 0.08333333333333333,
+    "wheezing": 0.08333333333333333,
+    "fever": 0.08333333333333333,
+    "headache": 0.08333333333333333,
+    "chills": 0.08333333333333333
+  },
+  "Pathological fracture, other site, initial encounter for fracture": {
+    "diarrhea": 0.125,
+    "shortness of breath": 0.125,
+    "vomiting": 0.125,
+    "arm pain": 0.125,
+    "cough": 0.125,
+    "dizziness": 0.125,
+    "fever": 0.125,
+    "chills": 0.125
+  },
+  "Morbid obesity": {
+    "dizziness": 1.0
+  },
+  "Cervicitis and endocervicitis": {
+    "pelvic pain": 0.09090909090909091,
+    "diarrhea": 0.09090909090909091,
+    "shortness of breath": 0.09090909090909091,
+    "fatigue": 0.09090909090909091,
+    "vomiting": 0.09090909090909091,
+    "vaginal bleeding": 0.09090909090909091,
+    "nausea": 0.09090909090909091,
+    "cough": 0.09090909090909091,
+    "fever": 0.09090909090909091,
+    "joint pain": 0.09090909090909091,
+    "headache": 0.09090909090909091
+  },
+  "Pure hypercholesterolemia": {
+    "diarrhea": 0.125,
+    "shortness of breath": 0.125,
+    "cough": 0.125,
+    "back pain": 0.125,
+    "abdominal pain": 0.125,
+    "memory loss": 0.125,
+    "wheezing": 0.125,
+    "chills": 0.125
+  },
+  "Family history of malignant neoplasm of gastrointestinal tract": {
+    "diarrhea": 0.14285714285714285,
+    "nausea": 0.14285714285714285,
+    "cough": 0.14285714285714285,
+    "abdominal pain": 0.14285714285714285,
+    "fever": 0.14285714285714285,
+    "headache": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Body mass index [BMI] 40.0-44.9, adult": {
+    "shortness of breath": 0.14285714285714285,
+    "blood clots": 0.14285714285714285,
+    "ankle pain": 0.14285714285714285,
+    "fatigue": 0.14285714285714285,
+    "back pain": 0.14285714285714285,
+    "wheezing": 0.14285714285714285,
+    "chills": 0.14285714285714285
+  },
+  "Nausea with vomiting, unspecified": {
+    "diarrhea": 0.16666666666666666,
+    "neck pain": 0.16666666666666666,
+    "nausea": 0.16666666666666666,
+    "back pain": 0.16666666666666666,
+    "fever": 0.16666666666666666,
+    "headache": 0.16666666666666666
+  },
+  "Urinary incontinence, unspecified": {
+    "cough": 0.3333333333333333,
+    "shortness of breath": 0.3333333333333333,
+    "chills": 0.3333333333333333
+  },
+  "Car passenger injured in collision with railway train or railway vehicle in nontraffic accident": {
+    "diarrhea": 0.1,
+    "shortness of breath": 0.1,
+    "fatigue": 0.1,
+    "vomiting": 0.1,
+    "nausea": 0.1,
+    "cough": 0.1,
+    "abdominal pain": 0.1,
+    "fever": 0.1,
+    "headache": 0.1,
+    "chills": 0.1
+  },
+  "Pancytopenia": {
+    "diarrhea": 0.1111111111111111,
+    "shortness of breath": 0.1111111111111111,
+    "vomiting": 0.1111111111111111,
+    "nausea": 0.1111111111111111,
+    "cough": 0.1111111111111111,
+    "runny nose": 0.1111111111111111,
+    "abdominal pain": 0.1111111111111111,
+    "fever": 0.1111111111111111,
+    "headache": 0.1111111111111111
+  },
+  "Other late effects of cerebrovascular disease, facial weakness": {
+    "fever": 0.5,
+    "insomnia": 0.5
+  }
+}

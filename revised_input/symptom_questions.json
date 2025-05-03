@@ -1,0 +1,475 @@
+{
+  "abdominal pain": [
+    "Have you been experiencing any abdominal pain recently?",
+    "When did your abdominal pain start?",
+    "Are you experiencing abdominal pain?",
+    "Has your abdominal pain gotten better or worse recently?",
+    "Do you have any abdominal pain?"
+  ],
+  "anal pain": [
+    "Do you have any anal pain?",
+    "Has your anal pain gotten better or worse recently?",
+    "When did your anal pain start?",
+    "Are you experiencing anal pain?",
+    "Have you been experiencing any anal pain recently?"
+  ],
+  "ankle pain": [
+    "Have you been experiencing any ankle pain recently?",
+    "Do you have any ankle pain?",
+    "Are you experiencing ankle pain?",
+    "Has your ankle pain gotten better or worse recently?",
+    "When did your ankle pain start?"
+  ],
+  "arm pain": [
+    "Have you been experiencing any arm pain recently?",
+    "When did your arm pain start?",
+    "Are you experiencing arm pain?",
+    "Do you have any arm pain?",
+    "Has your arm pain gotten better or worse recently?"
+  ],
+  "back pain": [
+    "Are you experiencing back pain?",
+    "Do you have any back pain?",
+    "Have you been experiencing any back pain recently?",
+    "When did your back pain start?",
+    "Has your back pain gotten better or worse recently?"
+  ],
+  "bent penis": [
+    "Do you have any bent penis?",
+    "Are you experiencing bent penis?",
+    "Have you been experiencing any bent penis recently?",
+    "Has your bent penis gotten better or worse recently?",
+    "When did your bent penis start?"
+  ],
+  "bleeding during pregnancy": [
+    "Have you been experiencing any bleeding during pregnancy recently?",
+    "When did your bleeding during pregnancy start?",
+    "Do you have any bleeding during pregnancy?",
+    "Has your bleeding during pregnancy gotten better or worse recently?",
+    "Are you experiencing bleeding during pregnancy?"
+  ],
+  "blood clots": [
+    "Have you been experiencing any blood clots recently?",
+    "When did your blood clots start?",
+    "Do you have any blood clots?",
+    "Are you experiencing blood clots?",
+    "Has your blood clots gotten better or worse recently?"
+  ],
+  "breast lumps": [
+    "Have you been experiencing any breast lumps recently?",
+    "Are you experiencing breast lumps?",
+    "Has your breast lumps gotten better or worse recently?",
+    "Do you have any breast lumps?",
+    "When did your breast lumps start?"
+  ],
+  "breast rash": [
+    "Has your breast rash gotten better or worse recently?",
+    "Have you been experiencing any breast rash recently?",
+    "Do you have any breast rash?",
+    "Are you experiencing breast rash?",
+    "When did your breast rash start?"
+  ],
+  "burning feet": [
+    "Have you been experiencing any burning feet recently?",
+    "Has your burning feet gotten better or worse recently?",
+    "Do you have any burning feet?",
+    "Are you experiencing burning feet?",
+    "When did your burning feet start?"
+  ],
+  "cold hands": [
+    "Do you have any cold hands?",
+    "Have you been experiencing any cold hands recently?",
+    "When did your cold hands start?",
+    "Has your cold hands gotten better or worse recently?",
+    "Are you experiencing cold hands?"
+  ],
+  "cough": [
+    "Have you been experiencing any cough recently?",
+    "Has your cough gotten better or worse recently?",
+    "When did your cough start?",
+    "Do you have any cough?",
+    "Are you experiencing cough?"
+  ],
+  "coughing up blood": [
+    "Has your coughing up blood gotten better or worse recently?",
+    "Are you experiencing coughing up blood?",
+    "When did your coughing up blood start?",
+    "Have you been experiencing any coughing up blood recently?",
+    "Do you have any coughing up blood?"
+  ],
+  "dark circles under eyes": [
+    "Do you have any dark circles under eyes?",
+    "When did your dark circles under eyes start?",
+    "Have you been experiencing any dark circles under eyes recently?",
+    "Are you experiencing dark circles under eyes?",
+    "Has your dark circles under eyes gotten better or worse recently?"
+  ],
+  "diarrhea": [
+    "Do you have any diarrhea?",
+    "When did your diarrhea start?",
+    "Has your diarrhea gotten better or worse recently?",
+    "Have you been experiencing any diarrhea recently?",
+    "Are you experiencing diarrhea?"
+  ],
+  "dizziness": [
+    "Are you experiencing dizziness?",
+    "Do you have any dizziness?",
+    "Has your dizziness gotten better or worse recently?",
+    "Have you been experiencing any dizziness recently?",
+    "When did your dizziness start?"
+  ],
+  "dry orgasm": [
+    "Have you been experiencing any dry orgasm recently?",
+    "Do you have any dry orgasm?",
+    "When did your dry orgasm start?",
+    "Has your dry orgasm gotten better or worse recently?",
+    "Are you experiencing dry orgasm?"
+  ],
+  "elbow pain": [
+    "Are you experiencing elbow pain?",
+    "When did your elbow pain start?",
+    "Have you been experiencing any elbow pain recently?",
+    "Has your elbow pain gotten better or worse recently?",
+    "Do you have any elbow pain?"
+  ],
+  "excessive sweating": [
+    "Have you been experiencing any excessive sweating recently?",
+    "Are you experiencing excessive sweating?",
+    "Do you have any excessive sweating?",
+    "When did your excessive sweating start?",
+    "Has your excessive sweating gotten better or worse recently?"
+  ],
+  "eye pain": [
+    "Have you been experiencing any eye pain recently?",
+    "Are you experiencing eye pain?",
+    "When did your eye pain start?",
+    "Has your eye pain gotten better or worse recently?",
+    "Do you have any eye pain?"
+  ],
+  "eye twitching": [
+    "Do you have any eye twitching?",
+    "Are you experiencing eye twitching?",
+    "Have you been experiencing any eye twitching recently?",
+    "Has your eye twitching gotten better or worse recently?",
+    "When did your eye twitching start?"
+  ],
+  "fatigue": [
+    "Has your fatigue gotten better or worse recently?",
+    "Are you experiencing fatigue?",
+    "Do you have any fatigue?",
+    "Have you been experiencing any fatigue recently?",
+    "When did your fatigue start?"
+  ],
+  "foot pain": [
+    "Has your foot pain gotten better or worse recently?",
+    "Are you experiencing foot pain?",
+    "Have you been experiencing any foot pain recently?",
+    "Do you have any foot pain?",
+    "When did your foot pain start?"
+  ],
+  "frequent bowel movements": [
+    "Do you have any frequent bowel movements?",
+    "Has your frequent bowel movements gotten better or worse recently?",
+    "Are you experiencing frequent bowel movements?",
+    "Have you been experiencing any frequent bowel movements recently?",
+    "When did your frequent bowel movements start?"
+  ],
+  "frequent urination": [
+    "Has your frequent urination gotten better or worse recently?",
+    "Do you have any frequent urination?",
+    "Have you been experiencing any frequent urination recently?",
+    "When did your frequent urination start?",
+    "Are you experiencing frequent urination?"
+  ],
+  "green stool": [
+    "Has your green stool gotten better or worse recently?",
+    "Are you experiencing green stool?",
+    "Do you have any green stool?",
+    "When did your green stool start?",
+    "Have you been experiencing any green stool recently?"
+  ],
+  "groin pain": [
+    "Have you been experiencing any groin pain recently?",
+    "When did your groin pain start?",
+    "Has your groin pain gotten better or worse recently?",
+    "Are you experiencing groin pain?",
+    "Do you have any groin pain?"
+  ],
+  "headache": [
+    "Have you been experiencing any headache recently?",
+    "When did your headache start?",
+    "Has your headache gotten better or worse recently?",
+    "Are you experiencing headache?",
+    "Do you have any headache?"
+  ],
+  "heel pain": [
+    "Has your heel pain gotten better or worse recently?",
+    "Are you experiencing heel pain?",
+    "Have you been experiencing any heel pain recently?",
+    "Do you have any heel pain?",
+    "When did your heel pain start?"
+  ],
+  "hip pain": [
+    "Has your hip pain gotten better or worse recently?",
+    "When did your hip pain start?",
+    "Have you been experiencing any hip pain recently?",
+    "Are you experiencing hip pain?",
+    "Do you have any hip pain?"
+  ],
+  "intestinal gas": [
+    "Has your intestinal gas gotten better or worse recently?",
+    "When did your intestinal gas start?",
+    "Do you have any intestinal gas?",
+    "Are you experiencing intestinal gas?",
+    "Have you been experiencing any intestinal gas recently?"
+  ],
+  "joint pain": [
+    "Are you experiencing joint pain?",
+    "Have you been experiencing any joint pain recently?",
+    "Has your joint pain gotten better or worse recently?",
+    "When did your joint pain start?",
+    "Do you have any joint pain?"
+  ],
+  "kidney pain": [
+    "Are you experiencing kidney pain?",
+    "Has your kidney pain gotten better or worse recently?",
+    "When did your kidney pain start?",
+    "Do you have any kidney pain?",
+    "Have you been experiencing any kidney pain recently?"
+  ],
+  "leg pain": [
+    "When did your leg pain start?",
+    "Has your leg pain gotten better or worse recently?",
+    "Are you experiencing leg pain?",
+    "Have you been experiencing any leg pain recently?",
+    "Do you have any leg pain?"
+  ],
+  "leg swelling": [
+    "Are you experiencing leg swelling?",
+    "When did your leg swelling start?",
+    "Has your leg swelling gotten better or worse recently?",
+    "Do you have any leg swelling?",
+    "Have you been experiencing any leg swelling recently?"
+  ],
+  "loss of smell": [],
+  "muscle pain": [
+    "Are you experiencing muscle pain?",
+    "Has your muscle pain gotten better or worse recently?",
+    "Have you been experiencing any muscle pain recently?",
+    "Do you have any muscle pain?",
+    "When did your muscle pain start?"
+  ],
+  "nasal congestion": [
+    "Are you experiencing nasal congestion?",
+    "Has your nasal congestion gotten better or worse recently?",
+    "Have you been experiencing any nasal congestion recently?",
+    "Do you have any nasal congestion?",
+    "When did your nasal congestion start?"
+  ],
+  "nausea": [
+    "Are you feeling nauseous?",
+    "Have you felt nauseous a lot recently?"
+  ],
+  "vomiting": [
+    "Have you vomited recently?"
+  ],
+  "neck pain": [
+    "Has your neck pain gotten better or worse recently?",
+    "Are you experiencing neck pain?",
+    "When did your neck pain start?",
+    "Have you been experiencing any neck pain recently?",
+    "Do you have any neck pain?"
+  ],
+  "leg cramps": [],
+  "night sweats": [
+    "Are you experiencing night sweats?",
+    "Have you been experiencing any night sweats recently?",
+    "Do you have any night sweats?",
+    "Has your night sweats gotten better or worse recently?",
+    "When did your night sweats start?"
+  ],
+  "nipple discharge": [
+    "Have you been experiencing any nipple discharge recently?",
+    "When did your nipple discharge start?",
+    "Has your nipple discharge gotten better or worse recently?",
+    "Are you experiencing nipple discharge?",
+    "Do you have any nipple discharge?"
+  ],
+  "nosebleeds": [
+    "Have you been experiencing any nosebleeds recently?",
+    "Has your nosebleeds gotten better or worse recently?",
+    "Are you experiencing nosebleeds?",
+    "When did your nosebleeds start?",
+    "Do you have any nosebleeds?"
+  ],
+  "numbness": [
+    "When did your numbness start?",
+    "Do you have any numbness?",
+    "Are you experiencing numbness?",
+    "Has your numbness gotten better or worse recently?",
+    "Have you been experiencing any numbness recently?"
+  ],
+  "painful urination": [
+    "Are you experiencing painful urination?",
+    "When did your painful urination start?",
+    "Has your painful urination gotten better or worse recently?",
+    "Have you been experiencing any painful urination recently?",
+    "Do you have any painful urination?"
+  ],
+  "peeling skin": [
+    "Has your peeling skin gotten better or worse recently?",
+    "Do you have any peeling skin?",
+    "Have you been experiencing any peeling skin recently?",
+    "When did your peeling skin start?",
+    "Are you experiencing peeling skin?"
+  ],
+  "pelvic pain": [
+    "Do you have any pelvic pain?",
+    "Has your pelvic pain gotten better or worse recently?",
+    "Are you experiencing pelvic pain?",
+    "When did your pelvic pain start?",
+    "Have you been experiencing any pelvic pain recently?"
+  ],
+  "rectal bleeding": [
+    "Do you have any rectal bleeding?",
+    "Has your rectal bleeding gotten better or worse recently?",
+    "When did your rectal bleeding start?",
+    "Are you experiencing rectal bleeding?",
+    "Have you been experiencing any rectal bleeding recently?"
+  ],
+  "red eye": [
+    "Have you been experiencing any red eye recently?",
+    "Are you experiencing red eye?",
+    "Has your red eye gotten better or worse recently?",
+    "Do you have any red eye?",
+    "When did your red eye start?"
+  ],
+  "runny nose": [
+    "Do you have any runny nose?",
+    "Has your runny nose gotten better or worse recently?",
+    "When did your runny nose start?",
+    "Have you been experiencing any runny nose recently?",
+    "Are you experiencing runny nose?"
+  ],
+  "shortness of breath": [
+    "Are you experiencing shortness of breath?",
+    "Has your shortness of breath gotten better or worse recently?",
+    "Have you been experiencing any shortness of breath recently?",
+    "When did your shortness of breath start?",
+    "Do you have any shortness of breath?"
+  ],
+  "shoulder pain": [
+    "Do you have any shoulder pain?",
+    "Has your shoulder pain gotten better or worse recently?",
+    "When did your shoulder pain start?",
+    "Are you experiencing shoulder pain?",
+    "Have you been experiencing any shoulder pain recently?"
+  ],
+  "testicle pain": [
+    "Has your testicle pain gotten better or worse recently?",
+    "Are you experiencing testicle pain?",
+    "Do you have any testicle pain?",
+    "When did your testicle pain start?",
+    "Have you been experiencing any testicle pain recently?"
+  ],
+  "unexplained weight loss": [
+    "Have you been experiencing any unexplained weight loss recently?",
+    "When did your unexplained weight loss start?",
+    "Are you experiencing unexplained weight loss?",
+    "Do you have any unexplained weight loss?",
+    "Has your unexplained weight loss gotten better or worse recently?"
+  ],
+  "urine odor": [
+    "Has your urine odor gotten better or worse recently?",
+    "When did your urine odor start?",
+    "Do you have any urine odor?",
+    "Are you experiencing urine odor?",
+    "Have you been experiencing any urine odor recently?"
+  ],
+  "vaginal bleeding": [
+    "Has your vaginal bleeding gotten better or worse recently?",
+    "When did your vaginal bleeding start?",
+    "Have you been experiencing any vaginal bleeding recently?",
+    "Are you experiencing vaginal bleeding?",
+    "Do you have any vaginal bleeding?"
+  ],
+  "vaginal discharge": [
+    "Have you been experiencing any vaginal discharge recently?",
+    "Do you have any vaginal discharge?",
+    "Are you experiencing vaginal discharge?",
+    "When did your vaginal discharge start?",
+    "Has your vaginal discharge gotten better or worse recently?"
+  ],
+  "vaginal dryness": [
+    "Has your vaginal dryness gotten better or worse recently?",
+    "Are you experiencing vaginal dryness?",
+    "Have you been experiencing any vaginal dryness recently?",
+    "Do you have any vaginal dryness?",
+    "When did your vaginal dryness start?"
+  ],
+  "vaginal odor": [
+    "Has your vaginal odor gotten better or worse recently?",
+    "Have you been experiencing any vaginal odor recently?",
+    "When did your vaginal odor start?",
+    "Are you experiencing vaginal odor?",
+    "Do you have any vaginal odor?"
+  ],
+  "vomiting blood": [
+    "Has your vomiting blood gotten better or worse recently?",
+    "When did your vomiting blood start?",
+    "Do you have any vomiting blood?",
+    "Have you been experiencing any vomiting blood recently?",
+    "Are you experiencing vomiting blood?"
+  ],
+  "watery eyes": [
+    "Are you experiencing watery eyes?",
+    "When did your watery eyes start?",
+    "Have you been experiencing any watery eyes recently?",
+    "Has your watery eyes gotten better or worse recently?",
+    "Do you have any watery eyes?"
+  ],
+  "wheezing": [
+    "Are you experiencing wheezing?",
+    "Has your wheezing gotten better or worse recently?",
+    "Do you have any wheezing?",
+    "When did your wheezing start?",
+    "Have you been experiencing any wheezing recently?"
+  ],
+  "white tongue": [
+    "Are you experiencing white tongue?",
+    "When did your white tongue start?",
+    "Have you been experiencing any white tongue recently?",
+    "Do you have any white tongue?",
+    "Has your white tongue gotten better or worse recently?"
+  ],
+  "yellow tongue": [
+    "Are you experiencing yellow tongue?",
+    "Have you been experiencing any yellow tongue recently?",
+    "Do you have any yellow tongue?",
+    "Has your yellow tongue gotten better or worse recently?",
+    "When did your yellow tongue start?"
+  ],
+  "fever": [
+    "Have you had a fever recently?",
+    "Do you have a fever?"
+  ],
+  "chills": [
+    "Do you have chills?"
+  ],
+  "throat pain": [
+    "Do you have a sore throat?",
+    "Does your throat hurt?",
+    "Are you experiencing any pain in your throat?"
+  ],
+  "insomnia": [
+    "Have you been experiencing insomnia?",
+    "Do you have trouble falling asleep at night?"
+  ],
+  "frequent bruising": [
+    "Have you been seeing a lot of unexplained bruises?"
+  ],
+  "memory loss": [
+    "Do you often forget what you're doing?",
+    "Have you been experiencing any loss of memory?"
+  ]
+}
