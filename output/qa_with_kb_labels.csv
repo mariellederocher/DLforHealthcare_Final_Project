@@ -4,7 +4,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 1,"Have you had any fever or chills, cough, congestion, nausea, vomiting, chest pain, chest pressure?
 ","No.  
-",no,Fever/Chills
+",no,none
 1,"Great. Also, for our records, how old are you and what race do you identify yourself as?
 ",I am seventy six years old and identify as a white female.,none,none
 2,"I'm so sorry. Well you are only twenty five, so let's hope this is the last of the worst. Let's see how we can best help you. When did it start? 
@@ -18,7 +18,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 2,"Are you having any symptoms with it, such as blurry vision, light sensitivity, dizziness, lightheadedness, or nausea? 
 ","I'm having blurry vision and lightheadedness.  I also can't seem to write well. It looks so messy. I am naturally right handed but my writing looks like I am trying with my left. 
-",none,dizziness
+",none,none
 2,"How would you describe the lightheadedness? 
 ","Like there are blind spots. 
 ",none,none
@@ -200,7 +200,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","No. 
 ",no,none
 15,"How about any fatigue or pain? Any frequency in your urination? Any urgency in that? 
-",No.,no,fatigue
+",No.,no,none
 16,"Pacemaker?
 ","Yes, they did that.
 ",yes,none
@@ -211,7 +211,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",Yeah.,yes,none
 17,"And you got right side shoulder pain? Is this something new?
 ","Yes. That is right.
-",yes,shoulder pain
+",yes,none
 17,"What were you doing when this happened?
 ","I think I was picking up a stack of cardboard, then putting it down on the ground and twisting to the right side. And sometimes I was throwing them a little bit as well.
 ",none,none
@@ -231,7 +231,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 18,"Any abdominal pain, fever, chill, or other symptoms? 
 ","Just nausea and vomiting. It's been so terrible. 
-",none,Fever/Chills
+",none,none
 19,"Is this your assistant, ma'am? 
 ","Yes, she helps me out all day.  
 ",yes,none
@@ -325,7 +325,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 34,"Any fever or chills? 
 ","Neither of them. 
-",none,Fever/Chills
+",none,none
 34,"Have you noticed any blood while urinating? Any blood in your urine? 
 ","Nope. I do leak, especially when I'm changing my positions like from sitting to standing so I do feel there is some involuntary urination. It's more like a urge. I'm loading data in like every one hour in the morning, especially when I take that Lasix. 
 ",no,none
@@ -343,7 +343,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 35,"How about anything like fever, nausea, vomiting, pain?
 ","No.
-",no,Fever/Chills
+",no,none
 35,"And as we discussed you have problem talking and comprehending. 
 ","Yes.
 ",yes,none
@@ -374,10 +374,10 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 37,"For the past one week I am having this increased shortness of breath and having difficulty breathing from past few nights while sleeping.
 ","Okay.
-",none,shortness of breath
+",none,none
 37,"And this morning I was having difficulty catching my breath. I am also having wheezing since morning.
 ","Let me examine you, can you come forward and sit-up here? Any chest discomfort or acute chest pain or anything of that sort? Any pain of the left arm?
-",none,wheezing
+",none,none
 37,"No.
 ","Any dizziness, feeling like fainting or light headedness or losing control?
 ",none,none
@@ -458,7 +458,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Today, I'd say it's minimal pain.
 ",none,none
 41,"Good, do you have any numbness or tingling today?
-","No, thankfully not.",no,numbness
+","No, thankfully not.",no,none
 42,"Hello. 
 ","Is it okay with you if he can join us?
 ",none,none
@@ -648,7 +648,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 87,"How about any illnesses that run in your family?
 ","No, everyone is healthy.",no,none
 88,"Have you experienced any increased thirst, mood changes or unusual fatigue? 
-",No.,no,fatigue
+",No.,no,none
 89,"Are you sure?
 ",Yes!,yes,none
 91,"Welcome in! 
@@ -714,7 +714,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",Yes.,yes,none
 104,"This explains the pain you have been having on your left side. Are you still experiencing nausea and vomiting? 
 ","Yes, I have been. 
-",yes,nausea and vomiting
+",yes,none
 104,"I would like to set you up with a consult with a consult with a surgeon.
 ",Okay.,none,none
 107,"That is not good. How long has this been happening?
@@ -735,7 +735,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 111,"Okay, let me see in my chart. You had some rectal bleeding issues because of which I referred you to the gastroenterologist. A complete endoscopy was performed, which was both on the upper and the lower side. There was no evidence of ulcers or any other abnormality. That's  good news, right? 
 ","Yeah, I agree. That was a relief. 
-",yes,rectal bleeding
+",yes,none
 111,"They did find some polyps and they removed it. They turned out to be benign, so nothing to worry about there. 
 ","Yeah, I remember this said they removed something, but I forgot the name. 
 ",yes,none
@@ -770,7 +770,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Um, no.
 ",no,none
 117,"Any dizziness or spinning sensation?
-",Nope.,no,dizziness
+",Nope.,no,none
 118,"Good, and just one more piece of background information, which hand do you write with?
 ","I use my right hand for everything. 
 ",none,none
@@ -798,7 +798,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 120,"Do you have any weakness, numbness, or tingling? 
 ","No, I don't have any of that. 
-",no,numbness
+",no,none
 120,"Okay, back to diabetes, how has that been progressing? 
 ","Well, I can only check it in the morning, and it's usually less than one hundred. 
 ",none,none
@@ -869,7 +869,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 132,"Are you okay? You have a headache?
 ","No I have a really bad migraine.
-",no,headache
+",no,none
 132,"Okay can you point to where you are feeling it the most?
 ","Here, since Monday.
 ",none,none
@@ -890,10 +890,10 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 132,"Okay can you tell me if you have any fever or chills, congestion, cough cold like symptoms?
 ","No. 
-",no,Fever/Chills
+",no,none
 132,"Any nausea, vomiting, diarrhea or trauma anywhere?
 ","No nothing like that.
-",no,diarrhea
+",no,none
 132,"Anything from head to toe?
 ",No everything else is fine.,no,none
 134,"How is it now?
@@ -997,7 +997,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 142,"Any knee, ankle, or foot pain? 
 ","No.  
-",no,foot pain
+",no,none
 142,"How about pain in your shoulders, elbows, or wrists? 
 ","Uh no, but I guess I do have a little bit of pain in my pelvic area. 
 ",no,none
@@ -1012,10 +1012,10 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 142,"Any headache, nausea, or vomiting? 
 ","No. 
-",no,headache
+",no,none
 142,"Fever or chills? 
 ","No. 
-",no,Fever/Chills
+",no,none
 142,"Any chance of pregnancy? 
 ","No, I've been good at taking my birth control and I also have an I U D. 
 ",no,none
@@ -1112,10 +1112,10 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",No. No surgeries at all.,no,none
 158,"Good, is there any back pain, numbness or tingling?
 ","No, I don't have any of that. 
-",no,numbness
+",no,none
 158,"Is there any weakness, numbness or tingling in your legs and arms, my dear? 
 ","No, I'm very strong, especially for my age. 
-",no,numbness
+",no,none
 158,"Are you going to the bathroom with no problem? 
 ","Yes, doctor, everything is regular there.",yes,none
 159,"Okay so no drug allergies.
@@ -1302,7 +1302,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 187,"Do you feel any significant fatigue? 
 ","No, not really. 
-",no,fatigue
+",no,none
 187,"Have you had any significant weight loss? 
 ",No.,no,none
 188,"Glad to hear. So today we're going to do a comprehensive eval. It'll be a bit different than our usual visits together. Would you like your mom to step in the room, too? 
@@ -1318,7 +1318,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Nope. I live alone, so my family wasn't there to be exposed.",no,none
 191,"Are you still having the diarrhea and decreased appetite? 
 ","Yes, but I'm still feeling better though. 
-",yes,diarrhea
+",yes,none
 191,"Have you been peeing a normal amount? 
 ","Yeah, no problems there. I measured it like you told me to—six hundred M L. 
 ",yes,none
@@ -1326,7 +1326,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Um, it was about seven this morning.
 ",none,none
 191,"Are you having any fever symptoms? 
-","No, I feel pretty well.",no,Fever/Chills
+","No, I feel pretty well.",no,none
 192,"Do you drink? 
 ","No. I was a boxer before so that's why I was always stayed away from these things. 
 ",no,none
@@ -1509,7 +1509,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 215,"How about fever?
 ","Yes, I do. 
-",yes,Fever/Chills
+",yes,none
 215,"Any blood in sputum or chest pain?
 ","Yes, I do.",yes,none
 217,"What about alcohol consumption? Do you drink? 
@@ -1522,7 +1522,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","I used to. Now I'm retired, I was a lab manager before.",none,none
 218,"I am sorry. It is likely that the increased dosage of your methothrexate is the cause of the mouth sores. Have you experienced a decreased appetite, nausea, abdominal discomfort or diarrhea?
 ","No. It is painful to eat with the sores, but I still have an appetite. 
-",no,diarrhea
+",no,none
 218,"Have you had any new rashes, or hair loss? 
 ","No. 
 ",no,none
@@ -1739,10 +1739,10 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 242,"Okay, so tell me about your cough, is it getting worse than before? 
 ","It's about the same but not getting better.
-",none,cough
+",none,none
 242,"Hm. And what about your diarrhea and stomach pain?
 ","No more diarrhea and no pian. 
-",no,diarrhea
+",no,none
 242,"Bowel movement?
 ","Normal.
 ",none,none
@@ -1800,10 +1800,10 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 247,"Okay, let me write you an order for a laxative that should help. How bout cough? Any pain in the ribs while coughing?
 ","Nah, I am not bothered by it.
-",none,cough
+",none,none
 247,"Any headache or nerve pain or body pain?
 ","Um, no I am fine.
-",no,headache
+",no,none
 247,"Any fall or imbalance problem?
 ","No.
 ",no,none
@@ -1838,7 +1838,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 248,"However, I do leak some pee when I cough. I wear pads daily. 
 ","And did you notice any changes regarding your bladder, do you think it is better than before or worse since the last time I saw you?
-",none,cough
+",none,none
 248,"I don't think it changed much, it feels almost the same. 
 ","Okay. Let's talk about your memory, any problem there, are you able to remember stuff and think about stuff?
 ",none,none
@@ -1862,7 +1862,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 248,"Ah yes, in the beginning of May, I got a spell of severe cough and because of continuous coughing I think I developed pain in my hip which travels down to my legs.
 ","Oh okay, do you feel any tingling or numbness. 
-",none,cough
+",none,none
 248,"Yes! I feel constant tingling sensation and a feeling that something is pinching my never. Sometimes it's just so painful. 
 ","Okay.
 ",none,none
@@ -1901,12 +1901,12 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 254,"Are you bringing anything up when you cough? 
 ","Nah. 
-",none,cough
+",none,none
 254,"Any shortness of breath or chest pain? 
 ","Nah. 
-",none,shortness of breath
+",none,none
 254,"How about fevers or chills? 
-",None of that.,none,Fever/Chills
+",None of that.,none,none
 255,"I see that you had an appendectomy.
 ","Back in the nineteen forties. I also had an ankle resection in nineteen seventy five.
 ",none,none
@@ -1938,7 +1938,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 256,"Have you had any shortness of breath or chest pain? 
 ","No. 
-",no,shortness of breath
+",no,none
 256,"Any painful or burning urination? 
 ","No. 
 ",no,none
@@ -2012,7 +2012,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 269,"I see. What about hot flashes or night sweats? 
 ","Nope. I feel fine most of the time. 
-",no,night sweats
+",no,none
 269,"That's good. I'm looking at your chart right now and it says you showed a U T I present, correct? Your test showed blood in your urine.
 ","Yeah, that's correct. 
 ",yes,none
@@ -2097,10 +2097,10 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 271,"I see. Did you ever feel any dizziness too? 
 ","Yeah, I did. 
-",yes,dizziness
+",yes,none
 271,"I will have you do some movements to see if your dizziness occurs. 
 ","Sounds good. 
-",none,dizziness
+",none,none
 271,"Could you look to the left and then look to the right. 
 ","Oh, wow. That made me very dizzy. 
 ",none,none
@@ -2345,9 +2345,9 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 307,"Have you had a fever? 
 ","I think so. I was chilled and my forehead was warm. The cough is a dry sounding cough. 
-",none,Fever/Chills
+",none,none
 307,"Does the abdominal pain come during one of these coughing episodes? 
-",Yes.,yes,abdominal pain
+",Yes.,yes,none
 308,"Good, and what brings you in for a visit today? 
 ","My left knee hurts really bad. 
 ",none,none
@@ -2376,7 +2376,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 310,"Have you experienced any pain or numbness in your arm, wrist, or hand? 
 ","Yes! About two weeks after the pain started, I was having some numbness and painful cramping in these two fingers here. 
-",yes,numbness
+",yes,none
 310,"The right hand and the first and second finger? 
 ","Yes. 
 ",yes,none
@@ -2502,7 +2502,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 323,"Have you experienced any weakness, dizziness, vertigo, nausea or vomiting? 
 ","No. 
-",no,dizziness
+",no,none
 323,"Any double vision or headaches? 
 ","No. 
 ",no,none
@@ -2544,12 +2544,12 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 325,"Have you had any night sweats or chills? 
 ","No, not that I can remember. 
-",no,Fever/Chills
+",no,none
 325,"Have you had any chest pain or discomfort?
 ","No. 
 ",no,none
 325,"What about shortness of breath, or G I problems? 
-","Thankfully, no.",no,shortness of breath
+","Thankfully, no.",no,none
 327,"Family history plays an invaluable role in your health. It provides us with important clues and insight to predict and detect diseases before obvious symptoms appear. 
 ",My mom dealt a long time with anxiety and stress disorder.,none,none
 328,"Does anyone in your family have high blood pressure or high cholesterol?
@@ -2597,7 +2597,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 333,"What was to time frame of the procreation of the numbness from the finger to the wrist?  
 ","It started when I woke up and then by the end of the day my wrist was numb too. 
-",none,numbness
+",none,none
 333,"When did you start experiencing pain in the wrist area? 
 ","A few days after the numbness started. 
 ",none,none
@@ -2671,7 +2671,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","No, my strength and everything is normal there. 
 ",no,none
 337,"Do you have any signs of infection? That'd be anything like fever or chills, anything like that?
-","No, I don't have anything like that.",no,Fever/Chills
+","No, I don't have anything like that.",no,none
 338,"When was your last menstrual period? 
 ","My last period was on June first two thousand and four.  
 ",none,none
@@ -2697,9 +2697,9 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 339,"Have you had any shortness of breath, chest pain or coughing up blood? 
 ","No. 
-",no,coughing up blood
+",no,none
 339,"Any joint pain, headaches or rashes? 
-","No. Just a rash where the bandages are like I said earlier. I also want to discuss this acne while I am here. I have had it for about two years. It's nothing big, just mild to moderate in severity.",no,joint pain
+","No. Just a rash where the bandages are like I said earlier. I also want to discuss this acne while I am here. I have had it for about two years. It's nothing big, just mild to moderate in severity.",no,none
 341,"Good, what about alcohol, do you drink?
 ","Well, my wife and I have a drink or two a day.",none,none
 342,"You said nothing major, so, what was there?
@@ -2711,7 +2711,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Um, I'd say it's pretty heavy.",none,none
 344,"And no dizziness?
 ","Yes. I do.
-",yes,dizziness
+",yes,none
 345,"Nothing? Cat dander, pollen?
 ",Nope.,no,none
 346,"Do you have children? 
@@ -2913,7 +2913,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 372,"Where is your left shoulder pain?
 ","Mostly, it's in the back of my shoulder. 
-",none,shoulder pain
+",none,none
 372,"Going backwards a little, how about the right shoulder? 
 ","It hurt really bad yesterday, but that's gone away now. 
 ",none,none
@@ -2954,7 +2954,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 377,"Great. Any shortness of breath that causes you to wake up?
 ","None. I don't have shortness of breath at any other time of the day. 
-",none,shortness of breath
+",none,none
 377,"Are your legs doing well? Any swelling?
 ",No. No swelling.,no,none
 378,"My name is Doctor X and I will be taking care of you today. 
@@ -3030,7 +3030,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 380,"Any bladder issues or frequent urination? 
 ","No. 
-",no,frequent urination
+",no,none
 380,"Okey. Let us do some an exam. 
 ",Okey.,none,none
 381,"Refractory hypertension.
@@ -3075,7 +3075,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 385,"Okay, and have you been wheezing lately? 
 ","No, I haven't been. 
-",no,wheezing
+",no,none
 385,"I see you have asthma, have you had any medication for this? 
 ","No, I haven't had anything.",no,none
 386,"Okay anything else?
@@ -3172,7 +3172,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 396,"Any headache or body pains? 
 ","No.
-",no,headache
+",no,none
 396,"Any nausea vomiting? 
 ","I had vomiting a few times. 
 ",none,none
@@ -3181,7 +3181,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 396,"Okay, any diarrhea?
 ","No, on the contrary I am having constipation every now and then, it's really bothering me now. I feel bloated all the time and don't feel fresh in the morning or throughout the day.
-",no,diarrhea
+",no,none
 396,"Oh, how long have you had this problem? 
 ","Couple of months now. 
 ",none,none
@@ -3196,7 +3196,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 396,"Yeah, you can get that kind of pain with constipation. Any cough or cold like symptoms? Any cough with sputum? 
 ","No, I feel fine. 
-",no,cough
+",no,none
 397,"Okay so inhaler SR?
 ","Yes.
 ",yes,none
@@ -3353,25 +3353,25 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 409,"No fever or chills, right?
 ","Yeah, no fever or anything.
-",yes,Fever/Chills
+",yes,none
 409,"Any chest pain, shortness of breath or shortness of breath while sleeping? 
 ","No.
-",no,shortness of breath
+",no,none
 409,"Any palpitation, swelling or varicose veins or pain in your legs?
 ","No.
 ",no,none
 409,"Any sore throat or cough or cough with mucous or blood sputum?
 ","I have this prolonged cough, but other than that nothing.
-",none,cough
+",none,none
 409,"No wheezing?
 ","No, no wheezing.
-",no,wheezing
+",no,none
 409,"Any heart burn, nausea or vomiting? 
 ","No.
 ",no,none
 409,"Loss of appetite or blood in stool or abdominal pain?
 ","No.
-",no,abdominal pain
+",no,none
 409,"Constipation?
 ","No.
 ",no,none
@@ -3386,7 +3386,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 409,"So, any joint pain, muscle stiffness or pain? Any backache? Ligament, tendon pain or strain? 
 ","Nothing.
-",none,joint pain
+",none,none
 409,"Did you experience any blackouts or seizures lately?
 ","No.
 ",no,none
@@ -3395,7 +3395,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 409,"Any weakness? Numbness or tingling? 
 ","No.
-",no,numbness
+",no,none
 409,"Tremors or loss of sensation like paralysis or-
 ","No.
 ",no,none
@@ -3470,13 +3470,13 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 415,"Wow, that's concerning. Are you experiencing any nausea, vomiting, diarrhea, or abdominal pain? 
 ","No. 
-",no,abdominal pain
+",no,none
 415,"How about chest pain, shortness of breath, cough, or heart racing? 
 ","No. 
-",no,cough
+",no,none
 415,"Any neurological symptoms, such as numbness or tingling? 
 ","No. 
-",no,numbness
+",no,none
 417,"What kind of symptoms do you notice in these knees? 
 ","I hear clicking noises, which really bothers me when I'm going up stairs. There's also some stiffness when I try to move them. 
 ",none,none
@@ -3658,7 +3658,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 442,"Did you notice any rectal bleeding? 
 ","No.
-",no,rectal bleeding
+",no,none
 442,"Any liver issues or jaundice?
 ","Um, no.
 ",no,none
@@ -3712,13 +3712,13 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 450," Okay that is good. Any fever and chills?
 ","No, no fever.
-",no,Fever/Chills
+",no,none
 450,"Any problem with urination like pain or frequency or blood in urine?
 ","No but I am not able to empty my bladder well, the pee has decreased a lot, I could not urinate.
 ",no,none
 450,"Okay I will evaluate that. How about any cough, blood in sputum?
 ","No nothing like that.
-",no,cough
+",no,none
 450," Any chest pain, or difficulty breathing?
 ","No pain, I can breathe well.
 ",no,none
@@ -3736,7 +3736,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","I do not have anything else.
 ",none,none
 454,"Okay no fever, nausea, anything of that sort?
-",Nope.,no,Fever/Chills
+",Nope.,no,none
 455,"Are you right or left handed?
 ","Right.
 ",none,none
@@ -3765,7 +3765,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","No.
 ",no,none
 455,"Any headache, nausea, vomiting, chills, or fever?
-",No.,no,Fever/Chills
+",No.,no,none
 457,"What about your mother? 
 ",She had the second type of diabetes.,none,none
 459,"Good, what about harder drugs? 
@@ -3825,7 +3825,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 470,"So, you first came to our Pulmonary Clinic, and you were suffering with dyspnea even on minimal exertion. At that time, we evaluated you and we realized that there was some evidence of irregular sleep and daytime fatigue. At that time you also complained of nighttime choking episodes which got less intense over the past many months. 
 ","That's right. I was then scheduled for the overnight sleep study to be evaluated for interruptions in my sleep and here we are today to discuss results. 
-",none,fatigue
+",none,none
 470,"Sure. But first tell me, how is your sleeping routine like? 
 ","It is consistent. I go to bed anytime between nine to ten at night and wake up in the morning around five to six. 
 ",none,none
@@ -4093,7 +4093,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 492,"Does diabetes or high blood pressure run- 
 ","In the family? No, but heart disease does.",no,none
 493,"I can imagine. That's always tough. It looks like the eval of your daytime fatigue and insomnia was sent over. Let me print out a copy and we can go over it together. How old are you again?
-",I am forty eight.,none,fatigue
+",I am forty eight.,none,none
 494,"I'm guessing you're not feeling too great. 
 ","You got that right. I've had a fever on and off for the past few days. 
 ",none,none
@@ -4105,10 +4105,10 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 494,"Have you been experiencing cold like symptoms, such as cough, nasal congestion, headache, or nausea? 
 ","Um no not really. 
-",no,cough
+",no,none
 494,"Have you tried taking any medicine to help with the fever? 
 ","Yeah. I've taken Tylenol and that's helped a bit. 
-",yes,Fever/Chills
+",yes,none
 494,"Have you had recent sick contacts? 
 ",I don't think so. I live with three other roommates and they seem fine.,none,none
 495,"I mean anything wrong from head to toe that you would like to add? 
@@ -4146,7 +4146,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 499,"Prior to the episode did you experience any chest pain or shortness of breath? 
 ","No. 
-",no,shortness of breath
+",no,none
 499,"Any feelings of abnormal heart rhythm? 
 ","No.  
 ",no,none
@@ -4202,7 +4202,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 500,"It means that you have something called Carpal tunnel syndrome, which explains your numbness and tingling sensation in your left hand. It also explains your pain in the middle part of your hand as it's caused due to pinching or compression of a nerve called median nerve. 
 ","Oh, how did that happen?
-",none,numbness
+",none,none
 500,"Well, it's possible that your repetitive hand motion could have caused it or sometimes it's just the anatomy of your wrist. 
 ","Oh, that explains my increased pain in the night after work. 
 ",none,none
@@ -4224,7 +4224,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 502,"Any other symptoms with the pain, such as shortness of breath? 
 ","Not really, no. 
-",no,shortness of breath
+",no,none
 502,"How long does the pain usually last? 
 ","For a few minutes. It comes and goes. 
 ",none,none
@@ -4356,7 +4356,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 515,"I don't think so. Are you feeling any symptoms of a fever or anything? 
 ","No, I'm not. 
-",no,Fever/Chills
+",no,none
 516,"Okay good.
 ","Do you smoke?
 ",none,none
@@ -4389,7 +4389,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 517,"Any fever or chills? 
 ","No. 
-",no,Fever/Chills
+",no,none
 517,"I have the ultrasound results that Doctor X ordered the other day.  The ultrasound found a stone in your left ureteral. The stone is about one point three C M in size. 
 ","Is there some thing we can do to remove it? I really want this taken care of. 
 ",none,none
@@ -4564,16 +4564,16 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 536,"In the past couple days have you had a fever or chills?
 ","No, nothing like that. 
-",no,Fever/Chills
+",no,none
 536,"What about chest pains?
 ","I have had some tightness in my chest, but not right now. 
 ",none,none
 536,"Does the dizziness make you nauseous?
 ","Yes, but I have not had to throw up or anything. 
-",yes,dizziness
+",yes,none
 536,"What about diarrhea?
 ","No, thank goodness. 
-",no,diarrhea
+",no,none
 536,"Are there any parts of your body that are hurting?
 ","I do have some left shoulder pain. Not so much painful, but it is uncomfortable and tender. 
 ",none,none
@@ -4627,7 +4627,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 542,"Do you get any night sweats or hot flashes while you're on your period? 
 ","No.
-",no,night sweats
+",no,none
 542,"Have you had any other medical troubles recently? 
 ","I did have a U T I and some blood in my urine because of it. 
 ",none,none
@@ -4750,7 +4750,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 560,"Have you been feeling a shortness of breath, wheezing, or other related symptoms?
 ","Not that I know of. 
-",none,shortness of breath
+",none,none
 560,"Sounds good. I wonder why this happened. Did you do anything the night before? 
 ","Uh. A few days ago, I was working and had to remove some insulation. Other than that, I don't know what else could have given me these rashes. 
 ",none,none
@@ -4778,7 +4778,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 564,"Okay. Any shortness of breath, chest pain, abdominal pain or back pain?
 ","No. 
-",no,abdominal pain
+",no,none
 564,"Are you having any headaches, hallucinations or visual disturbances? 
 ","No. 
 ",no,none
@@ -4804,7 +4804,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 567,"Do you feel anything else along with these episodes like a urine urgency, tendency to bite your tongue, headaches, any visual change, or your heart is beating very fast? Any kind of weakness or numbness or shortness of breath? 
 ","No nothing else, just the confusion and forgetfulness. 
-",no,numbness
+",no,none
 567,"How frequent are these episodes? 
 ","Well, they occur like two or three times in a week. Each one of the episodes lasts for like one or two minutes.",none,none
 568,"Do you know the name of the tumor? 
@@ -4856,7 +4856,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 574,"Yeah, good thing you came. We need to treat it. Did you experience any chills or fever? 
 ","No.
-",no,Fever/Chills
+",no,none
 574,"Any other symptoms?
 ",No.,no,none
 575,"How about diabetes?
@@ -4935,7 +4935,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 581,"Was there any leg numbness? 
 ","Yes. Since December eleventh. 
-",yes,numbness
+",yes,none
 581," Have you seen an orthopedist for this pain? 
 ","Yes, I saw one the day after my primary care physician, but my legs gave out and I fell while walking to my car because of the leg weakness and back pain.  
 ",yes,none
@@ -4958,7 +4958,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 584,"Okay, that's good. Do you have any shortness of breath or difficulty with your throat?
 ","No, it's never felt like it was going to close up or anything like that. 
-",no,shortness of breath
+",no,none
 584,"Do you have any rapid heartbeat or anxiety?
 ","No, I don't have anything like that either. 
 ",no,none
@@ -4989,7 +4989,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 587,"Have you been experiencing any daytime fatigue? 
 ","No. I have been falling asleep at work. I think it is from looking at my computer screen all day. My supervisor caught me snoring one day and forgot where I was at. My supervisor offered to give me a coffee. This has happened more than once. 
-",no,fatigue
+",no,none
 587,"This could be due to your sleep apnea. Who is treating you for your sleep apnea? 
 ","Doctor X did a consult and had me do one of those sleep test about two years ago. I only get sleepy when I look at my computer screen. 
 ",none,none
@@ -5043,7 +5043,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 590,"Have you ever noticed any night sweats? 
 ","Sometimes I do sweat at night. 
-",none,night sweats
+",none,none
 590,"Any other issue? Anything else going on? Your body temperature is a little on the higher end. 
 ","Yeah, I do feel feverish and have nausea as well. 
 ",yes,none
@@ -5098,10 +5098,10 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 594,"Did you have wet cough?
 ","No, not wet cough but I did notice back pain gets intense on the upper side whenever I coughed, like in my ribs. I normally massage that area and it gets better. 
-",no,cough
+",no,none
 594,"Any shortness of breath? 
 ","Nope. 
-",no,shortness of breath
+",no,none
 594,"How about while sleeping or doing something else?
 ","Not while sleeping, but I did notice that if I'm walking for two to three blocks then I get out of breath easily. Previously it was not like this. I used to jog for two to three miles without even a single breath loss.
 ",none,none
@@ -5185,19 +5185,19 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",Yes I am sure.,yes,none
 605,"Have you taken anything for the fever? 
 ","Tylenol and Advil. I've been taking them interchangeably. 
-",none,Fever/Chills
+",none,none
 605,"When was the last time you took your temperature? 
 ","An hour ago. The thermometer read one O one point four. 
 ",none,none
 605,"Are you experiencing any other symptoms, such as shortness of breath, nausea, vomiting, diarrhea, or others? 
 ","I've been having a stronger urge to pee a lot more than usual. Not sure if that's related. 
-",none,diarrhea
+",none,none
 605,"It could be. We're still waiting on your urine results. Do you have a history of cataracts or glaucoma?
 ","No. 
 ",no,none
 605,"Okay, great. Any signs of pneumonia or valley fever?
 ","Nothing of the sort. 
-",none,Fever/Chills
+",none,none
 605,"What about blood in your vomit or feces?
 ","Nope. 
 ",no,none
@@ -5243,7 +5243,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 607,"Great, are you having any fever symptoms, like cough, runny nose, sore throat, fatigue, anything like that? 
 ","No, but I have had some tingling in both my feet. I don't know if its related to surgery. If I'm remembering the names right, um, I have a history of spinal stenosis and neuropathy in my legs. 
-",no,Fever/Chills
+",no,none
 608,"Great to hear. Are you working right now? 
 ","Yeah, I work at a nursing home.  
 ",yes,none
@@ -5279,7 +5279,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 612,"Are you having any fever or chills, or cold or flu like symptoms? 
 ","No, I'm not. 
-",no,Fever/Chills
+",no,none
 612,"How about swelling? Are any of your joints swollen? 
 ","No, everything is normal there. Of note, I have been losing a lot of hair recently. 
 ",no,none
@@ -5457,7 +5457,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Okay, thank you. 
 ",none,none
 635,"Are you experiencing any symptoms currently, such as headache, nausea, vomiting, shortness of breath or chest pain?
-","Not right now, no. I did have some nausea yesterday. Oh and I guess I had a slight headache when I woke up this morning, but that's about it.",no,headache
+","Not right now, no. I did have some nausea yesterday. Oh and I guess I had a slight headache when I woke up this morning, but that's about it.",no,none
 636,"How did that happen? 
 ","My husband and I moved into our new home, and we were building a desk. I tried to nail something in, and I hammered my hand. 
 ",none,none
@@ -5477,7 +5477,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 637,"Yeah, I briefly lost consciousness when help arrived at the scene. I felt an immediate headache when I regained consciousness. I also had lower back and neck pain.  
 ","Did you get out of the car by yourself?  
-",none,headache
+",none,none
 637,"Yeah, I got out by myself. Once I made it out, the Rescue Squad drove me to Saint Thomas Memorial Hospital. I was seen in the emergency room and later discharged. 
 ","This was on January fifteenth, correct? 
 ",none,none
@@ -5489,7 +5489,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 638,"Are you having any other symptoms? Black or tarry stool? Nausea, vomiting, diarrhea? Lightheadedness?  
 ","No, none of that.  
-",no,diarrhea
+",no,none
 638,"I'd like to order a hemoccult then. It's going to check to see if you're still having blood in your stool. 
 ","Can I do this at the blood work place? 
 ",none,none
@@ -5529,7 +5529,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 641,"So, no fever, or chills, or sweating at night. 
 ","Yeah, nothing like that. 
-",yes,Fever/Chills
+",yes,none
 641,"Great. I see you're having some drainage from the pin sites, but that doesn't bother me too much. 
 ","Okay, good. I was getting worried. 
 ",none,none
@@ -5537,7 +5537,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Yes, doctor. I am. 
 ",yes,none
 641,"Good, and do you have any numbness or tingling? 
-","No, doctor. I don't have any of that.",no,numbness
+","No, doctor. I don't have any of that.",no,none
 642,"How old are you, young lady? 
 ","Eighty four.
 ",none,none
@@ -5607,7 +5607,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 645,"Are you having diarrhea?
 ","Yeah, I am.
-",yes,diarrhea
+",yes,none
 645,"How would you describe the frequency?
 ","I'd say it's chronic at this point. 
 ",none,none
@@ -5642,7 +5642,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Yeah, the doctors said they were, um, hyperplastic. They diagnosed me with, um, lymphocytic colitis. 
 ",yes,none
 645,"I see, when was the last time you were treated for diarrhea? 
-","At this point, it's been more than three years.",none,diarrhea
+","At this point, it's been more than three years.",none,none
 646,"Thank you, so, have you ever had surgery? 
 ","Yes, I actually have a list of them written down.
 ",yes,none
@@ -5796,12 +5796,12 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 665,"How's your appetite? Any nausea, vomiting, diarrhea? 
 ","Appetite is pretty fine. No nausea, vomiting, or diarrhea.
-",no,diarrhea
+",no,none
 665,"How about fever, chills, sweats, cough? 
 ","No, ma'am. 
-",no,Fever/Chills
+",no,none
 665,"And any chest pain with your shortness of breath? 
-","No, ma'am.",no,shortness of breath
+","No, ma'am.",no,none
 666,"Are you sure?
 ",Yes I am.,yes,none
 669,"Okay.
@@ -5814,7 +5814,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 672,"How would you describe the headache? 
 ","Throbbing pain. 
-",none,headache
+",none,none
 672,"Is it constant? 
 ","It comes and goes for the most part. 
 ",none,none
@@ -5823,7 +5823,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 672,"Do you have a headache currently? 
 ","No, not right this second. 
-",no,headache
+",no,none
 672,"Have you taken- 
 ","Anything for the pain? 
 ",none,none
@@ -5832,7 +5832,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 672,"Any other symptoms associated with the headache, such as fever, chills, nausea, vomiting, blurred vision, or sensitivity to light? 
 ","No, not really. I don't feel like I have a cold or anything. 
-",no,Fever/Chills
+",no,none
 672,"Any recent injuries to the head? 
 ","No. 
 ",no,none
@@ -5931,7 +5931,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 690,"What about this weakness or the numbness anywhere else except your legs? 
 ","No, it's only in the legs. 
-",no,numbness
+",no,none
 690,"Did anything help you with those symptoms? 
 ","Well, sometimes, you see, hot showers made me feel better, but it is like only sometimes. 
 ",none,none
@@ -6066,7 +6066,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 704,"Did you experience any shortness of breath?
 ","No.	
-",no,shortness of breath
+",no,none
 704,"Any stomach discomfort?
 ","No.
 ",no,none
@@ -6084,7 +6084,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 704,"And no fever due to any fungal infection or anything, right? Like valley fever?
 ","No, nothing of that sort.
-",no,Fever/Chills
+",no,none
 704,"Any history of pneumonia?
 ","No. 
 ",no,none
@@ -6142,7 +6142,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 709,"Where is your heel pain? 
 ","It's on the right heel, then it's on the inside bottom part of the heel and into the inside of the heel. 
-",none,heel pain
+",none,none
 709,"Do you have any change in your medical history since your last visit?
 ","No, it's the same old same old. 
 ",no,none
@@ -6153,7 +6153,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Oh, no I don't have anything like that. 
  ",no,none
 709,"What about chest pain or shortness of breath?
-","Thankfully, no nothing like that.",no,shortness of breath
+","Thankfully, no nothing like that.",no,none
 711,"Can you confirm your age for the records please? 
 ","Sure, I'm twenty nine. 
 ",none,none
@@ -6386,7 +6386,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Nope. I mean I did remove some insulation in my basement a few days ago, but I didn't feel itchy that day. 
 ",no,none
 758,"Any shortness of breath, wheezing, facial swelling, tongue or lip swelling, or other associated symptoms? 
-",No.,no,shortness of breath
+",No.,no,none
 759,"Yes, sorry. I was referring to drug allergies.
 ","Oh yeah. I'm allergic to Sulfa drugs. 
 ",yes,none
@@ -6475,7 +6475,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 776,"You are back for a follow up on your right arm pain, right? 
 ","Yes. It has been almost a year since the pain first started. 
-",yes,arm pain
+",yes,none
 776,"How has your arm been feeling? 
 ","I still have this dull pain in my upper outer area of my arm. 
 ",none,none
@@ -6487,7 +6487,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 776,"I bet it does. Are you experiencing any numbness or tingling sensation in your arm or hand? 
 ","No, but I have had this achy sensation in my hand radiating down to my fingers. 
-",no,numbness
+",no,none
 776,"Do you have a history of any other neck or shoulder injuries? 
 ","It is not from a specific injury but I have had this neck pain for thirty years. 
 ",none,none
@@ -6594,13 +6594,13 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 791,"Are you experiencing any chest pain on exertion or shortness of breath normally or when you try to sleep?
 ","No, no chest pain and shortness of breath.
-",no,shortness of breath
+",no,none
 791,"Let me see your legs. They look good I don't see any pedal edema. Usually that happens due to excess water retention. Any palpitations?
 ","No.
 ",no,none
 791,"Any feeling of numbness or tingling? Did you faint or lose consciousness anytime?
 ","No and no.
-",no,numbness
+",no,none
 791,"Okay, good!
 ","Any double and or blurred vision? 
 ",none,none
@@ -6618,7 +6618,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 791,"Any diarrhea or vomiting?
 ","Nope. 
-",no,diarrhea
+",no,none
 791,"Are you feeling thirsty frequently?
 ","No, just normal.
 ",no,none
@@ -6642,7 +6642,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 791,"Yes, no wheezing.
 ","I don't see any lesions, that's good. Any mood swings, feeling depressed or have anxiety? 
-",none,wheezing
+",none,none
 791,"No.
 ","Any joint pain in the legs, back or anywhere? 
 ",none,none
@@ -6716,7 +6716,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 800,"Approximately six months back. I took over the counter antacids and got some relief so i did not go to doctor. But two months back it got worse, I do get occasional nausea and vomiting.
 ","I can see that they found H pylori positive infection and treated you with triple drug therapy for two weeks and then gave you antacid omeprazole. But it did not improve your pain.
-",none,nausea and vomiting
+",none,none
 800,"Yeah that's right.
 ","Do you know I lost twenty pound of weight since all these symptoms began but i have been also admitted for poor appetite.
 ",none,none
@@ -6725,10 +6725,10 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 800,"Are you taking any pain medication over the counter? Do you drink alcohol and maybe you are vomiting blood?
 ","No no, nothing like that.
-",no,vomiting blood
+",no,none
 800,"Can you tell me if any change in position changes the quality of pain? do you have any fever?
 ","No position changing have no effect, no fever or anything.
-",no,Fever/Chills
+",no,none
 800,"Have you been exercising before all this?
 ",Yes I have had very active and healthy lifestyle.,yes,none
 801,"Anyone in your family, even grandparents, if you know them, did they have diabetes or high blood pressure? 
@@ -6866,7 +6866,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Well, I don't think you need to restrict your diet. You can follow your regular diet.
 ",none,none
 821,"Any family history of blood clots? 
-",No.,no,blood clots
+",No.,no,none
 822,"Are you working? 
 ","Nope. 
 ",no,none
@@ -6897,7 +6897,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 824,"Okay. Do you have any fever or chills?
 ","No, none of that. 
-",no,Fever/Chills
+",no,none
 824,"Do you experience any chest pains? I want to check especially since you have been coughing up some mucus. 
 ","No, I luckily do not have any chest pains.",no,none
 826,"Great, so what brings you in to see me today? 
@@ -7015,7 +7015,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 833,"Are you experiencing any fever, chills or illnesses? 
 ","No. 
-",no,Fever/Chills
+",no,none
 833,"Let discuss some of the previous treatments and test that you have been done for your shoulder.
 ","Okey. I have done a lot of different treatments. 
 ",none,none
@@ -7090,7 +7090,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 844,"Good, are you having any fever or chills? 
 ","No, nothing like that. 
-",no,Fever/Chills
+",no,none
 844,"Are you having any pain with urination, or blood in the urine? 
 ","No, nothing like that, sir, everything is normal.
 ",no,none
@@ -7114,10 +7114,10 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 845,"Did you have any chest pain or shortness of breath or uneasiness?
 ","No, I don't have any heart condition.
-",no,shortness of breath
+",no,none
 845,"Okay and no dizziness or loss of consciousness or stroke like symptoms?
 ","No.
-",no,dizziness
+",no,none
 845,"Okay. Well, your B M I looks fine, that means you are not overweight. 
 ",Hm.,none,none
 846," Oh, do you smoke? 
@@ -7179,13 +7179,13 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",I work out a few times a month.,none,none
 855,"Headache? 
 ","No headaches. 
-",no,headache
+",no,none
 855,"Are you coughing at all? And if yes, then are you bringing up any blood with your cough? 
 ","No cough. 
-",no,cough
+",no,none
 855,"Any chest pain or shortness of breath that wakes you in the middle of the night? 
 ","Nope. 
-",no,shortness of breath
+",no,none
 855,"Do you feel short of breath when you move around? 
 ","Nope. 
 ",no,none
@@ -7205,7 +7205,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 857,"How about shortness of breath?
 ","I only get short of breath when I walk up the stairs. 
-",none,shortness of breath
+",none,none
 857,"That is decently normal. I get out of breath when walking from floor to floor in this hospital too. 
 ","I thought so. I remember being young and still struggling with stairs. 
 ",none,none
@@ -7250,9 +7250,9 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 863,"I'd advise getting an orthotic for your shoes to help with the heel pain and resting your feet when you're home. In the meantime, I'd like for you to see a specialist to make sure nothing else is going on. 
 ","Alright, I'm good with that plan. 
-",none,heel pain
+",none,none
 863,"Are you having any other problems? Joint pain, difficulty walking, nausea, vomiting, or other symptoms? 
-","No, just heel pain for now.",no,joint pain
+","No, just heel pain for now.",no,none
 864,"Right now, you are on methadone, right? 
 ","Yes. I'm also going to the psychiatry department for my depression and these drug issues. 
 ",yes,none
@@ -7287,7 +7287,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 868,"Does it send pain or numbness or tingling down your arms? How about any jaw pain as a result? 
 ","No, but it does get worse whenever I cough. 
-",no,numbness
+",no,none
 868,"Is this your first time experiencing this type of congestion? 
 ","Oh no. I had something like it about ten months ago.  
 ",no,none
@@ -7335,7 +7335,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 874,"Okay I will investigate it. Are you experiencing any chest pain or shortness of breath?
 ","Oh no, I am not feeling that.
-",no,shortness of breath
+",no,none
 874,"Okay great!
 ","Actually, I am moving around a little bit better now and my arm does not hurt.
 ",none,none
@@ -7376,7 +7376,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 876,"Thank you, so, how is your leg pain been managed?
 ","Um, I take pretty substantial doses of opioids in order to control it.
-",none,leg pain
+",none,none
 876,"Do you have any swelling?
 ","Yes, I take Lasix for my leg swelling.
 ",yes,none
@@ -7476,13 +7476,13 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",I never did.,none,none
 887,"Are you bringing anything up when you cough? 
 ","Not really, no. 
-",no,cough
+",no,none
 887,"Are you having any other symptoms, such as chest pain, headaches, nausea, or vomiting? 
 ","No. I did have a slight headache last night but I took Advil and it's since gotten better. 
 ",no,none
 887,"Are you taking anything for the cough or stuffy nose? 
 ","Just drinking tea and taking cough drops here and there. 
-",none,cough
+",none,none
 888,"I reviewed the chart notes that was sent to me by the nursing home. They also sent me your medical history. You have been going through a lot recently. 
 ","Yes, I have. They moved me into the nursing home after I was released from the hospital. I hope that it is just temporary.
 ",yes,none
@@ -7520,7 +7520,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 892,"Do you have any problems like headache, fever, rash, oral ulcer?
 ","None.
-",none,Fever/Chills
+",none,none
 892,"Any problem with vision? Like unable to see or double vision?
 ","Um no, I can see everything.
 ",no,none
@@ -7532,7 +7532,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 892,"That's great. Any diarrhea, constipation, or red blood come out in stool? Or pale stool? Like any change in the color of stool?
 ","No, it is fine.
-",no,diarrhea
+",no,none
 892,"Okay. Any jaundice recently?
 ","No. No jaundice.
 ",no,none
@@ -7575,7 +7575,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 894,"I see. Do you experience room spinning dizziness at all? 
 ","No. I also forgot to mention that four hours after not being able to get up from my chair, my left hand became numb for about two hours. 
-",no,dizziness
+",no,none
 894,"Are you right or left handed? 
 ","Right handed. 
 ",none,none
@@ -7679,13 +7679,13 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 901,"In addition to the numbness, how else would you describe your leg symptoms? 
 ","Um, I'd say it feels cold, at least I've felt that for the last day or so.
-",none,numbness
+",none,none
 901,"Do you have any back or neck pain? 
 ","No, nothing there. 
 ",no,none
 901,"Do you have any shortness of breath? 
 ","Well, I've had it chronically for a while now, but I think it's getting worse. 
-",none,shortness of breath
+",none,none
 901,"Have you had any lightheadedness or feelings of faint? 
 ","Um, yeah, when I try to stand up. 
 ",yes,none
@@ -7750,7 +7750,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","No. 
 ",no,none
 907,"How about any neck pain, swollen lymph nodes, chills, fever, or other symptoms? 
-","No, thank goodness.",no,Fever/Chills
+","No, thank goodness.",no,none
 908,"Have you seen another doctor for this pain?
 ","Yeah, I saw another guy a little while ago.
 ",yes,none
@@ -7824,7 +7824,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Um when I was at work this morning. It felt like something was in my eye. I went to the bathroom mirror to check it out, but didn't see anything. I flushed my eyes with water in hopes of it helping with the weird feeling.
 ",none,none
 918,"Okay. Hm, are you experiencing any eye pain, blurred vision, or sensitivity to light? 
-",The pain has definitely gotten worse since this morning. My vision is fine and bright lights don't seem to be a problem.,none,eye pain
+",The pain has definitely gotten worse since this morning. My vision is fine and bright lights don't seem to be a problem.,none,none
 919,"When did it start? 
 ","It's been going on for about two weeks now. 
 ",none,none
@@ -7833,7 +7833,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 919,"Any abdominal pain, nausea, vomiting?  
 ","Uh no, but I'm having some pain here. 
-",no,abdominal pain
+",no,none
 919,"Near your pelvis? 
 ","Yeah. 
 ",yes,none
@@ -7856,16 +7856,16 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",Nope.,no,none
 924,"Any illness or fever?
 ","No, nothing like that. 
-",no,Fever/Chills
+",no,none
 924,"Any headache or nausea?
 ","No.
-",no,headache
+",no,none
 924,"Any vomiting or stomach upset?
 ","No.
 ",no,none
 924,"Okay, any numbness tingling or loss of sensation in the hand?
 ","No, not at all.
-",no,numbness
+",no,none
 924,"Otherwise feeling well? 
 ",Yeah.,yes,none
 925,"What brings you into see me today? 
@@ -7899,7 +7899,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",Yes I had a brother and a sister. My sister died way too young. She was only thirty when she passed away from cancer. My brother lasted until he was seventy four. He had coronary artery disease.,yes,none
 928,"Any chest pain, palpitations or shortness of breath on exertion?
 ","No.
-",no,shortness of breath
+",no,none
 928,"How about your blood pressure?
 ","It's normal.
 ",none,none
@@ -7981,7 +7981,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 939,"Okay.
 ",Yeah.,yes,none
 941,"You have fever too?
-","Yes, I did.",yes,Fever/Chills
+","Yes, I did.",yes,none
 942,"What happened and how long since it started?
 ","Did you have any nausea or vomiting?
 ",none,none
@@ -8085,7 +8085,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 949,"Okay, this is between your L four and sacrum. How would you describe your right leg pain?
 ","I'd say it's intermittent and minimal now, it's not always there. 
-",none,leg pain
+",none,none
 949,"Have you ever had back surgery? 
 ","Um, yes, I've had two laminectomies, one in nineteen ninety and the other was in ninety four. Wait, I also had a discectomy some time in between. 
 ",yes,none
@@ -8227,9 +8227,9 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",Sure.,none,none
 975,"Any shortness of breath or pain in your stomach? 
 ","No. 
-",no,shortness of breath
+",no,none
 975,"Any diarrhea or vomiting? 
-",No.,no,diarrhea
+",No.,no,none
 977,"When was your fall?
 ","Um, it was on October third two thousand eight. 
 ",none,none
@@ -8275,7 +8275,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 982,"Dizziness or seizure?
 ","Nope.
-",no,dizziness
+",no,none
 982,"Any history of stroke? 
 ","No. 
 ",no,none
@@ -8387,16 +8387,16 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",I smoke about a half a pack of cigarettes a day.,none,none
 994,"Do you get wet cough or it's dry? What color sputum comes out?
 ","It is wet and green colored stuff comes out.
-",none,cough
+",none,none
 994,"Okay we will need to send it out to culture, maybe an infection.
 ","How about fever, chills, nausea, vomiting, diarrhea anything like that? Are you sleeping well?
 ",none,none
 994,"Everything is fine except some chills? I am sleeping okay.
 ","Do you need anything for cough?
-",none,Fever/Chills
+",none,none
 994,"I don't need anything for the cough. I did call yesterday and got a refill of my Keflex. Then I took two Keflex this morning and I am feeling little bit better now. 
 ","Okay then why are you crying, ma'am?
-",none,cough
+",none,none
 994,"I am just tired of feeling like ran down.
 ","I am so sorry.
 ",none,none
@@ -8529,7 +8529,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 1003,"Yeah. You don't have to worry. Are you experiencing any dizziness or lightheadedness right now? 
 ","Now that you mentioned it, I am. 
-",none,dizziness
+",none,none
 1003,"Have you ever fainted before? 
 ","I think one time. My son was there to help. 
 ",none,none
@@ -8647,7 +8647,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 1019,"Any headache? What comes out of your nose?
 ","Yes I had a little yesterday. Clear boogers.
-",yes,headache
+",yes,none
 1019,"You feel hot?
 ","No.
 ",no,none
@@ -8720,9 +8720,9 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 1030,"Are you feeling any shortness of breath or difficulty breathing?
 ","No.
-",no,shortness of breath
+",no,none
 1030,"Okay. Do you have any wheezing? 
-",No.,no,wheezing
+",No.,no,none
 1031,"Any known allergies? 
 ","No. 
 ",no,none
@@ -8738,13 +8738,13 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Nothing. 
 ",none,none
 1033,"Great. What about any phlegm or shortness of breath?
-",Nope.,no,shortness of breath
+",Nope.,no,none
 1034,"You're seventy seven, correct? 
 ","Don't remind me. 
 ",none,none
 1034,"When did you first start experiencing joint pain? 
 ","Couple years ago. 
-",none,joint pain
+",none,none
 1034,"In what ways has it worsened? 
 ","It's caused me to become less active in general. My hands and wrists aren't as mobile. 
 ",none,none
@@ -8759,7 +8759,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 1034,"Fever or chills? 
 ","I had diarrhea for a few days, but it's gotten much better. I was also having trouble holding my bladder. 
-",none,Fever/Chills
+",none,none
 1034,"Are you going to the bathroom more often, experiencing excessive thirst, or other problems?  
 ","No. My incontinence is a bit better and so is my ankle and foot swelling. 
 ",no,none
@@ -8787,13 +8787,13 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 1036,"Any fever?
 ","Yeah, nurse just took my temperature it was one hundred point three. 
-",yes,Fever/Chills
+",yes,none
 1036,"Okay. Did you have these symptoms before? 
 ","No, first time. I never felt like this before.
 ",no,none
 1036,"Okay. Any chills or shivering? 
 ","No.
-",no,Fever/Chills
+",no,none
 1036,"When was your last bowel movement? 
 ","It was yesterday. 
 ",none,none
@@ -8888,10 +8888,10 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 1046,"Any chills or high temperature? 
 ","Nope.
-",no,Fever/Chills
+",no,none
 1046,"Any excessive sweating or night sweating? 
 ","Um, no.
-",no,excessive sweating
+",no,none
 1046,"How about allergies, are you allergic to anything? 
 ","No, no allergies. 
 ",no,none
@@ -8948,7 +8948,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 1054,"I see, how long have you had this foot pain? 
 ","Um, it started hurting a lot yesterday. 
-",none,foot pain
+",none,none
 1054,"Is there any injury here? 
 ","No, it's just chronically painful, honestly. 
 ",no,none
@@ -9041,7 +9041,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","I don't feel well. Maybe a year. I can't sleep or eat. 
 ",none,none
 1067,"Have you had a fever, chills, vomiting or diarrhea? 
-",I think I have a fever. I feel chilled. I have had some diarrhea.,none,Fever/Chills
+",I think I have a fever. I feel chilled. I have had some diarrhea.,none,none
 1068,"I'm so sorry to hear about the loss of your husband. I can't imagine how difficult that must've been. I'm glad that you sought the care that you needed to feel better at that time. Did this happen when you were living in the United States or Korea?
 ","This all happened when I was living in Korea. I'm grateful that I had my family and friends to support me.
 ",none,none
@@ -9114,7 +9114,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",yes,none
 1072,"Are you experiencing any numbness or loss of strength in the area? 
 ","No. 
-",no,numbness
+",no,none
 1072,"Do you have any other injuries on any other part of your body? 
 ","No. 
 ",no,none
@@ -9230,7 +9230,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 1081,"Did you experience any shortness of breath, itching, or hives? 
 ","No, surprisingly. 
-",no,shortness of breath
+",no,none
 1081,"And no tongue swelling or trouble swallowing? 
 ","No. 
 ",no,none
@@ -9257,10 +9257,10 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",no,none
 1087,"Have you been producing any mucus the times that you do cough?
 ","No, I already said I didn't cough. 
-",no,cough
+",no,none
 1087,"Okay. Any fevers or chills?
 ","Nothing so far. 
-",none,Fever/Chills
+",none,none
 1087,"Do you have any other symptoms currently? 
 ","I do notice that I am more tired than usual. 
 ",none,none
@@ -9431,7 +9431,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 1097,"That numbness and tingling you feel in the thigh, do you feel that in the knee at all?
 ","Actually yes, it feels like pins and needles there.
-",yes,numbness
+",yes,none
 1097,"What about this, when I touch the knee do you feel any abnormal discomfort or pain over the rest of the knee?
 ","No, nothing out of the ordinary there. 
 ",no,none
@@ -9588,7 +9588,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Yes, a lot.",yes,none
 1106,"It looks normal and well hydrated. Any excessive sweating? 
 ","No, not really.
-",no,excessive sweating
+",no,none
 1106,"I don't see any injury or wounds. 
 ","Yeah. 
 ",yes,none
@@ -9810,7 +9810,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Okay. 
 ",none,none
 1130,"If you develop a fever greater than one hundred and one point four, chills, nausea, vomiting, or continuing diarrhea please call the office. Also if your incision site becomes red, warm to the touch or has any drainage, call the office. 
-",Okay.,none,Fever/Chills
+",Okay.,none,none
 1131,"Because this is more allergic.
 ","Okay.
 ",none,none
@@ -9862,7 +9862,7 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ","Yes, I had my appendix out.",yes,none
 1138,"Was this the first time that you had feelings for fatigue and depression? 
 ","No. I have always had a little sadness or depressed time in my life but it had been manageable before all the work stress started happening. 
-",no,fatigue
+",no,none
 1138,"How are you feeling these days? 
 ","I get somewhat sad from time to time but I don't dwell on things anymore. 
 ",none,none
@@ -10055,10 +10055,10 @@ encounter_id,doctor_q,patient_a,answer_type,kb_concept
 ",none,none
 1156,"Do you have a headache, nausea, or blurry vision? 
 ","No. 
-",no,headache
+",no,none
 1156,"And no chest or abdominal pain? 
 ","No. 
-",no,abdominal pain
+",no,none
 1156,"Were there any weapons like knives or guns used during the fight? 
 ",No.,no,none
 1157,"Does your family have a history of any health related problems? 
@@ -10088,7 +10088,7 @@ Guest_family. Hello. I'm his wife.
 ",yes,none
 1158,"How about chest pain or shortness of breath?
 ","No chest pain, but I am gradually feeling short of breath.
-",no,shortness of breath
+",no,none
 1158,"What work you do?
 ","I work for the city of Wichita as bus dispatcher. My work demands sitting a lot, and just really does not move around much.  But towards the end of the day my leg swells up.
 ",none,none
@@ -10206,7 +10206,7 @@ Guest_family. Hello. I'm his wife.
 ",no,none
 1173,"Do you ever experience any weakness or numbness throughout or localized to an area of the body. 
 ","No. 
-",no,numbness
+",no,none
 1173,"Have you had any resent weight loss?
 ",No.,no,none
 1176,"Great, you're seventy eight years old, correct?  
@@ -10217,7 +10217,7 @@ Guest_family. Hello. I'm his wife.
 ",none,none
 1176,"Are you having numbness sir? 
 ","Yes, and I can't move it very well, either. 
-",yes,numbness
+",yes,none
 1176,"Which fingers are you having these symptoms in? 
 ","Well, I told you it's all in the right hand, but it's in the index and middle fingers. 
 ",none,none
@@ -10262,7 +10262,7 @@ Guest_family. Hello. I'm his wife.
 ","Yes, I will.
 ",yes,none
 1178,"That will help your right side hip pain.
-",I think so too.,none,hip pain
+",I think so too.,none,none
 1180,"It looks like we are following up on your severe osteoarthritis in both knees. And you also have been experiencing some flexion contracture limitations. 
 ","Um hum.
 ",none,none
@@ -10361,15 +10361,15 @@ Guest_family. Hello. I'm his wife.
 ",no,none
 1185,"What about any cold or flu symptoms? Any fever or chills?  
 ","No, that's all fine too. 
-",no,Fever/Chills
+",no,none
 1185,"Any new aches or pains? 
 ","No, all my muscles feel pretty good. 
 ",no,none
 1185,"Have you had a cough, or coughed up any blood. 
 ","That's a negative, doctor. 
-",none,cough
+",none,none
 1185,"What about shortness of breath while at rest or difficulty breathing with exercise? 
-","No, that's normal too. I'm breathing just fine.",no,shortness of breath
+","No, that's normal too. I'm breathing just fine.",no,none
 1186,"Do you remember what her age was?
 ","Yeah, she was forty.
 ",yes,none
@@ -10378,7 +10378,7 @@ Guest_family. Hello. I'm his wife.
 ",none,none
 1187,"No nausea and vomiting or black stool? Did you notice any blood in your stools? 
 ","Nope, nothing like that.
-",no,nausea and vomiting
+",no,none
 1187,"Did you notice any blood in urine or painful urination?
 ","No.
 ",no,none
@@ -10387,7 +10387,7 @@ Guest_family. Hello. I'm his wife.
 ",no,none
 1187,"Any shortness of breath, cough or cold like symptoms?
 ","Nope.
-",no,cough
+",no,none
 1187,"No diabetes or thyroid problem, right?
 ","Absolutely not!
 ",none,none
@@ -10411,7 +10411,7 @@ Guest_family. Hello. I'm his wife.
 ",yes,none
 1188,"Do you feel any tingling or numbness or any kind of cramps? 
 ","Nope. 
-",no,numbness
+",no,none
 1188,"Any kind of blurry vision? 
 ","Nope. 
 ",no,none
@@ -10424,7 +10424,7 @@ Guest_family. Hello. I'm his wife.
 ","I have this leg pain on my left side. 
 ",none,none
 1191,"Hm, left leg pain?
-",Yeah.,yes,leg pain
+",Yeah.,yes,none
 1193,"Nope. Are you planning on quitting?
 ","No, I just smoke one pack per day, it's not bad.
 ",no,none

@@ -1,34 +1,38 @@
 [{
     "emote": "apology",
     "phrase": [
-        "sorry", 
-        "apologize", 
-        "apologies", 
-        "i regret"
+        "I am sorry for asking this, but ",
+        "I apologise if this is personal; ",
+        "I am sorry for asking if it sounds personal but may I know "
     ]
 }, 
 {
     "emote": "empathy",
     "phrase": [
-        "that must be hard", 
-        "i understand", 
-        "that's unfortunate", 
-        "i'm sorry to hear", 
-        "sounds difficult", 
-        "that’s worrisome"
+        "That’s worrisome.",
+        "That's concerning.",
+        "That sounds difficult." ,
+        "I'm sorry to hear that." ,
+        "I'm sorry this is happening right now.",
+        "I understand.",
+        "That must be hard.",
+        "That's unfortunate." ,
+        "Okay, I'm sorry to hear that." 
+
     ]
 }, 
 {
     "emote": "affirmative",
     "phrase": [
-        "thanks", 
-        "okay", 
-        "got it", 
-        "understood", 
-        "sure", 
-        "great", 
-        "noted", 
-        "i see"
+        "Noted." ,
+        "I see." ,
+        "Got it." ,
+        "Thanks for the information." ,
+        "Okay." ,
+        "Understood." ,
+        "Thank you for letting me know." ,
+        "I understand." ,
+        "Alright." 
     ]
 }
 ]

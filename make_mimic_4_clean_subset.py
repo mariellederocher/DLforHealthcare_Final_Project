@@ -28,7 +28,7 @@ merged = pd.merge(merged, icd_desc, on="icd_code", how="left")
 merged = merged[["subject_id", "hadm_id", "icd_code", "long_title", "text"]]
 
 # Make subset
-merged_subset = merged.sample(n=1000, random_state=42).reset_index(drop=True)
+merged_subset = merged.sample(n=100000).reset_index(drop=True)
 
 import re
 
