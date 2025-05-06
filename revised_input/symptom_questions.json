@@ -245,78 +245,53 @@
   "night sweats": [
     "Are you experiencing night sweats?",
     "Have you been experiencing any night sweats recently?",
-    "Do you have any night sweats?",
-    "Has your night sweats gotten better or worse recently?",
-    "When did your night sweats start?"
+    "Do you have any night sweats?"
   ],
   "nipple discharge": [
     "Have you been experiencing any nipple discharge recently?",
-    "When did your nipple discharge start?",
-    "Has your nipple discharge gotten better or worse recently?",
     "Are you experiencing nipple discharge?",
     "Do you have any nipple discharge?"
   ],
   "nosebleeds": [
     "Have you been experiencing any nosebleeds recently?",
-    "Has your nosebleeds gotten better or worse recently?",
     "Are you experiencing nosebleeds?",
-    "When did your nosebleeds start?",
     "Do you have any nosebleeds?"
   ],
   "numbness": [
-    "When did your numbness start?",
     "Do you have any numbness?",
     "Are you experiencing numbness?",
-    "Has your numbness gotten better or worse recently?",
     "Have you been experiencing any numbness recently?"
   ],
   "painful urination": [
     "Are you experiencing painful urination?",
-    "When did your painful urination start?",
-    "Has your painful urination gotten better or worse recently?",
     "Have you been experiencing any painful urination recently?",
     "Do you have any painful urination?"
   ],
   "peeling skin": [
-    "Has your peeling skin gotten better or worse recently?",
     "Do you have any peeling skin?",
     "Have you been experiencing any peeling skin recently?",
-    "When did your peeling skin start?",
     "Are you experiencing peeling skin?"
   ],
   "pelvic pain": [
     "Do you have any pelvic pain?",
-    "Has your pelvic pain gotten better or worse recently?",
     "Are you experiencing pelvic pain?",
-    "When did your pelvic pain start?",
     "Have you been experiencing any pelvic pain recently?"
   ],
   "rectal bleeding": [
     "Do you have any rectal bleeding?",
-    "Has your rectal bleeding gotten better or worse recently?",
-    "When did your rectal bleeding start?",
     "Are you experiencing rectal bleeding?",
     "Have you been experiencing any rectal bleeding recently?"
   ],
   "red eye": [
-    "Have you been experiencing any red eye recently?",
-    "Are you experiencing red eye?",
-    "Has your red eye gotten better or worse recently?",
-    "Do you have any red eye?",
-    "When did your red eye start?"
+    "Have you noticed that your eye has been red or bloodshot?"
   ],
   "runny nose": [
-    "Do you have any runny nose?",
-    "Has your runny nose gotten better or worse recently?",
-    "When did your runny nose start?",
-    "Have you been experiencing any runny nose recently?",
-    "Are you experiencing runny nose?"
+    "Do you have a runny nose?",
+    "Have you been experiencing a runny nose recently?"
   ],
   "shortness of breath": [
     "Are you experiencing shortness of breath?",
-    "Has your shortness of breath gotten better or worse recently?",
     "Have you been experiencing any shortness of breath recently?",
-    "When did your shortness of breath start?",
     "Do you have any shortness of breath?"
   ],
   "shoulder pain": [

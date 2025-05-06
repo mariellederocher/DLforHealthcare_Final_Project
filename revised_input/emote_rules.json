@@ -1,14 +1,10 @@
-[{
-    "emote": "apology",
-    "phrase": [
-        "I am sorry for asking this, but ",
-        "I apologise if this is personal; ",
-        "I am sorry for asking if it sounds personal but may I know "
-    ]
-}, 
 {
-    "emote": "empathy",
-    "phrase": [
+    "apologetic": [
+        "I am sorry for asking this, but",
+        "I apologise if this is personal;",
+        "I am sorry for asking if it sounds personal but may I know"
+    ],
+    "empathetic": [
         "That’s worrisome.",
         "That's concerning.",
         "That sounds difficult." ,
@@ -19,11 +15,8 @@
         "That's unfortunate." ,
         "Okay, I'm sorry to hear that." 
 
-    ]
-}, 
-{
-    "emote": "affirmative",
-    "phrase": [
+    ],
+    "affirmative": [
         "Noted." ,
         "I see." ,
         "Got it." ,
@@ -35,4 +28,4 @@
         "Alright." 
     ]
 }
-]
+

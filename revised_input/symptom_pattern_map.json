@@ -354,6 +354,25 @@
     "frequent bruising"
   ],
   "memory loss": [
-    "memory loss"
+    "memory loss",
+    "forgetful"
+  ],
+  "congestion": [
+    "congestion",
+    "runny nose",
+    "nose running",
+    "mucus",
+    "snot",
+    "nasal drip"
+  ],
+  "asthma" : [
+    "ashthma"
+  ],
+  "smoking" : [
+    "smoke",
+    "smoking"
+  ],
+  "sinus pain" : [
+    "sinus"
   ]
 }

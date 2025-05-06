@@ -1,0 +1,97 @@
+Chatbot: Hello, I'm going to ask you some questions about your symptoms.
+Chatbot: Any headaches or nausea?
+You: yes
+Chatbot: Any fever or chills?
+You: no
+Chatbot: Any nausea or vomiting?
+You: no
+Chatbot: Any shortness of breath?
+You: yes
+Chatbot: Do you have any cough or cold?
+You: yes
+Chatbot: Any back pain?
+You: no
+Chatbot: Do you have any insomnia?
+You: yes
+Chatbot: Any abdominal pain?
+You: no
+chills
+Chatbot: Any chills or chills?
+You: no
+Chatbot: Any numbness or tingling?
+You: yes
+Chatbot: Thank you for your time.
+
+
+
+Chatbot: Hello, I'm going to ask you some questions about your symptoms.
+Chatbot: Do you feel any fatigue or fatigue?
+You: yes
+Chatbot: Any fever or chills?
+You: no
+Chatbot: Any nausea or vomiting?
+You: yes
+Chatbot: Any shortness of breath?
+You: yes
+Chatbot: Any abdominal pain?
+You: no
+Chatbot: Do you have any cough or cold?
+You: no
+Chatbot: Do you have any insomnia?
+You: yes
+Chatbot: Any back pain?
+You: no
+Chatbot: Any headaches or nausea?
+You: no
+Chatbot: Any chills or chills?
+You: yes
+Chatbot: Thank you for your time.
+
+
+Chatbot: Hello, I'm going to ask you some questions about your symptoms.
+Chatbot: Any blood clots?
+You: No
+Chatbot: Any fever or chills?
+You: No
+Chatbot: Any nausea or vomiting?
+You: No
+Chatbot: Any shortness of breath?
+You: no
+Chatbot: Do you have any insomnia?
+You: no
+Chatbot: Any back pain?
+You: yes
+Chatbot: Any abdominal pain?
+You: yes
+Chatbot: Do you have any cough or cold?
+You: yes
+Chatbot: Any headaches or nausea?
+You: no
+Chatbot: Any numbness or tingling?
+You: yes
+Chatbot: Thank you for your time.
+
+
+Chatbot: Hello, I'm going to ask you some questions about your symptoms.
+Chatbot: Any headaches or nausea?
+You: no
+Chatbot: Do you have any fever or chills?
+You: no
+Chatbot: Any shortness of breath or shortness of breath?
+You: yes
+Chatbot: Any nausea or vomiting?
+You: no
+Chatbot: Do you have any cough or cold?
+You: no
+Chatbot: Do you have any sleep problems?
+You: yes
+Chatbot: Any back pain?
+You: no
+Chatbot: Any abdominal pain?
+You: yes
+Chatbot: Any chills or chills?
+You: no
+Chatbot: Any numbness or tingling?
+You: yes
+Chatbot: Thank you for your time.
+
