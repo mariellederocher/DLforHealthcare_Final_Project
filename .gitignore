@@ -1,7 +1,6 @@
-.venv
-key.json
-PyHealth
-defunct
-output\mimiciv_subset_cleaned.csv
+.gitignore
+defunct/
 mimiciv_subset_cleaned.csv
 output/mimiciv_subset_cleaned.csv
+.vs/
+__pycache__/

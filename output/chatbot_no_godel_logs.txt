@@ -1,0 +1,68 @@
+Chatbot: Hello, I'm going to ask you some yes or no questions about your symptoms.
+Chatbot: Do you have any eye pain?
+You: yes
+Chatbot: I see. Have you experienced any nausea lately?
+You: no
+Chatbot: I understand. Have you had a fever recently?
+You: yes
+Chatbot: Do you have chills?
+You: no
+Chatbot: Do you have any abdominal pain?
+You: np
+Chatbot: Do you have any arm pain?
+You: yes
+Chatbot: I am sorry for asking this, but have you been experiencing any ankle pain recently?
+You: yes
+Chatbot: Thank you for letting me know. Have you been having diarrhea?
+You: no
+Chatbot: I am sorry for asking if it sounds personal but may I know have you been experiencing any back pain recently?
+You: yes
+Chatbot: Okay. Do you experience frequent eye twitching?
+You: yes
+Chatbot: Thank you for your time.
+
+Chatbot: Hello, I'm going to ask you some yes or no questions about your symptoms.
+Chatbot: Are you experiencing night sweats?
+You: y
+Chatbot: Got it. are you feeling nauseous?
+You: n
+Chatbot: I apologise if this is personal; have you had a fever recently?
+You: n
+Chatbot: I apologise if this is personal; have you been experiencing insomnia?
+You: n
+Chatbot: Have you been experiencing any rectal bleeding recently?
+You: n
+Chatbot: Do you have a cough?
+You: y
+Chatbot: Noted. have you been experiencing insomnia?
+You: y
+Chatbot: Have you vomited recently?
+You: y
+Chatbot: Alright. have you had any swelling or discomfort around your ankle joints?
+You: n
+Chatbot: That sounds difficult. are you experiencing leg pain?
+You: y
+Chatbot: Thank you for your time.
+
+Chatbot: Hello, I'm going to ask you some yes or no questions about your symptoms.
+Chatbot: Have you been having diarrhea?
+You: n
+Chatbot: Have you had a fever recently?
+You: y
+Chatbot: Understood. do you have chills?
+You: y
+Chatbot: I apologise if this is personal; are you coughing a lot?
+You: y
+Chatbot: Have you noticed any aches or cramps in your abdomen?
+You: n
+Chatbot: Are you experiencing a headache?
+You: y
+Chatbot: Noted. are you feeling nauseous?
+You: y
+Chatbot: I am sorry for asking this, but are you experiencing numbness?
+You: n 
+Chatbot: Have you been treated for blood clots?
+You: n
+Chatbot: Are you experiencing groin pain?
+You: n
+Chatbot: Thank you for your time.
