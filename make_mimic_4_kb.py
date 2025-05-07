@@ -1,5 +1,4 @@
-# Due to its size, the mimic_subset_cleaned.csv file has been compressed into mimic_subset_cleaned.zip 
-# in the \outputs folder - it needs to be unzipped before using this script. 
+# Due to its size, the mimic_subset_cleaned.csv file has to be generated using the make_mimic_4_clean_subset.py before this script can be used
 
 import pandas as pd
 import re
