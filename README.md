@@ -7,7 +7,9 @@ This repository contains our reproduction of the MEDCOD dialogue system from the
 We were unable to access the datasets or proprietary modules used in the original paper. As a result, we focused on recreating the system’s structure and training pipeline using alternative resources. Our reproduction includes dataset construction, symptom-finding mapping, emotion tagging, and training a neural language generator. We implemented a simplified symptom selection logic based on co-occurrence statistics from MIMIC-IV notes, and a chatbot trained using the MTS-Dialog dialogue dataset.
 
 Original Paper: https://arxiv.org/pdf/2111.09381 
+
 MEDCOD Code Repository: https://github.com/curai/curai-research/tree/main/MEDCOD
+
 MTS-Dialog Repository: https://github.com/abachaa/MTS-Dialog
 
 ## Pretrained Models From HuggingFace
@@ -44,7 +46,6 @@ Files in the `output/` folder are produced directly from our scripts without any
 
 # Citations
 
-```
 Ben Abacha, A.; Yim, W.; Fan, Y.; and Lin, T. 2023. An Empirical Study of Clinical Note Generation from Doctor-Patient Encounters. In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, 2291–2302. Dubrovnik, Croatia: Association for Computational Linguistics.
 
 Compton, R.; Valmianski, I.; Deng, L.; Huang, C.; Katariya, N.; Amatriain, X.; and Kannan, A. 2021. MEDCOD: A Medically-Accurate, Emotive, Diverse, and Controllable Dialog System. In Roy, S.; Pfohl, S.; Rocheteau, E.; Tadesse, G. A.; Oala, L.; Falck, F.; Zhou, Y.; Shen, L.; Zamzmi, G.; Mugambi, P.; Zirikly, A.; McDermott, M. B. A.; and Alsentzer, E., eds., Proceedings of Machine Learning for Health, volume 158 of Proceedings of Machine Learning Research, 110–129. PMLR.
@@ -62,5 +63,5 @@ Mayo Clinic. Mayo Clinic Health System.
 Peng, B.; Galley, M.; He, P.; Brockett, C.; Liden, L.; Nouri, E.; Yu, Z.; Dolan, B.; and Gao, J. 2022. GODEL: Large-Scale Pre-training for Goal-Directed Dialog. arXiv. 
 
 Zhang, Y.; Sun, S.; Galley, M.; Chen, Y. C.; Brockett, C.; Gao, X.; Gao, J.; Liu, J.; and Dolan, B. 2020. DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation. In ACL, system demonstration.
-```
+
 
